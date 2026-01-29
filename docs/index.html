@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>name-stuff - Cultural Name Lists</title>
+  <style>
+    :root {
+      --bg: #1a1a2e;
+      --surface: #16213e;
+      --primary: #e94560;
+      --text: #eee;
+      --muted: #888;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: system-ui, -apple-system, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 2rem;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    h1 { color: var(--primary); margin-bottom: 0.5rem; }
+    .tagline { color: var(--muted); margin-bottom: 2rem; }
+    .controls {
+      background: var(--surface);
+      padding: 1.5rem;
+      border-radius: 8px;
+      margin-bottom: 2rem;
+    }
+    .row { display: flex; gap: 1rem; flex-wrap: wrap; margin-bottom: 1rem; }
+    .row:last-child { margin-bottom: 0; }
+    label { display: block; color: var(--muted); font-size: 0.85rem; margin-bottom: 0.25rem; }
+    select, button {
+      padding: 0.5rem 1rem;
+      border-radius: 4px;
+      border: 1px solid #333;
+      background: var(--bg);
+      color: var(--text);
+      font-size: 1rem;
+    }
+    select { min-width: 150px; }
+    button {
+      background: var(--primary);
+      border-color: var(--primary);
+      cursor: pointer;
+      font-weight: 600;
+    }
+    button:hover { opacity: 0.9; }
+    .checkbox-row { display: flex; align-items: center; gap: 0.5rem; }
+    .checkbox-row input { width: 18px; height: 18px; }
+    .output {
+      background: var(--surface);
+      padding: 1.5rem;
+      border-radius: 8px;
+      margin-bottom: 2rem;
+    }
+    .url-box {
+      background: var(--bg);
+      padding: 0.75rem 1rem;
+      border-radius: 4px;
+      font-family: monospace;
+      font-size: 0.9rem;
+      word-break: break-all;
+      margin-bottom: 1rem;
+    }
+    .preview {
+      max-height: 300px;
+      overflow-y: auto;
+      background: var(--bg);
+      padding: 1rem;
+      border-radius: 4px;
+      font-family: monospace;
+      font-size: 0.85rem;
+      white-space: pre-wrap;
+    }
+    .info { color: var(--muted); font-size: 0.9rem; }
+    a { color: var(--primary); }
+    footer { margin-top: 3rem; color: var(--muted); font-size: 0.85rem; text-align: center; }
+  </style>
+</head>
+<body>
+  <h1>name-stuff</h1>
+  <p class="tagline">Culture-significant name lists for games, apps, and creative projects</p>
+
+  <div class="controls">
+    <div class="row">
+      <div>
+        <label for="culture">Culture</label>
+        <select id="culture"></select>
+      </div>
+      <div>
+        <label for="type">Type</label>
+        <select id="type">
+          <option value="given">Given Names</option>
+          <option value="family">Family Names</option>
+        </select>
+      </div>
+      <div>
+        <label for="tier">Size</label>
+        <select id="tier">
+          <option value="sm">Small (~100)</option>
+          <option value="lg">Large (~1/3)</option>
+          <option value="xl">Full List</option>
+        </select>
+      </div>
+    </div>
+    <div class="row">
+      <div class="checkbox-row">
+        <input type="checkbox" id="raw">
+        <label for="raw" style="margin-bottom: 0;">Raw (names only)</label>
+      </div>
+      <div class="checkbox-row">
+        <input type="checkbox" id="ascii">
+        <label for="ascii" style="margin-bottom: 0;">ASCII only</label>
+      </div>
+    </div>
+  </div>
+
+  <div class="output">
+    <label>Download URL</label>
+    <div class="url-box" id="url"></div>
+    <div class="row">
+      <button onclick="copyUrl()">Copy URL</button>
+      <button onclick="downloadFile()">Download</button>
+      <button onclick="previewFile()">Preview</button>
+    </div>
+    <div id="preview-container" style="margin-top: 1rem; display: none;">
+      <label>Preview (first 50 lines)</label>
+      <div class="preview" id="preview"></div>
+    </div>
+  </div>
+
+  <div class="info">
+    <p><strong>Usage:</strong> Fetch the URL directly in your app, or download for local use.</p>
+    <p style="margin-top: 0.5rem;">
+      <a href="https://github.com/JohnCrafton/name-stuff">GitHub Repository</a> |
+      <a href="https://github.com/JohnCrafton/name-stuff/blob/main/README.md">Documentation</a> |
+      <a href="https://raw.githubusercontent.com/JohnCrafton/name-stuff/main/manifest.json">manifest.json</a>
+    </p>
+  </div>
+
+  <footer>
+    <p>Licensed under CC-BY-NC-SA 4.0</p>
+  </footer>
+
+  <script>
+    const BASE = 'https://raw.githubusercontent.com/JohnCrafton/name-stuff/main';
+    const cultures = {
+      en: 'English', de: 'German', es: 'Spanish', fr: 'French', it: 'Italian',
+      pt: 'Portuguese', nl: 'Dutch', pl: 'Polish', ru: 'Russian',
+      nordic: 'Nordic', baltic: 'Baltic', slavic: 'Slavic', greek: 'Greek',
+      albanian: 'Albanian', caucasus: 'Caucasus', turkic: 'Turkic',
+      arab: 'Arabic', hebrew: 'Hebrew', chinese: 'Chinese', indian: 'Indian',
+      japanese: 'Japanese', korean: 'Korean', vietnamese: 'Vietnamese'
+    };
+
+    const cultureSelect = document.getElementById('culture');
+    Object.entries(cultures).forEach(([code, name]) => {
+      const opt = document.createElement('option');
+      opt.value = code;
+      opt.textContent = `${name} (${code})`;
+      cultureSelect.appendChild(opt);
+    });
+
+    function buildUrl() {
+      const culture = document.getElementById('culture').value;
+      const type = document.getElementById('type').value;
+      const tier = document.getElementById('tier').value;
+      const raw = document.getElementById('raw').checked;
+      const ascii = document.getElementById('ascii').checked;
+
+      let suffix = '';
+      if (raw) suffix += '_raw';
+      if (ascii) suffix += '_ascii';
+
+      return `${BASE}/lists/${culture}/${type}_${tier}${suffix}.txt`;
+    }
+
+    function updateUrl() {
+      document.getElementById('url').textContent = buildUrl();
+      document.getElementById('preview-container').style.display = 'none';
+    }
+
+    function copyUrl() {
+      navigator.clipboard.writeText(buildUrl());
+    }
+
+    function downloadFile() {
+      window.open(buildUrl(), '_blank');
+    }
+
+    async function previewFile() {
+      const url = buildUrl();
+      try {
+        const res = await fetch(url);
+        if (!res.ok) throw new Error('Not found');
+        const text = await res.text();
+        const lines = text.split('\n').slice(0, 50).join('\n');
+        document.getElementById('preview').textContent = lines;
+        document.getElementById('preview-container').style.display = 'block';
+      } catch (e) {
+        document.getElementById('preview').textContent = 'Error loading file. This combination may not be available.';
+        document.getElementById('preview-container').style.display = 'block';
+      }
+    }
+
+    // Event listeners
+    ['culture', 'type', 'tier', 'raw', 'ascii'].forEach(id => {
+      document.getElementById(id).addEventListener('change', updateUrl);
+    });
+
+    // Initialize
+    updateUrl();
+  </script>
+</body>
+</html>

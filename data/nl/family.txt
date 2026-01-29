@@ -1,0 +1,32 @@
+# name-stuff family names for culture: nl
+# format: name|frequency|tags
+# frequency: 1-13 (higher = more common)
+# source: popular-names-by-country-dataset (CC0)
+#
+Bakker|11|
+Bos|10|
+Brouwer|9|
+De Boer|10|
+De Graaf|8|
+De Groot|10|
+De Jong|13|
+De Vries|13|
+De Wit|8|
+Dekker|9|
+Dijkstra|8|
+Hendriks|9|
+Jansen|13|
+Janssen|11|
+Meijer|11|
+Meyer|11|
+Mulder|10|
+Peters|9|
+Smit|11|
+Smits|8|
+Van den Berg|12|
+Van der Meer|8|
+Van Dijk|12|
+Van Dyk|12|
+Van Leeuwen|9|
+Visser|11|
+Vos|10|

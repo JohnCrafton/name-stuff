@@ -1,0 +1,25 @@
+# name-stuff family names for culture: pl
+# format: name|frequency|tags
+# frequency: 1-13 (higher = more common)
+# source: popular-names-by-country-dataset (CC0)
+#
+Dąbrowski|10|
+Grabowski|9|
+Jankowski|10|
+Kaczmarek|9|
+Kamiński|11|
+Kowalczyk|12|
+Kowalski|13|
+Kozłowski|10|
+Krawczyk|9|
+Kwiatkowski|10|
+Lewandowski|11|
+Mazur|10|
+Nowak|13|
+Piotrowski|9|
+Szymański|11|
+Wiśniewski|13|
+Wojciechowski|9|
+Woźniak|11|
+Wójcik|12|
+Zieliński|11|

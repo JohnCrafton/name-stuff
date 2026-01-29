@@ -1,0 +1,6 @@
+# Community-Reviewed Name Omissions
+# Format: NAME|category
+#
+# This file is intentionally minimal. Additions require community discussion.
+# See README.md in this directory for guidelines.
+#

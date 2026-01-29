@@ -1,0 +1,10 @@
+# name-stuff family names
+# format: name|frequency|tags
+#
+Aivaliotis|13|13|13
+Kontos|13|13|13
+Koufos|13|13|13
+Kritikos|13|13|13
+Mytaras|13|13|13
+Papoutsis|13|13|13
+Samaras|13|13|13

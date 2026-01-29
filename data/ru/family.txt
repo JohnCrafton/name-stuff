@@ -1,0 +1,55 @@
+# name-stuff family names for culture: ru
+# format: name|frequency|tags
+# frequency: 1-13 (higher = more common)
+# source: popular-names-by-country-dataset (CC0)
+#
+Bogdanov|9|
+Bondar|10|
+Bondarenko|12|
+Boyko|13|
+Golubev|9|
+Ivanov|13|
+Ivanoŭ|13|
+Kavalioŭ|13|
+Kazloŭ|13|
+Kazloŭski|12|
+Koval|10|
+Kovalchuk|11|
+Kovalenko|12|
+Kozlov|11|
+Kravchenko|11|
+Kuznetsov|13|
+Lebedev|11|
+Lysenko|9|
+Marchenko|9|
+Melnyk|13|
+Moroz|10|
+Morozov|11|
+Novik|12|
+Novikov|11|
+Pavlov|10|
+Petrenko|9|
+Petrov|11|
+Polishchuk|10|
+Popov|12|
+Rudenko|9|
+Savchenko|9|
+Semyonov|9|
+Shevchenko|13|
+Shevchuk|11|
+Smirnov|13|
+Sokolov|12|
+Solovyov|10|
+Tkachenko|11|
+Tkachuk|10|
+Vasilyev|10|
+Vinogradov|9|
+Volkov|10|
+Vorobyov|9|
+Yakovenko|11|
+Zaytsev|10|
+Кавалёў|13|
+Казлоў|13|
+Казлоўскі|12|
+Новік|12|
+Іваноў|13|

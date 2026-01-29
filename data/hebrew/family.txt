@@ -1,0 +1,47 @@
+# name-stuff family names for culture: hebrew
+# format: name|frequency|tags
+# frequency: 1-13 (higher = more common)
+# source: popular-names-by-country-dataset (CC0)
+#
+Adary|9|
+Adrei|9|
+Amar|10|
+Ashkenazi|8|
+Avraham|11|
+Azoulay|11|
+Ben-David|9|
+Biton|12|
+Chadad|9|
+Chazan|8|
+Chen|8|
+Cohen|13|
+Dahan|11|
+David|10|
+Edri|9|
+Edry|9|
+Friedman|11|
+Gabai|9|
+Golan|8|
+Hadad|9|
+Hazan|8|
+Katz|10|
+Khen|8|
+Klein|8|
+Levi|13|
+Levin|9|
+Levy|13|
+Malcah|11|
+Malka|11|
+Mizrachi|13|
+Mizrahi|13|
+Moshe|8|
+Ochion|10|
+Ohana|8|
+Ohayon|10|
+Omer|10|
+Peretz|12|
+Segal|8|
+Segel|8|
+Shapira|8|
+Tal|8|
+Yosef|10|

@@ -1,0 +1,89 @@
+# name-stuff family names for culture: indian
+# format: name|frequency|tags
+# frequency: 1-13 (higher = more common)
+# source: popular-names-by-country-dataset (CC0)
+#
+Ahamed|9|
+Ahmed|11|
+Akter|13|
+Ali|12|
+Amarasinghe|8|
+Bandara|12|
+Bishwakarma|10|
+Chathuranga|8|
+Chaudhary|13|
+Chetry|10|
+Chhetri|10|
+Chowdhury|13|
+de Silva|13|
+Devi|13|
+Dias|8|
+Dissanayake|11|
+Edirisinghe|7|
+Ekanayake|8|
+Fernando|13|
+Fonseka|7|
+Gamage|11|
+Gunasekara|8|
+Gunawardana|6|
+Gunawardena|6|
+Gurung|13|
+Herath|10|
+Hettiarachchi|9|
+Hossain|12|
+Islam|13|
+Jayasekara|6|
+Jayasinghe|11|
+Jayasuriya|6|
+Jayawardana|6|
+Jayawardena|7|
+Jayaweera|6|
+Karunaratne|6|
+Khatun|13|
+Kumar|13|
+Kumara|12|
+Lakmal|7|
+Lama|11|
+Liyanage|11|
+Madusanka|6|
+Magar|11|
+Maharjan|9|
+Mendis|8|
+Mohamed|11|
+Munasinghe|7|
+Nanayakkara|9|
+Nepali |9|
+Pariyar|9|
+Patel|11|
+Pathirana|8|
+Peiris|10|
+Perera|13|
+Pokharel|9|
+Pokhrel |9|
+Rahman|12|
+Rai|11|
+Rajapaksha|8|
+Rana|12|
+Ranasinghe|10|
+Ranaweera|6|
+Rathnayaka|7|
+Rathnayake|10|
+Ratnayake|8|
+Rodrigo|7|
+Sah |10|
+Samarasinghe|7|
+Sampath|8|
+Sanjeewa|6|
+Senanayake|7|
+Seneviratne|7|
+Shah|10|
+Sharma|12|
+Shrestha|11|
+Singh|13|
+Tamang|13|
+Thapa|12|
+Tharu|9|
+Weerasinghe|10|
+Wickramasinghe|9|
+Wijesinghe|9|
+Yadav|11|

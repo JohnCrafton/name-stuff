@@ -1,0 +1,26 @@
+# name-stuff family names
+# format: name|frequency|tags
+#
+Bui|11|11|11
+Dam|7|7|7
+Dao|9|9|9
+Doan|9|9|9
+Ha|8|8|8
+Hoa|8|8|8
+Khuc|7|7|7
+Kim|7|7|7
+Lam|8|8|8
+Le|13|13|13
+Ly|10|10|10
+Mai|8|8|8
+Ngo|10|10|10
+Phan|11|11|11
+Phi|10|10|10
+Phung|8|8|8
+Quach|7|7|7
+Thai|6|6|6
+Than|8|8|8
+Tieu|7|7|7
+To|8|8|8
+Trac|8|8|8
+Vt/Vo|11|11|11

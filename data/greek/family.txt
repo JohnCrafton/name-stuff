@@ -1,0 +1,12 @@
+# name-stuff family names for culture: greek
+# format: name|frequency|tags
+# frequency: 1-13 (higher = more common)
+# source: popular-names-by-country-dataset (CC0)
+#
+Aivaliotis|13|
+Kontos|13|
+Koufos|13|
+Kritikos|13|
+Mytaras|13|
+Papoutsis|13|
+Samaras|13|

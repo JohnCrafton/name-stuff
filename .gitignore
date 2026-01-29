@@ -1,0 +1,27 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Temp files
+*.tmp
+*.bak
+
+# Downloaded raw data (kept in sources/, committed selectively)
+*.zip
+*.xlsx
+
+# Ruby
+*.gem
+.bundle/
+
+# Python (if we add any)
+__pycache__/
+*.pyc
+.env

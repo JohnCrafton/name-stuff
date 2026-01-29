@@ -1,0 +1,55 @@
+# name-stuff family names for culture: other
+# format: name|frequency|tags
+# frequency: 1-13 (higher = more common)
+# source: popular-names-by-country-dataset (CC0)
+#
+Aguilar|7|
+Aquino|9|
+Bautista|11|
+Castillo|9|
+Castro|9|
+Corpuz|6|
+Cruz|10|
+David|6|
+de Guzman|10|
+de Leon|8|
+del Rosario|6|
+dela Cruz|13|
+delos Santos|8|
+Diaz|8|
+Dizon|6|
+Domingo|8|
+Fernandez|10|
+Flores|11|
+Francisco|9|
+Garcia|13|
+Gomez|6|
+Gonzales|11|
+Gutierrez|6|
+Hernandez|7|
+Javier|6|
+Lopez|10|
+Manalo|7|
+Martinez|8|
+Mendoza|12|
+Mercado|7|
+Miranda|6|
+Morales|7|
+Navarro|7|
+Perez|10|
+Ramirez|7|
+Ramos|12|
+Reyes|13|
+Rivera|9|
+Rodriguez|8|
+Salvador|6|
+Sanchez|8|
+Santiago|8|
+Santos|11|
+Soriano|8|
+Tan|7|
+Tolentino|7|
+Torres|8|
+Valdez|7|
+Velasco|6|
+Villanueva|11|

@@ -1,0 +1,30 @@
+# name-stuff family names
+# format: name|frequency|tags
+#
+De Jong|13|13|13
+De Vries|13|13|13
+Jansen|13|13|13
+Van den Berg|12|12|12
+Van Dijk|12|12|12
+Van Dyk|12|12|12
+Bakker|11|11|11
+Janssen|11|11|11
+Meijer|11|11|11
+Meyer|11|11|11
+Smit|11|11|11
+Visser|11|11|11
+Bos|10|10|10
+De Boer|10|10|10
+De Groot|10|10|10
+Mulder|10|10|10
+Vos|10|10|10
+Brouwer|9|9|9
+Dekker|9|9|9
+Hendriks|9|9|9
+Peters|9|9|9
+Van Leeuwen|9|9|9
+De Graaf|8|8|8
+De Wit|8|8|8
+Dijkstra|8|8|8
+Smits|8|8|8
+Van der Meer|8|8|8

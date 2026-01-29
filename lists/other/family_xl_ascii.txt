@@ -1,0 +1,53 @@
+# name-stuff family names
+# format: name|frequency|tags
+#
+Aguilar|7|7|7
+Aquino|9|9|9
+Bautista|11|11|11
+Castillo|9|9|9
+Castro|9|9|9
+Corpuz|6|6|6
+Cruz|10|10|10
+David|6|6|6
+de Guzman|10|10|10
+de Leon|8|8|8
+del Rosario|6|6|6
+dela Cruz|13|13|13
+delos Santos|8|8|8
+Diaz|8|8|8
+Dizon|6|6|6
+Domingo|8|8|8
+Fernandez|10|10|10
+Flores|11|11|11
+Francisco|9|9|9
+Garcia|13|13|13
+Gomez|6|6|6
+Gonzales|11|11|11
+Gutierrez|6|6|6
+Hernandez|7|7|7
+Javier|6|6|6
+Lopez|10|10|10
+Manalo|7|7|7
+Martinez|8|8|8
+Mendoza|12|12|12
+Mercado|7|7|7
+Miranda|6|6|6
+Morales|7|7|7
+Navarro|7|7|7
+Perez|10|10|10
+Ramirez|7|7|7
+Ramos|12|12|12
+Reyes|13|13|13
+Rivera|9|9|9
+Rodriguez|8|8|8
+Salvador|6|6|6
+Sanchez|8|8|8
+Santiago|8|8|8
+Santos|11|11|11
+Soriano|8|8|8
+Tan|7|7|7
+Tolentino|7|7|7
+Torres|8|8|8
+Valdez|7|7|7
+Velasco|6|6|6
+Villanueva|11|11|11

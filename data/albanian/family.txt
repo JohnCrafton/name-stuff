@@ -1,0 +1,50 @@
+# name-stuff family names for culture: albanian
+# format: name|frequency|tags
+# frequency: 1-13 (higher = more common)
+# source: popular-names-by-country-dataset (CC0)
+#
+Abazi|13|
+Bardhi|13|
+Begu|13|
+Bektashi|13|
+Berisha|13|
+Brahimi|13|
+Delvina|13|
+Dervishi|13|
+Dibra|13|
+Frashëri|13|
+Gashi|13|
+Gega|13|
+Gegaj|13|
+Gjika|13|
+Gjoni|13|
+Halili|13|
+Hasani|13|
+Hoxha|13|
+Hysi|13|
+Kelmendi|13|
+Kola|13|
+Kolla|13|
+Koroveshi|13|
+Krasniqi|13|
+Kristi|13|
+Kristo|13|
+Kuqi|13|
+Laçi|13|
+Leka|13|
+Luka|13|
+Marku|13|
+Mehmeti|13|
+Murati|13|
+Nikolla|13|
+Prifti|13|
+Prishtina|13|
+Përmeti|13|
+Shehu|13|
+Shkodra|13|
+Shkreli|13|
+Sinani|13|
+Thanasi|13|
+Toska|13|
+Toskaj|13|
+Çami|13|

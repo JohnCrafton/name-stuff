@@ -1,0 +1,57 @@
+# name-stuff family names for culture: caucasus
+# format: name|frequency|tags
+# frequency: 1-13 (higher = more common)
+# source: popular-names-by-country-dataset (CC0)
+#
+Abbasov|11|
+Abdullayev|11|
+Abuladze|10|
+Ahmadov|11|
+Alievi|12|
+Aliyev|13|
+Arakelyan|9|
+Avetisyan|10|
+Bairamov|9|
+Bairamovi|9|
+Beridze|13|
+Bolkvadze|11|
+Davtyan|9|
+Gelashvili|12|
+Gevorgyan|11|
+Ghazaryan|10|
+Giorgadze|11|
+Gogoladze|9|
+Grigoryan|13|
+Guliyev|12|
+Hakobyan|11|
+Harutyunyan|13|
+Hasanov|12|
+Hovhannisyan|12|
+Huseynov|13|
+Ismayilov|11|
+Jafarov|11|
+Kapanadze|13|
+Karapetyan|11|
+Khachatryan|12|
+Khutsishvili|10|
+Kvaratskhelia|10|
+Lomidze|11|
+Maisuradze|11|
+Mamedov|13|
+Mamedovi|13|
+Mammadov|13|
+Manukyan|10|
+Margaryan|9|
+Martirosyan|9|
+Mchedlishvili|9|
+Mikeladze|9|
+Mkrtchyan|10|
+Nozadze|10|
+Petrosyan|11|
+Poghosyan|10|
+Sahakyan|9|
+Sargsyan|13|
+Shengelia|10|
+Tabatadze|9|
+Tsiklauri|11|
+Vardanyan|11|

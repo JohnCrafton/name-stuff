@@ -1,0 +1,55 @@
+# name-stuff family names for culture: de
+# format: name|frequency|tags
+# frequency: 1-13 (higher = more common)
+# source: popular-names-by-country-dataset (CC0)
+#
+Aigner|7|
+Auer|8|
+Bauer|13|
+Baumann|10|
+Baumgartner|8|
+Becker|11|
+Berger|10|
+Binder|7|
+Brunner|10|
+Ebner|7|
+Eder|10|
+Egger|8|
+Fischer|12|
+Frei|10|
+Fuchs|10|
+Gerber|10|
+Gruber|13|
+Haas|7|
+Heilig|6|
+Hofer|11|
+Hoffmann|11|
+Huber|13|
+Keller|12|
+Koller|7|
+Lang|8|
+Lechner|7|
+Lehner|7|
+Leitner|10|
+Maier|9|
+Mayer|11|
+Mayr|8|
+Meier|13|
+Meyer|12|
+Moser|11|
+Müller|13|
+Pichler|11|
+Reiter|8|
+Schmid|13|
+Schmidt|13|
+Schneider|13|
+Schulz|11|
+Schuster|7|
+Schwarz|9|
+Steiner|11|
+Wagner|12|
+Wallner|7|
+Weber|12|
+Wimmer|8|
+Winkler|9|
+Wolf|7|

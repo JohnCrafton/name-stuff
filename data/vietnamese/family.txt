@@ -1,0 +1,49 @@
+# name-stuff family names for culture: vietnamese
+# format: name|frequency|tags
+# frequency: 1-13 (higher = more common)
+# source: popular-names-by-country-dataset (CC0)
+#
+Bùi|11|
+Dương|10|
+Hoa|8|
+Huỳnh/Hoàng|12|
+Hà|8|
+Hồ|10|
+Khúc|7|
+Kim|7|
+Lâm|8|
+Lê|13|
+Lý|10|
+Lưu|6|
+Lương|6|
+Mai|8|
+Mạc|7|
+Nguyễn|13|
+Ngô|10|
+Ngọ|7|
+Phan|11|
+Phí|10|
+Phùng|8|
+Phạm|12|
+Quách|7|
+Thái|6|
+Thân|8|
+Thường|7|
+Thạch|6|
+Tiêu|7|
+Triệu|7|
+Trác|8|
+Trương|9|
+Trần|13|
+Trịnh|9|
+Tô|8|
+Tạ|8|
+Tống|8|
+Từ|7|
+Vũ/Võ|11|
+Vương|9|
+Đoàn|9|
+Đàm|7|
+Đào|9|
+Đặng|11|
+Đỗ|11|

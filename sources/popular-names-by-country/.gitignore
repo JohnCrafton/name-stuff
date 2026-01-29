@@ -1,0 +1,8 @@
+# Text editors
+*~
+
+# JSON files are automatically generated
+*.json
+
+# TXT files are automatically generated
+*.txt

@@ -4,6 +4,12 @@
   "description": "Culture-significant name lists for use in games, apps, and creative projects",
   "license": "CC-BY-NC-SA-4.0",
   "repository": "https://github.com/JohnCrafton/name-stuff",
+  "usage_policy": {
+    "notice": "Fetch once and cache locally. Do not make repeated requests.",
+    "rate_limit": "Hosted on GitHub CDN - excessive requests may be blocked by GitHub.",
+    "high_volume": "For high-traffic apps, clone the repo or self-host.",
+    "documentation": "https://github.com/JohnCrafton/name-stuff#responsible-use"
+  },
   "cultures": {
     "en": {
       "name": "English",

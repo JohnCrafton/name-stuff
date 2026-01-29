@@ -30,19 +30,28 @@ https://raw.githubusercontent.com/JohnCrafton/name-stuff/main/lists/en/given_sm_
 ### DragonRuby Example
 
 ```ruby
+NAMES_URL = 'https://raw.githubusercontent.com/JohnCrafton/name-stuff/main/lists/en/given_sm_raw.txt'
+NAMES_CACHE = 'data/names_cache.txt'
+
 def fetch_names(args)
-  # On first run, fetch names from GitHub
+  # Check local cache first
+  if args.gtk.read_file(NAMES_CACHE)
+    args.state.given_names = args.gtk.read_file(NAMES_CACHE).split("\n")
+    args.state.names_loaded = true
+    return
+  end
+
+  # Fetch from network only if not cached
   unless args.state.names_loaded
-    $gtk.http_get(
-      'https://raw.githubusercontent.com/JohnCrafton/name-stuff/main/lists/en/given_sm_raw.txt',
-      :names_callback
-    )
+    args.gtk.http_get(NAMES_URL, :names_callback)
     args.state.names_loaded = :loading
   end
 end
 
 def names_callback(args, response)
   if response[:complete] && response[:http_response_code] == 200
+    # Save to local cache so we never fetch again
+    args.gtk.write_file(NAMES_CACHE, response[:response_data])
     args.state.given_names = response[:response_data].split("\n")
     args.state.names_loaded = true
   end
@@ -52,6 +61,29 @@ def random_name(args)
   args.state.given_names.sample
 end
 ```
+
+## Responsible Use
+
+This project uses GitHub's raw file hosting. Please use it responsibly:
+
+**Do:**
+- Fetch once and cache locally (as shown in the DragonRuby example above)
+- Bundle name lists with your application after initial development
+- Use the `sm` tier for most use cases (~100 names is plenty for variety)
+
+**Don't:**
+- Fetch on every app launch without caching
+- Make repeated requests in loops
+- Use this as a real-time API for high-traffic applications
+
+**For high-volume needs:**
+- Clone this repository and self-host
+- Download files and bundle with your distribution
+- Mirror to your own CDN
+
+**Rate Limits:** GitHub may throttle or block IPs that make excessive requests. Abusive usage patterns risk being banned from GitHub's CDN entirely. We cannot control GitHub's enforcement, so please fetch responsibly.
+
+**No API key required** — we trust the community to use this resource respectfully. If abuse becomes a problem, we may need to revisit this policy.
 
 ## Available Cultures
 

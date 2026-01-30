@@ -10,7 +10,7 @@ Anne|U|9|9
 Claude|M?|9|9
 Fernand|M|9|9
 François|M|9|9
-Guy|M|9|9
+Guy|M|9|mythological
 Marc|M|9|9
 Marcel|M|9|9
 Michel|M|9|9
@@ -20,7 +20,7 @@ Roger|M|9|9
 Alain|M|8|8
 Albert|M|8|8
 Aloyse|U|8|8
-Anna|F|8|mythological
+Anna|F|8|biblical,mythological
 Antoine|M|8|8
 Armand|M|8|8
 Bernard|M|8|8
@@ -31,11 +31,11 @@ Christian|M|8|8
 Christiane|F|8|8
 Christine|F|8|8
 Christophe|M|8|8
-Daniel|M|8|8
-David|M|8|8
+Daniel|M|8|biblical
+David|M|8|biblical
 Dominique|U|8|8
 Emile|M|8|8
-Eric|M|8|8
+Eric|M|8|mythological
 Fabrice|M|8|8
 Françoise|F|8|8
 Frédéric|M|8|8
@@ -47,7 +47,7 @@ Jacqueline|F|8|8
 Jacques|M|8|8
 Jan|M|8|8
 Jeanne|F|8|8
-Joseph|M|8|8
+Joseph|M|8|biblical,mythological
 Josy|F|8|8
 Josée|F|8|8
 Jozef|M|8|8

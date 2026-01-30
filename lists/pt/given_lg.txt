@@ -54,7 +54,7 @@ Aníbal|M|6|6
 Augusta|F|6|6
 Celeste|F|6|6
 Clara|F|6|6
-David|M|6|6
+David|M|6|biblical
 Domingos|M|6|6
 Filipa|F|6|6
 Fátima|F|6|6
@@ -71,14 +71,14 @@ Marta|F|6|6
 Ricardo|M|6|6
 Rita|F|6|6
 Rogério|M|6|6
-Sara|F|6|6
+Sara|F|6|biblical
 Sofia|F|6|6
 Susana|F|6|6
 Sérgio|M|6|6
 Tiago|M|6|6
 Vasco|M|6|6
 Virgínia|F|6|6
-Abel|M|5|5
+Abel|M|5|biblical
 Abílio|M|5|5
 Adriano|M|5|5
 Albertina|F|5|5
@@ -100,7 +100,7 @@ Cecília|F|5|5
 Cláudia|F|5|5
 Cândida|F|5|5
 César|M|5|5
-Daniel|M|5|5
+Daniel|M|5|biblical
 Deolinda|F|5|5
 Diogo|M|5|5
 Eduarda|F|5|5
@@ -230,7 +230,7 @@ Margarido|M|4|4
 Maria de Fátima|F|4|4
 Maria de Lurdes|F|4|4
 Mariana|F|4|4
-Marina|F|4|4
+Marina|F|4|mythological
 Matilde|F|4|4
 Maurício|M|4|4
 Miranda|F|4|4
@@ -321,7 +321,7 @@ Laurentino|M|3|3
 Leandro|M|3|3
 Leopoldina|F|3|3
 Luciana|F|3|3
-Maia|F|3|3
+Maia|F|3|mythological
 Maria da Conceição|F|3|3
 Maria do Carmo|F|3|3
 Martinho|M|3|3
@@ -342,6 +342,6 @@ Raúl|M|3|3
 Reinaldo|M|3|3
 Ricardina|F|3|3
 Salvador|M|3|3
-Saul|M|3|3
+Saul|M|3|biblical
 Serafim|M|3|3
 Sidónio|M|3|3

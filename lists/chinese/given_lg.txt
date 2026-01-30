@@ -18,7 +18,7 @@ Bo|U|8|8
 Fang|U|8|8
 Feng|U|8|8
 Gang|U|8|8
-Hui|U|8|8
+Hui|U|8|mythological
 Jie|U|8|8
 Lin|U|8|8
 Ling|U|8|8
@@ -38,7 +38,7 @@ Yu|U|8|8
 Chao|U|7|7
 Chen|U|7|7
 Cheng|U|7|7
-Dan|U|7|7
+Dan|U|7|biblical,mythological
 Dong|U|7|7
 Fei|U|7|7
 Hao|U|7|7
@@ -134,7 +134,7 @@ Jian+Ming|U|5|5
 Jian+Wei|U|5|5
 Jin+Hua|U|5|5
 Kang|U|5|5
-Kui|U|5|5
+Kui|U|5|mythological
 Li+Hong|U|5|5
 Li+Juan|U|5|5
 Li+Jun|U|5|5
@@ -1598,7 +1598,7 @@ Su+Ming|U|2|2
 Su+Qin|U|2|2
 Su+Xia|U|2|2
 Su+Zhen|U|2|2
-Tai|U|2|2
+Tai|U|2|mythological
 Ti|U|2|2
 Tian+Bao|U|2|2
 Tian+Fu|U|2|2

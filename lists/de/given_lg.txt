@@ -6,7 +6,7 @@ Johann|M|10|10
 Josef|M|10|10
 Maria|F|10|10
 Andreas|M|9|9
-Anna|F|9|mythological
+Anna|F|9|biblical,mythological
 Christine|F|9|9
 Elisabeth|F|9|9
 Gerhard|M|9|9
@@ -37,7 +37,7 @@ Brigitte|F|8|8
 Bruno|M|8|8
 Christian|M|8|8
 Claudia|F|8|8
-Daniel|M|8|8
+Daniel|M|8|biblical
 Dieter|M|8|8
 Elfriede|F|8|8
 Elke|U|8|8
@@ -60,7 +60,7 @@ Herbert|M|8|8
 Hermann|M|8|8
 Horst|M|8|8
 Ingrid|F|8|8
-Joachim|M|8|8
+Joachim|M|8|biblical
 Johanna|F|8|8
 Jörg|M|8|8
 Karin|F|8|8
@@ -81,7 +81,7 @@ René|M|8|8
 Robert|M|8|8
 Roland|M|8|8
 Rudolf|M|8|8
-Ruth|F|8|8
+Ruth|F|8|biblical
 Sabine|F|8|8
 Sandra|F|8|8
 Stefan|M|8|8
@@ -123,7 +123,7 @@ Doris|F|7|mythological
 Edith|F|7|7
 Erna|F|7|7
 Erwin|M|7|7
-Esther|F|7|7
+Esther|F|7|biblical
 Franziska|F|7|7
 Fritz|M|7|7
 Georg|M|7|7
@@ -134,7 +134,7 @@ Gerlinde|F|7|7
 Gertraud|F|7|7
 Gertrud|F|7|7
 Gottfried|M|7|7
-Gudrun|F|7|7
+Gudrun|F|7|mythological
 Günther|M|7|7
 Hannelore|F|7|7
 Harald|M|7|7
@@ -201,7 +201,7 @@ Silvia|F|7|7
 Simone|U|7|7
 Sonja|F|7|7
 Stefanie|F|7|7
-Sylvia|F|7|7
+Sylvia|F|7|mythological
 Tanja|F|7|7
 Therese|F|7|7
 Ulrich|M|7|7
@@ -239,7 +239,7 @@ Charles|M|6|6
 Christel|U|6|6
 Claire|F|6|6
 Corinne|F|6|6
-David|M|6|6
+David|M|6|biblical
 Denise|F|6|6
 Detlef|M|6|6
 Diana|F|6|mythological
@@ -255,7 +255,7 @@ Eliane|F|6|6
 Elsbeth|F|6|6
 Emil|M|6|6
 Enno|M|6|6
-Eric|M|6|6
+Eric|M|6|mythological
 Ernestine|F|6|6
 Evelyne|F|6|6
 Ewald|M|6|6
@@ -283,7 +283,7 @@ Hartmut|M|6|6
 Heidrun|F|6|6
 Hilde|F|6|6
 Hugo|M|6|6
-Ida|F|6|6
+Ida|F|6|mythological
 Ilona|F|6|6
 Ina|F|6|6
 Ines|F|6|6
@@ -323,10 +323,10 @@ Manuel|M|6|6
 Margareta|F|6|6
 Margarethe|F|6|6
 Margrith|F|6|6
-Marina|F|6|6
+Marina|F|6|mythological
 Mario|M|6|6
 Marlies|F|6|6
-Martha|F|6|6
+Martha|F|6|biblical
 Mathilde|F|6|6
 Meike|U|6|6
 Monica|F|6|6
@@ -350,7 +350,7 @@ Roswitha|F|6|6
 Ruedi|M|6|6
 Rupert|M|6|6
 Rüdiger|M|6|6
-Sarah|F|6|6
+Sarah|F|6|biblical
 Sebastian|M|6|6
 Sieglinde|F|6|6
 Simon|M|6|mythological
@@ -362,7 +362,7 @@ Thea|F|6|mythological
 Theodor|M|6|6
 Theres|F|6|mythological
 Thorsten|M|6|6
-Tobias|M|6|6
+Tobias|M|6|biblical
 Torsten|M|6|6
 Udo|M|6|6
 Ueli|M|6|6
@@ -464,7 +464,7 @@ Henning|M|5|5
 Henri|M|5|5
 Hertha|F|5|5
 Herwig|M|5|5
-Hilda|F|5|5
+Hilda|F|5|mythological
 Hilke|F?|5|5
 Hélène|F|5|5
 Ilka|F|5|5
@@ -479,7 +479,7 @@ Jeannette|F|5|5
 Jessica|F|5|5
 John|M|5|5
 Jolanda|F|5|5
-Joseph|M|5|5
+Joseph|M|5|biblical,mythological
 Josiane|F|5|5
 Juliane|F|5|5
 Karla|F|5|5
@@ -563,9 +563,9 @@ Rosina|F|5|5
 Rémy|M|5|5
 Sabrina|F|5|5
 Salvatore|M|5|5
-Samuel|M|5|5
+Samuel|M|5|biblical
 Sandro|M|5|5
-Sara|F|5|5
+Sara|F|5|biblical
 Sascha|M|5|5
 Serge|M|5|5
 Sergio|M|5|5
@@ -575,7 +575,7 @@ Sophie|F|5|5
 Steffi|F|5|5
 Stéphane|M?|5|5
 Stéphanie|F|5|5
-Susanna|F|5|5
+Susanna|F|5|biblical
 Susi|F|5|5
 Suzanne|F|5|5
 Sylvie|F|5|5
@@ -626,7 +626,7 @@ Arlette|F|4|4
 Arne|M|4|mythological
 Artur|M|4|4
 Aurelia|F|4|4
-Benjamin|M|4|4
+Benjamin|M|4|biblical
 Benno|M|4|4
 Berend|M|4|4
 Bertha|F|4|4
@@ -642,13 +642,13 @@ Clara|F|4|4
 Clemens|M|4|4
 Colette|F|4|4
 Constanze|F|4|4
-Cordula|F|4|4
+Cordula|F|4|mythological
 Corina|F|4|4
 Cédric|M|4|4
 Daniele|U|4|4
 Danièle|F|4|4
 Dario|M|4|4
-Deborah|F|4|4
+Deborah|F|4|biblical
 Detlev|M|4|4
 Didier|M|4|4
 Dina|F|4|4
@@ -712,7 +712,7 @@ Gregor|M|4|4
 Greta|F|4|4
 Grit|F|4|4
 Gunter|M|4|4
-Guy|M|4|4
+Guy|M|4|mythological
 Gérald|M|4|4
 Hanne|F|4|4
 Hanny|F|4|4
@@ -726,7 +726,7 @@ Hella|F|4|4
 Helma|F|4|4
 Hendrik|M|4|4
 Henriette|F|4|4
-Henry|M|4|4
+Henry|M|4|mythological
 Heribert|M|4|4
 Herma|F|4|4
 Hero|M|4|mythological
@@ -804,7 +804,7 @@ Marlene|F|4|4
 Marlise|F|4|4
 Marlyse|F|4|4
 Marlène|F|4|4
-Mary|F|4|4
+Mary|F|4|biblical
 Massimo|M|4|4
 Maurizio|M|4|4
 Mauro|M|4|4
@@ -815,7 +815,7 @@ Meta|F|4|mythological
 Micheline|F|4|4
 Michelle|F|4|4
 Mireille|F|4|4
-Miriam|F|4|4
+Miriam|F|4|biblical
 Mirko|M|4|4
 Muriel|F|4|4
 Myrtha|F|4|4
@@ -837,10 +837,10 @@ Peggy|F|4|4
 Pierrette|F|4|4
 Pietro|M|4|4
 Prisca|F|4|4
-Rachel|F|4|4
+Rachel|F|4|biblical
 Raphael|M|4|mythological
 Raphaël|M|4|4
-Rebecca|F|4|4
+Rebecca|F|4|biblical
 Remmer|M|4|4
 Renée|F|4|4
 Romy|F|4|4
@@ -888,7 +888,7 @@ Xaver|M|4|4
 Yolanda|F|4|4
 Yvan|M|4|4
 Adalbert|M|3|3
-Adam|M|3|3
+Adam|M|3|biblical,mythological
 Adriana|F|3|3
 Adriano|M|3|3
 Agatha|F|3|3
@@ -1090,7 +1090,7 @@ Ingolf|M|3|3
 Inken|F|3|3
 Isabell|F|3|3
 Ivonne|F|3|3
-Jacob|M|3|3
+Jacob|M|3|biblical,mythological
 Jakobus|M|3|3
 James|M|3|3
 Jane|F|3|3
@@ -1101,7 +1101,7 @@ Jaqueline|F|3|3
 Jeanine|F|3|3
 Joe|M|3|3
 Jonas|M|3|3
-Jonathan|M|3|3
+Jonathan|M|3|biblical
 Jules|M|3|3
 Julie|F|3|3
 Juliette|F|3|3
@@ -1243,7 +1243,7 @@ Trientje|F?|3|3
 Tönjes|M|3|3
 Ubbo|M|3|3
 Ulfert|M|3|3
-Ulla|F|3|3
+Ulla|F|3|biblical
 Ullrich|M|3|3
 Urban|M|3|3
 Ursi|F|3|3
@@ -1270,7 +1270,7 @@ Yolande|F|3|3
 Zita|F|3|3
 Zäzilia|F|3|3
 Änne|F|3|3
-Aaron|M|2|2
+Aaron|M|2|biblical,mythological
 Abbo|M|2|2
 Ada|F|2|2
 Adda|F|2|2
@@ -1537,7 +1537,7 @@ Friede|F?|2|2
 Friedemann|M|2|2
 Frieder|M|2|2
 Friedo|M|2|2
-Friso|M|2|2
+Friso|M|2|mythological
 Frédérique|F|2|2
 Félix|M|2|2
 Gallus|M|2|2
@@ -1595,7 +1595,7 @@ Habbo|M|2|2
 Hainer|M|2|2
 Haje|M|2|2
 Hanfried|M|2|2
-Hannah|F|2|2
+Hannah|F|2|biblical
 Hanns|M|2|2
 Hansdieter|M|2|2
 Hansjürgen|M|2|2
@@ -1805,7 +1805,7 @@ Meine|U|2|2
 Meinert|M|2|2
 Meinhardt|M|2|2
 Meint|M|2|2
-Melchior|M|2|2
+Melchior|M|2|biblical
 Melf|M|2|2
 Mena|F|2|mythological
 Menhard|M|2|2

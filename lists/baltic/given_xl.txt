@@ -26,7 +26,7 @@ Age|M|1|1
 Agita|F|5|5
 Agle|F|1|1
 Agn<e°>|F|2|2
-Agne|F|4|4
+Agne|F|4|mythological
 Agnese|F|6|6
 Agneta|F|1|1
 Agniet<e°>|F|1|1
@@ -214,7 +214,7 @@ Anika|F|2|2
 Anita|F|8|8
 Anjuta|F|1|1
 Ann|F|4|4
-Anna|F|8|mythological
+Anna|F|8|biblical,mythological
 Anne|F|8|8
 Anne-Ly|F|4|4
 Annela|F|2|2
@@ -334,7 +334,7 @@ Augut<e°>|F|1|1
 Auks<e°>|F|3|3
 Auli|F|2|2
 Aulika|F|2|2
-Aun|M|1|1
+Aun|M|1|mythological
 Aune|F|2|2
 Aurelija|F|5|5
 Aurelijus|M|3|3
@@ -403,7 +403,7 @@ Broņislavs|M|5|5
 Bruno|M|5|5
 Brunonas|M|1|1
 Carmen|F|3|3
-Caspar|M|1|1
+Caspar|M|1|biblical
 Cecilija|F|1|1
 Cezaris|M|1|1
 Chaimas|M|1|1
@@ -446,7 +446,7 @@ Danguol<e°>|F|5|5
 Danielius|M|5|5
 Daniels|M|2|2
 Danil|M|1|1
-Danius|M|1|1
+Danius|M|1|mythological
 Danut<e°>|F|8|8
 Darija|F|2|2
 Darijus|M|1|1
@@ -575,7 +575,7 @@ Elfa|F|1|1
 Elga|F|5|5
 Elgars|M|1|1
 Elger|M|1|1
-Eli|F|1|1
+Eli|F|1|biblical
 Eligija|F|1|1
 Eligijus|M|1|1
 Eliis|F|2|2
@@ -668,7 +668,7 @@ Eva|F|6|6
 Evald|M|3|3
 Evaldas|M|5|5
 Evar|M|1|1
-Eve|F|6|6
+Eve|F|6|biblical,mythological
 Eveli|F|3|3
 Evelin|F|5|5
 Evelina|F|3|3
@@ -829,7 +829,7 @@ Helen|F|6|6
 Helena|F|5|mythological
 Heleri|F|3|3
 Helgi|M|5|5
-Heli|F|7|7
+Heli|F|7|biblical
 Helin|F|2|2
 Helina|F|5|5
 Helis|F|2|2
@@ -858,7 +858,7 @@ Herle|F|1|1
 Hermt|M|1|1
 Herold|M|1|1
 Hiie|F|4|4
-Hilda|F|2|2
+Hilda|F|2|mythological
 Hilja|F|2|2
 Hilje|F?|1|1
 Hillar|M|5|5
@@ -868,7 +868,7 @@ Hinnar|M|1|1
 Hoivo|M|1|1
 Hugo|M|3|3
 Huko|M|1|1
-Ida|F|1|1
+Ida|F|1|mythological
 Identas|M|1|1
 Ieva|F|8|8
 Ieviņa|F|2|2
@@ -918,7 +918,7 @@ Ina|F|6|6
 Indars|M|2|2
 Inder|M|1|1
 Indr<e°>|F|2|2
-Indra|F|5|5
+Indra|F|5|mythological
 Indrek|M|7|7
 Indriķis|M|2|2
 Indro|M|2|2
@@ -1148,7 +1148,7 @@ Kaisy|F|1|1
 Kait|M|2|2
 Kaius|M|1|1
 Kaja|F|7|7
-Kaldi|M|1|1
+Kaldi|M|1|mythological
 Kalev|M|6|6
 Kalevi|M|2|2
 Kaljo|M|3|3
@@ -1472,7 +1472,7 @@ Magno|M|1|1
 Magnuss|M|2|2
 Mahiras|M|1|1
 Mai|F|5|5
-Maia|F|3|3
+Maia|F|3|mythological
 Maido|M|4|4
 Maidu|M|1|1
 Maie|F|7|7
@@ -1540,7 +1540,7 @@ Marijonas|M|4|4
 Marika|F|7|7
 Mariliis|F|2|2
 Marilin|F|4|4
-Marina|F|7|7
+Marina|F|7|mythological
 Mario|M|4|4
 Maris|F|6|6
 Marit|F|4|4
@@ -1598,7 +1598,7 @@ Mehis|M|1|1
 Meida|F|1|1
 Meigo|M|1|1
 Meil<e°>|F|2|2
-Meili|F|2|2
+Meili|F|2|mythological
 Meilut<e°>|F|4|4
 Melanija|F|1|1
 Meldra|F|1|1
@@ -1613,7 +1613,7 @@ Merit|F|4|4
 Merje|F|4|4
 Merle|F|7|7
 Merli|F|3|3
-Merlin|F|1|1
+Merlin|F|1|mythological
 Meta|F|1|mythological
 Mečislavas|M|1|1
 Mečislovas|M|5|5
@@ -1961,7 +1961,7 @@ Ruslanas|M|1|1
 Ruslans|M|4|4
 Rustemas|M|1|1
 Ruta|F|7|7
-Ruth|F|6|6
+Ruth|F|6|biblical
 Rutt|F|4|4
 Ruttar|M|1|1
 Rutti|F|1|1
@@ -2098,7 +2098,7 @@ Taigo|M|1|1
 Taima|F|1|1
 Taimi|F|4|4
 Taimo|M|1|1
-Tairi|F|1|1
+Tairi|F|1|mythological
 Taisi|F|1|1
 Taisija|F|1|1
 Taivo|M|6|6
@@ -2173,7 +2173,7 @@ Udo|M|3|3
 Uga|F|1|1
 Uko|M|1|1
 Uldis|M|8|8
-Ulla|F|3|3
+Ulla|F|3|biblical
 Ulvi|F|3|3
 Ulvika|F|1|1
 Una|F|5|5

@@ -3,7 +3,7 @@
 #
 <Z°>aneta|F|2|2
 <Z°>anna|F|1|1
-Adam|M|8|8
+Adam|M|8|biblical,mythological
 Adela|F|3|3
 Adina|F|1|1
 Adrian|M|2|2
@@ -28,10 +28,10 @@ Andrzej|M|10|10
 Andrzelika|F|1|1
 Aneta|F|5|5
 Anetta|F|3|3
-Ania|F|1|1
+Ania|F|1|mythological
 Aniela|F|5|5
 Anita|F|4|4
-Anna|F|11|mythological
+Anna|F|11|biblical,mythological
 Annamaria|F|1|1
 Antoni|M|4|4
 Antonina|F|4|4
@@ -50,7 +50,7 @@ Bartosz|M|5|5
 Bartłomiej|M|5|5
 Beata|F|8|8
 Benedykt|M|1|1
-Benjamin|M|2|2
+Benjamin|M|2|biblical
 Bernadeta|F|3|3
 Bernadetta|F|3|3
 Bernard|M|4|4
@@ -78,7 +78,7 @@ Czesław|M|6|6
 Czesława|F|5|5
 Dagmara|F|4|4
 Damian|M|3|3
-Daniel|M|5|5
+Daniel|M|5|biblical
 Daniela|F|3|3
 Danuta|F|9|9
 Dariusz|M|7|7
@@ -160,7 +160,7 @@ Jaromir|M|1|1
 Jarosłav|M|7|7
 Jarosław|M|5|5
 Jerzy|M|9|9
-Joachim|M|3|3
+Joachim|M|3|biblical
 Joanna|F|9|9
 Jolanta|F|8|8
 Jonka|F|1|1
@@ -200,7 +200,7 @@ Krystian|M|3|3
 Krystyna|F|9|9
 Krysztof|M|3|3
 Krzysztof|M|10|10
-Lech|M|5|5
+Lech|M|5|mythological
 Lechosław|M|1|1
 Leokadia|F|5|5
 Leon|M|3|mythological

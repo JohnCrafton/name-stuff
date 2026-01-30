@@ -40,7 +40,7 @@ Alejandro|M|7|7
 Alfonso|M|7|7
 Andrés|M|7|7
 Cristina|F|7|7
-David|M|7|7
+David|M|7|biblical
 Eduardo|M|7|7
 Elena|F|7|7
 Emilio|M|7|7
@@ -74,14 +74,14 @@ Begoña|F|6|6
 Belén|F|6|6
 Cesar|M|6|6
 Consuelo|F|6|6
-Daniel|M|6|6
+Daniel|M|6|biblical
 Diego|M|6|6
 Domingo|M|6|6
 Emilia|F|6|6
 Encarnación|F|6|6
 Esperanza|F|6|6
 Esteban|M|6|6
-Esther|F|6|6
+Esther|F|6|biblical
 Eugenia|F|6|6
 Eugenio|M|6|6
 Eva|F|6|6

@@ -54,7 +54,7 @@ Chan|M?|8|8
 Chun|U|8|8
 Dae|U|8|8
 Do|U|8|8
-Hae|U|8|8
+Hae|U|8|mythological
 Hak|U|8|8
 Han|U|8|8
 Hong|M?|8|8
@@ -89,7 +89,7 @@ Gil|U|7|7
 Ha|U|7|7
 Hea|U|7|7
 Hi|U|7|7
-Hui|U|7|7
+Hui|U|7|mythological
 Hyo|U|7|7
 Hyon|M?|7|mythological
 Jee|U|7|7

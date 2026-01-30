@@ -6,7 +6,7 @@ Ivan|M|11|11
 Jiří|M|11|11
 Maria|F|11|11
 Mária|F|11|11
-Anna|F|10|mythological
+Anna|F|10|biblical,mythological
 Constantin|M|10|10
 Dimitar|M|10|10
 Dragan|M|10|10

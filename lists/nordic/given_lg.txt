@@ -1,7 +1,7 @@
 # name-stuff given names
 # format: name|gender|frequency|tags
 #
-Anna|F|10|mythological
+Anna|F|10|biblical,mythological
 Erik|M|10|10
 Guðrún|F|10|10
 Juhani|M|10|10
@@ -122,7 +122,7 @@ Erla|F|8|8
 Finn|M|8|8
 Flemming|M|8|8
 Fredrik|M|8|8
-Freyr|M|8|8
+Freyr|M|8|mythological
 Gitte|F|8|8
 Grethe|F|8|8
 Gunilla|F|8|8
@@ -232,7 +232,7 @@ Torben|M|8|8
 Tove|F|8|8
 Tuula|F|8|8
 Ulf|M|8|8
-Ulla|F|8|8
+Ulla|F|8|biblical
 Veikko|M|8|8
 Vibeke|F|8|8
 Árni|M|8|8
@@ -259,7 +259,7 @@ Astrid|F|7|7
 Atli|M|7|7
 Auður|F|7|7
 Aðalheiður|F|7|7
-Baldur|M|7|7
+Baldur|M|7|mythological
 Benedikt|M|7|7
 Benny|M|7|7
 Berit|F|7|7
@@ -277,7 +277,7 @@ Carl|M|7|7
 Caroline|F|7|7
 Cecilia|F|7|7
 Claes|M|7|7
-Daniel|M|7|7
+Daniel|M|7|biblical
 Daníel|M|7|7
 Daði|M|7|7
 Dorte|F|7|7
@@ -336,11 +336,11 @@ Hólmfríður|F|7|7
 Hörður|M|7|7
 Ib|M|7|7
 Ilkka|M|7|7
-Ingvar|M|7|7
+Ingvar|M|7|mythological
 Inkeri|F|7|7
 Irene|F|7|mythological
 Irmeli|F|7|7
-Jacob|M|7|7
+Jacob|M|7|biblical,mythological
 Jane|F|7|7
 Jari|M|7|7
 Jarmo|M|7|7
@@ -373,7 +373,7 @@ Kristian|M|7|7
 Kristiina|F|7|7
 Kristjana|F|7|7
 Kyllikki|F|7|7
-Kári|M|7|7
+Kári|M|7|mythological
 Kåre|M|7|7
 Lauri|M|7|7
 Lind|F|7|7
@@ -432,14 +432,14 @@ Robert|M|7|7
 Roger|M|7|7
 Roland|M|7|7
 Rune|M|7|7
-Ruth|F|7|7
+Ruth|F|7|biblical
 Róbert|M|7|7
 Rós|F|7|7
 Rósa|F|7|7
 Rún|F|7|7
 Sandra|F|7|7
 Sanna|F|7|7
-Sara|F|7|7
+Sara|F|7|biblical
 Sari|F|7|7
 Seija|F|7|7
 Sigurbjörg|F|7|7
@@ -516,7 +516,7 @@ Aksel|M|6|6
 Alda|F|6|6
 Aldís|F|6|6
 Alexander|M|6|6
-Alf|M|6|6
+Alf|M|6|mythological
 Alice|F|6|6
 Andrea|F|6|6
 Andrés|M|6|6
@@ -546,7 +546,7 @@ Bettina|F|6|6
 Birkir|M|6|6
 Birte|F|6|6
 Björgvin|M|6|6
-Bragi|M|6|6
+Bragi|M|6|mythological
 Britta|F|6|6
 Brynhildur|F|6|6
 Bára|F|6|6
@@ -557,8 +557,8 @@ Conny|U|6|6
 Dag|M|6|6
 Dagný|F|6|6
 Dagur|M|6|6
-Dan|M|6|6
-David|M|6|6
+Dan|M|6|biblical,mythological
+David|M|6|biblical
 Dennis|M|6|6
 Ditte|F|6|6
 Dís|F|6|6
@@ -591,7 +591,7 @@ Gerður|F|6|6
 Grete|F|6|6
 Gro|F|6|6
 Gréta|F|6|6
-Gudrun|F|6|6
+Gudrun|F|6|mythological
 Gunnhildur|F|6|6
 Gunnlaugur|M|6|6
 Gunvor|F|6|6
@@ -602,7 +602,7 @@ Guðríður|F|6|6
 Gylfi|M|6|6
 Gyða|F|6|6
 Gösta|M|6|6
-Göte|M|6|6
+Göte|M|6|mythological
 Hafsteinn|M|6|6
 Hafþór|M|6|6
 Hallgrímur|M|6|6
@@ -613,20 +613,20 @@ Heimir|M|6|6
 Heiðrún|F|6|6
 Helen|F|6|6
 Helene|F|6|6
-Heli|F|6|6
-Henry|M|6|6
+Heli|F|6|biblical
+Henry|M|6|mythological
 Herdís|F|6|6
 Hermann|M|6|6
 Hilde|F|6|6
 Hilkka|F|6|6
 Hjörtur|M|6|6
 Hlynur|M|6|6
-Hlín|F|6|6
+Hlín|F|6|mythological
 Holger|M|6|6
 Hugrún|F|6|6
 Huld|F|6|6
 Hákon|M|6|6
-Ida|F|6|6
+Ida|F|6|mythological
 Ingegerd|F|6|6
 Ingela|F|6|6
 Ingemar|M|6|6
@@ -681,7 +681,7 @@ Kristófer|M|6|6
 Kullervo|M|6|6
 Laila|F|6|6
 Lasse|M|6|6
-Laufey|F|6|6
+Laufey|F|6|mythological
 Laura|F|6|6
 Lea|F|6|6
 Leifur|M|6|6
@@ -702,7 +702,7 @@ Marjo|F|6|6
 Marketta|F|6|6
 Marko|M|6|6
 Marta|F|6|6
-Mary|F|6|6
+Mary|F|6|biblical
 Matias|M|6|6
 Matthías|M|6|6
 Mauno|M|6|6
@@ -746,7 +746,7 @@ Signe|F|6|6
 Sigurbjörn|M|6|6
 Sigurlaug|F|6|6
 Simo|M|6|6
-Sjöfn|F|6|6
+Sjöfn|F|6|mythological
 Skúli|M|6|6
 Sofia|F|6|6
 Sofie|F|6|6
@@ -759,7 +759,7 @@ Stine|F|6|6
 Sture|M|6|6
 Sunna|F|6|6
 Susan|F|6|6
-Susanna|F|6|6
+Susanna|F|6|biblical
 Suvi|F|6|6
 Svanhildur|F|6|6
 Svavar|M|6|6
@@ -774,8 +774,8 @@ Tero|M|6|6
 Teuvo|M|6|6
 Thelma|F|6|6
 Therese|F|6|6
-Thor|M|6|6
-Tobias|M|6|6
+Thor|M|6|mythological
+Tobias|M|6|biblical
 Tommi|M|6|6
 Torfi|M|6|6
 Torill|F|6|6
@@ -809,7 +809,7 @@ Vivi|F|6|6
 Yrjö|M|6|6
 Ármann|M|6|6
 Åge|M|6|6
-Ægir|M|6|6
+Ægir|M|6|mythological
 Ísak|M|6|6
 Ösp|F|6|6
 Øivind|M|6|6
@@ -853,7 +853,7 @@ Arvi|M|5|5
 Arvo|M|5|5
 Asger|M|5|5
 Asko|M|5|5
-Aslaug|F|5|5
+Aslaug|F|5|mythological
 Asta|F|5|5
 Astri|F|5|5
 Atle|M|5|5
@@ -888,13 +888,13 @@ Díana|F|5|5
 Ebbe|M|5|5
 Edgar|M|5|5
 Eigil|M|5|5
-Eir|F|5|5
+Eir|F|5|mythological
 Eira|F|5|5
 Eivor|F|5|5
 Ejnar|M|5|5
 Ejner|M|5|5
 Ejvind|M|5|5
-Eli|U|5|5
+Eli|U|5|biblical
 Elias|M|5|5
 Eliisa|F|5|5
 Elisa|F|5|5
@@ -907,14 +907,14 @@ Elínborg|F|5|5
 Elísa|F|5|5
 Emelie|F|5|5
 Emilía|F|5|5
-Eric|M|5|5
+Eric|M|5|mythological
 Erika|F|5|5
 Erja|F|5|5
 Erlendur|M|5|5
 Erlingur|M|5|5
 Ernst|M|5|5
 Ester|F|5|5
-Esther|F|5|5
+Esther|F|5|biblical
 Evelyn|F|5|5
 Evy|F|5|5
 Ewa|F|5|5
@@ -924,7 +924,7 @@ Folke|U|5|5
 Freddy|M|5|5
 Frede|M|5|5
 Frederik|M|5|5
-Freyja|F|5|5
+Freyja|F|5|mythological
 Frida|F|5|5
 Fríða|F|5|5
 Georg|M|5|5
@@ -1033,7 +1033,7 @@ Maire|F|5|5
 Majbritt|F|5|5
 Margaretha|F|5|5
 Marika|F|5|5
-Marina|F|5|5
+Marina|F|5|mythological
 Maritta|F|5|5
 Marjukka|F|5|5
 Marjut|F|5|5
@@ -1053,7 +1053,7 @@ Mirjami|F|5|5
 Monika|F|5|5
 Morgan|M|5|5
 Máni|M|5|5
-Nanna|F|5|5
+Nanna|F|5|mythological
 Nicklas|M|5|5
 Niclas|M|5|5
 Nicolai|M|5|5
@@ -1092,12 +1092,12 @@ Riikka|F|5|5
 Roald|M|5|5
 Robin|U|5|5
 Rose|F|5|5
-Rán|F|5|5
+Rán|F|5|mythological
 Rögnvaldur|M|5|5
 Rúna|F|5|5
 Salme|F|5|5
 Samuli|M|5|5
-Sarah|F|5|5
+Sarah|F|5|biblical
 Selma|F|5|5
 Sesselja|F|5|5
 Sigfús|M|5|5
@@ -1106,7 +1106,7 @@ Sigmundur|M|5|5
 Signý|F|5|5
 Sigrid|F|5|5
 Sigurborg|F|5|5
-Sigurd|M|5|5
+Sigurd|M|5|mythological
 Sigurgeir|M|5|5
 Sigurrós|F|5|5
 Sigurveig|F|5|5
@@ -1219,7 +1219,7 @@ Aatos|M|4|4
 Aatto|M|4|4
 Adda|F|4|4
 Agla|F|4|4
-Agne|M|4|4
+Agne|M|4|mythological
 Agnethe|F|4|4
 Aija|F|4|4
 Aini|F|4|4

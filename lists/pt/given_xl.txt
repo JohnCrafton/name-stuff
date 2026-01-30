@@ -1,7 +1,7 @@
 # name-stuff given names
 # format: name|gender|frequency|tags
 #
-Abel|M|5|5
+Abel|M|5|biblical
 Abelardo|M|1|1
 Abraão|M|1|1
 Abília|F|1|1
@@ -304,9 +304,9 @@ Dalila|F|1|1
 Dalva|F|1|1
 Damiana|F|1|1
 Damásio|M|1|1
-Daniel|M|5|5
+Daniel|M|5|biblical
 Darlinda|F|1|1
-David|M|6|6
+David|M|6|biblical
 Delfim|M|4|4
 Delfina|F|2|2
 Delmar|M|1|1
@@ -415,7 +415,7 @@ Euda|F|1|1
 Eugénia|F|5|5
 Eugénio|M|5|5
 Eulália|F|1|1
-Eunice|F|1|1
+Eunice|F|1|biblical
 Eurico|M|3|3
 Euridice|F|1|1
 Eusébio|M|1|1
@@ -723,7 +723,7 @@ Mabilia|F|1|1
 Maciel|M|1|1
 Madalena|F|6|6
 Mafalda|F|4|4
-Maia|F|3|3
+Maia|F|3|mythological
 Maico|M|1|1
 Manuel|M|11|11
 Manuela|F|7|7
@@ -755,7 +755,7 @@ Mariana|F|4|4
 Mariano|M|2|2
 Maribel|F|1|1
 Marieta|F|1|1
-Marina|F|4|4
+Marina|F|4|mythological
 Marinete|F|1|1
 Marisa|F|2|2
 Marlindo|M|1|1
@@ -923,10 +923,10 @@ Sabino|M|2|2
 Salomé|F|1|1
 Salvador|M|3|3
 Salvina|F|1|1
-Samuel|M|2|2
+Samuel|M|2|biblical
 Sandra|F|5|5
-Sara|F|6|6
-Saul|M|3|3
+Sara|F|6|biblical
+Saul|M|3|biblical
 Sebastião|M|5|5
 Secunda|F|1|1
 Secundino|M|1|1

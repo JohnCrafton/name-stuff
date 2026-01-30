@@ -59,7 +59,7 @@ Minoru|M?|7|7
 Miyuki|F|7|7
 Naoki|M|7|7
 Naoko|F|7|7
-Naomi|F|7|7
+Naomi|F|7|biblical
 Reiko|F|7|7
 Rie|F|7|7
 Sachiko|F|7|7

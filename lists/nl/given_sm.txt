@@ -42,8 +42,8 @@ Dick|M|7|7
 Edwin|M|7|7
 Ellen|F?|7|7
 Elly|F|7|7
-Eric|M|7|7
-Esther|F|7|7
+Eric|M|7|mythological
+Esther|F|7|biblical
 Frans|M|7|7
 Geert|M|7|7
 Gerda|F|7|7

@@ -33,9 +33,9 @@ Abdurahman|M|3|
 Abdurrahman|M|2|
 Abdyl|M|2|
 Abedin|M|3|
-Abel|M|1|
+Abel|M|1|biblical
 Abid|M|4|
-Abida|F|1|
+Abida|F|1|biblical
 Aca|M|3|
 Achilina|F|1|
 Achim|M|2|
@@ -45,7 +45,7 @@ Aco|M|7|
 Ada|F|3|
 Adalbert|M|2|
 Adalciza|F|1|
-Adam|M|4|
+Adam|M|4|biblical,mythological
 Adamira|F|1|
 Adaniel|M|1|
 Adela|F|5|
@@ -90,11 +90,11 @@ Agapia|F|2|
 Agatia|F|1|
 Agim|M|7|
 Aglaea|F|1|
-Aglaia|F|3|
+Aglaia|F|3|mythological
 Agnesa|F|5|
 Agneta|F|1|
 Agneza|F|2|
-Agni|F|3|
+Agni|F|3|mythological
 Ago|M|4|
 Agon|M|5|mythological
 Agora|F|1|
@@ -137,7 +137,7 @@ Albert|M|6|
 Albin|M|4|
 Albina|F|5|
 Albinca|F|1|
-Albion|M|1|
+Albion|M|1|mythological
 Albulena|F|5|
 Albína|F|3|
 Aldijana|F|4|
@@ -257,7 +257,7 @@ Anamarija|F|3|
 Anasia|F|1|
 Anastas|M|4|
 Anastase|M|2|
-Anastasia|F|6|
+Anastasia|F|6|mythological
 Anastasie|M|1|
 Anastasiea|F|1|
 Anastasija|F|6|
@@ -357,7 +357,7 @@ Anjuta|F|2|
 Anka|F|7|
 Ankica|F|8|
 Anko|M|1|
-Anna|F|10|mythological
+Anna|F|10|biblical,mythological
 Annamária|F|6|
 Anostol|M|1|
 Antal|M|7|
@@ -695,7 +695,7 @@ Benedikt|M|4|
 Benezar|M|1|
 Beniamin|M|3|
 Benjamil|M|1|
-Benjamin|M|4|
+Benjamin|M|4|biblical
 Benjámin|M|1|
 Benko|M|1|
 Benone|M|2|
@@ -940,7 +940,7 @@ Bruneta|F|1|
 Brunilda|F|1|
 Bruno|M|5|
 Brînduşa|F|2|
-Bucur|M|2|
+Bucur|M|2|mythological
 Bucura|F|1|
 Bucurel|M|1|
 Budimir|M|5|
@@ -1185,7 +1185,7 @@ Damjan|M|7|
 Damjana|F|5|
 Damnjan|M|1|
 Damyan|M|4|
-Dan|M|8|
+Dan|M|8|biblical,mythological
 Dana|F|7|
 Danail|M|5|
 Dancho|M|5|
@@ -1193,7 +1193,7 @@ Dane|M|4|
 Dane|M|1|
 Dani|M|1|
 Danica|F|8|
-Daniel|M|7|
+Daniel|M|7|biblical
 Daniela|F|8|
 Daniil|M|1|
 Danijel|M|6|
@@ -1231,7 +1231,7 @@ Dashurie|F|1|
 Dashurije|F|3|
 Datzo|M|1|
 Daut|M|6|
-David|M|7|
+David|M|7|biblical
 Davida|F|1|
 Davor|M|7|
 Davorin|M|5|
@@ -1263,7 +1263,7 @@ Delyan|M|1|
 Delyana|F|1|
 Delyanka|F|1|
 Delyu|M|1|
-Demeter|M|2|
+Demeter|M|2|mythological
 Demetra|F|1|
 Demetrius|M|1|
 Demetru|M|1|
@@ -1613,7 +1613,7 @@ Edith|F|2|
 Edlira|F|1|
 Edmeia|F|1|
 Edmond|M|4|
-Edna|F|3|
+Edna|F|3|biblical
 Edo|M|4|
 Edon|M|3|
 Edona|F|5|
@@ -1672,7 +1672,7 @@ Elfete|F|4|
 Elfetie|F|1|
 Elfimiu|M|1|
 Elfrída|F|3|
-Eli|F|2|
+Eli|F|2|biblical
 Elian|M|1|
 Eliana|F|1|
 Elica|F|6|
@@ -2399,7 +2399,7 @@ Hajrije|F|5|
 Hajriz|M|4|
 Hajrudin|M|6|
 Hajrulla|M|3|
-Haki|M|5|
+Haki|M|5|mythological
 Hakija|M|4|
 Halid|M|5|
 Halida|F|3|
@@ -2442,7 +2442,7 @@ Haritina|F|2|
 Hariton|M|1|
 Hariz|M|1|
 Harrie|M|1|
-Harun|M|4|
+Harun|M|4|mythological
 Hasan|M|7|
 Hasena|F|3|
 Hashim|M|3|
@@ -2504,8 +2504,8 @@ Hidajeta|F|3|
 Hidajete|F|5|
 Hieronym|M|1|
 Hikmet|M|1|
-Hilaria|F|1|
-Hilda|F|4|
+Hilaria|F|1|mythological
+Hilda|F|4|mythological
 Hildebrand|M|1|
 Hildegarda|F|3|
 Hilma|F|1|
@@ -2577,7 +2577,7 @@ Ianula|F|1|
 Ibala|F|1|
 Ibo|M|1|
 Ibolya|F|8|
-Ibrahim|M|7|
+Ibrahim|M|7|mythological
 Ibričim|M|1|
 Ibro|M|5|
 Ica|U|1|mythological
@@ -2585,7 +2585,7 @@ Ice|M|1|
 Ico|M|1|
 Iconia|F|1|
 Iconie|M|1|
-Ida|F|4|
+Ida|F|4|mythological
 Idajete|F|3|
 Idriz|M|5|
 Idrizi|M|3|
@@ -2738,7 +2738,7 @@ Isidor|M|1|
 Iskra|F|4|
 Iskren|M|3|
 Islam|M|3|
-Ismail|M|5|
+Ismail|M|5|mythological
 Ismet|M|7|
 Ismeta|F|4|
 Ismir|M|4|
@@ -3151,7 +3151,7 @@ Katyusha|F|1|
 Kazimír|M|1|
 Kažimir|M|3|
 Kemal|M|6|
-Kenan|M|6|
+Kenan|M|6|biblical
 Kera|F|4|
 Keran|M|1|
 Kerana|F|2|
@@ -3707,7 +3707,7 @@ Mahira|F|1|
 Mahmut|M|4|
 Maho|M|1|
 Mahulena|F|1|
-Maia|F|5|
+Maia|F|5|mythological
 Maida|F|6|
 Maija|F|2|
 Maira|F|1|mythological
@@ -3814,7 +3814,7 @@ Marijo|M|4|
 Marika|F|9|
 Marilena|F|5|
 Marin|M|8|
-Marina|F|7|
+Marina|F|7|mythological
 Marinca|F|2|
 Marincho|M|1|
 Marinel|M|4|
@@ -3983,7 +3983,7 @@ Mia|F|3|
 Micaela|F|1|
 Michael|M|4|
 Michaela|F|7|
-Michal|M|8|
+Michal|M|8|biblical
 Micko|M|1|
 Micsunel|M|1|
 Micsunica|F|1|
@@ -4140,7 +4140,7 @@ Mirel|M|2|
 Mirela|F|7|
 Mirella|F|1|
 Mirha|M|5|
-Miriam|F|5|
+Miriam|F|5|biblical
 Mirie|F|3|
 Mirijam|F|1|
 Mirijela|F|1|
@@ -4664,7 +4664,7 @@ Olivio|M|1|
 Oliviu|M|2|
 Olja|F|1|
 Olívia|F|1|
-Omar|M|1|
+Omar|M|1|biblical
 Omer|M|7|
 Ondrej|M|7|
 Ondřej|M|6|
@@ -5072,7 +5072,7 @@ Rali|M|1|
 Ralica|F|3|
 Ralitza|F|3|
 Raluca|F|6|
-Ram|M|2|
+Ram|M|2|biblical
 Rama|M?|3|
 Ramadan|M|6|
 Ramazan|M|3|
@@ -5217,7 +5217,7 @@ Romita|F|1|
 Romu|M|1|
 Romuald|M|2|
 Romul|M|1|
-Romulus|M|5|
+Romulus|M|5|mythological
 Romus|M|1|
 Rona|F|1|
 Roni|M|1|
@@ -5301,7 +5301,7 @@ Russanka|F|3|
 Russi|M|5|
 Rustem|M|2|
 Ruta|F|1|
-Ruth|F|1|
+Ruth|F|1|biblical
 Ruxanda|F|2|
 Ruxandra|F|6|
 Ruxhdi|M|1|
@@ -5390,8 +5390,8 @@ Samo|M|6|
 Samoil|M|1|
 Samoila|F|1|
 Samra|F|6|
-Samson|M|2|
-Samuel|M|4|
+Samson|M|2|biblical
+Samuel|M|4|biblical
 Samuil|M|1|
 Samuil<â>|F|1|
 Sanda|F|6|
@@ -5411,7 +5411,7 @@ Sanja|F|7|
 Sanjin|M|5|
 Santa|F|1|
 Sanyi|M|1|
-Sara|F|5|
+Sara|F|5|biblical
 Saranda|F|5|
 Sardin|M|1|
 Sarlota|F|2|
@@ -5648,7 +5648,7 @@ Silviya|F|6|
 Silvo|M|5|
 Simanka|F|1|
 Simbad|M|1|
-Simeon|M|6|
+Simeon|M|6|biblical
 Simeonka|F|2|
 Simi|M|1|
 Simina|F|2|
@@ -5668,7 +5668,7 @@ Sineta|F|1|
 Sinica|F|1|
 Sinia|M|6|
 Sirma|F|1|
-Sita|F|2|
+Sita|F|2|mythological
 Siya|F|1|
 Siyana|F|3|
 Siyka|F|6|
@@ -6014,7 +6014,7 @@ Svjetlana|F|6|
 Svätoslav|M|1|
 Sylejman|M|3|
 Sylva|F|5|
-Sylvia|F|4|
+Sylvia|F|4|mythological
 Szabina|F|2|
 Szabolcs|M|6|
 Szandra|F|1|
@@ -6254,7 +6254,7 @@ Trifu|M|1|
 Trifun|M|4|
 Trina|F|1|
 Tripo|M|6|
-Tristan|M|1|
+Tristan|M|1|mythological
 Trofin|M|1|
 Troita|F|1|
 Troju|M|1|
@@ -6509,7 +6509,7 @@ Vergilica|F|1|
 Vergilie|M|1|
 Vergiliu|M|2|
 Vergina|F|1|
-Verginia|F|4|
+Verginia|F|4|mythological
 Verginica|F|2|
 Verginija|F|2|
 Verginiya|F|2|
@@ -6610,7 +6610,7 @@ Viktória|F|6|
 Vildana|F|5|
 Vilem|M|2|
 Vilemína|F|1|
-Vili|M|2|
+Vili|M|2|mythological
 Vilia|F|1|
 Viliam|M|7|
 Vilibald|M|1|

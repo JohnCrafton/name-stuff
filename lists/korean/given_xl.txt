@@ -260,7 +260,7 @@ Ha|U|7|7
 Ha+Hak|M?|1|1
 Ha+Na|F|2|2
 Hack|U|3|3
-Hae|U|8|8
+Hae|U|8|mythological
 Hae+Chung|F|2|2
 Hae+Eun|F|2|2
 Hae+Jung|F|3|3
@@ -342,7 +342,7 @@ Hong+Youl|M|2|2
 Hoo|U|3|3
 Hoon|M?|8|8
 Houng+Gun|M|2|2
-Hui|U|7|7
+Hui|U|7|mythological
 Hun|U|8|8
 Hun+Joo|U|2|2
 Hun+Nam|M|3|3
@@ -930,7 +930,7 @@ Sa|U|5|5
 Sa+Soon|F?|2|2
 Sae|U|6|6
 Sae+Duk|M|1|1
-Sam|U|7|7
+Sam|U|7|mythological
 Sam+Yong|M|2|2
 San|U|5|5
 Sang|U|10|10
@@ -1166,7 +1166,7 @@ Tae+Uk|M|2|2
 Tae+Won|M|3|3
 Tae+Young|M|5|5
 Taek|U|6|6
-Tai|M?|7|7
+Tai|M?|7|mythological
 Taik|U|4|4
 Tak|U|4|4
 Tal|U|3|3

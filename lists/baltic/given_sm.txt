@@ -29,7 +29,7 @@ Alfonsas|M|8|8
 Algimantas|M|8|8
 Andres|M|8|8
 Anita|F|8|8
-Anna|F|8|mythological
+Anna|F|8|biblical,mythological
 Anne|F|8|8
 Anu|F|8|8
 Baiba|F|8|8

@@ -2,14 +2,14 @@
 # format: name|gender|frequency|tags
 #
 Aagje|F|1|1
-Aaron|M|2|2
-Abel|M|2|2
+Aaron|M|2|biblical,mythological
+Abel|M|2|biblical
 Abeline|F|1|1
 Abelle|F|1|1
-Abigail|F|1|1
+Abigail|F|1|biblical
 Abigaël|F|1|1
 Abigaëlle|F|1|1
-Abraham|M|1|1
+Abraham|M|1|biblical
 Aby|F|1|1
 Abygaël|F|1|1
 Abygaëlle|F|1|1
@@ -47,7 +47,7 @@ Aimée|F|3|3
 Alain|M|8|8
 Alan|M|2|2
 Alanis|F|1|1
-Alaric|M|1|1
+Alaric|M|1|mythological
 Alaïs|F|1|1
 Albain|M|1|1
 Alban|M|3|3
@@ -189,7 +189,7 @@ Anita|F|6|6
 Anja|F|5|5
 Anke|F?|3|3
 Ann|F|7|7
-Anna|F|8|mythological
+Anna|F|8|biblical,mythological
 Annabel|F|1|1
 Annabelle|F|3|3
 Annaëlle|F|1|1
@@ -255,7 +255,7 @@ Arlette|F|6|6
 Armance|F|1|1
 Armand|M|8|8
 Armande|F|2|2
-Armandine|F|1|1
+Armandine|F|1|mythological
 Armantine|F|1|1
 Armel|M?|2|2
 Armele|F|1|1
@@ -335,7 +335,7 @@ Bartholomé|M|1|1
 Barthélémy|M|1|1
 Bartolomé|M|1|1
 Bas|M|1|1
-Basile|M|1|1
+Basile|M|1|mythological
 Bastiaan|M|1|1
 Bastien|M|4|4
 Bastienne|F|1|1
@@ -350,7 +350,7 @@ Beau|M|1|1
 Belinda|F|2|2
 Ben|M|4|4
 Benedict|M?|1|1
-Benjamin|M|6|6
+Benjamin|M|6|biblical
 Benjamine|F|1|1
 Bennie|M|1|1
 Benno|M|1|1
@@ -383,7 +383,7 @@ Bettina|F|2|2
 Betty|F|5|5
 Bianca|F|4|4
 Bibiane|F|2|2
-Bienaimé|M|1|1
+Bienaimé|M|1|mythological
 Birgit|F|3|3
 Bixente|M|1|1
 Bjorn|M|4|4
@@ -566,7 +566,7 @@ Conrad|M|1|1
 Constance|F|2|2
 Constant|M|4|4
 Constantin|M|1|1
-Constantine|F|1|1
+Constantine|F|1|mythological
 Cora|F|1|1
 Coralie|F|4|4
 Coraline|F|1|1
@@ -629,11 +629,11 @@ Damase|M|1|1
 Damia|F|1|mythological
 Damien|M|6|6
 Damienne|F|1|1
-Dan|M|4|4
+Dan|M|4|biblical,mythological
 Dana|F|1|1
 Dania|F|1|1
 Danie|F|1|1
-Daniel|M|8|8
+Daniel|M|8|biblical
 Daniela|F|5|5
 Danielle|F|7|7
 Danièle|F|6|6
@@ -644,12 +644,12 @@ Daphne|F|3|mythological
 Daphné|F|1|1
 Daphnée|F|1|1
 Dave|M|3|3
-David|M|8|8
+David|M|8|biblical
 Davy|M|4|4
 Debbie|F|2|2
 Debby|F|2|2
 Debora|F|2|2
-Deborah|F|4|4
+Deborah|F|4|biblical
 Delphin|M|1|1
 Delphina|F|2|2
 Delphine|F|6|6
@@ -780,7 +780,7 @@ Enguerrand|M|1|1
 Enora|F|1|1
 Ephrem|M|1|1
 Epiphanie|F|1|1
-Eric|M|8|8
+Eric|M|8|mythological
 Erica|F|2|2
 Erick|M|2|2
 Ericka|F|1|1
@@ -800,7 +800,7 @@ Estel|F|1|1
 Estelle|F|5|5
 Ester|F|1|1
 Esthel|F|1|1
-Esther|F|4|4
+Esther|F|4|biblical
 Estèle|F|1|1
 Etienne|M|6|6
 Etiennette|F|2|2
@@ -812,10 +812,10 @@ Eugène|M|7|7
 Eugénie|F|5|5
 Eulalie|F|1|1
 Euloge|M?|1|1
-Eunice|F|2|2
+Eunice|F|2|biblical
 Euphrasie|F|1|1
 Eurielle|F|1|1
-Eurydice|F|1|1
+Eurydice|F|1|mythological
 Eustache|M?|1|1
 Eusèbe|M?|1|1
 Eutrope|U|1|1
@@ -1067,7 +1067,7 @@ Guislaine|F|1|1
 Gurvan|M|1|1
 Gustaaf|M|6|6
 Gustave|M|4|4
-Guy|M|9|9
+Guy|M|9|mythological
 Guylain|M|1|1
 Guylaine|F|2|2
 Guylène|F|2|2
@@ -1131,7 +1131,7 @@ Henriane|F|1|1
 Henriette|F|7|7
 Henrique|M|3|3
 Henriëtte|F|2|2
-Henry|M|4|4
+Henry|M|4|mythological
 Herbert|M|3|3
 Herman|M|6|6
 Hermance|F|1|1
@@ -1143,7 +1143,7 @@ Herveline|F|1|1
 Hervé|M|7|7
 Hilaire|M?|1|1
 Hilarion|M|1|1
-Hilda|F|6|6
+Hilda|F|6|mythological
 Hilde|F?|7|7
 Hildegarde|F|3|3
 Hippolyte|M|1|mythological
@@ -1164,7 +1164,7 @@ Héloïse|F|2|2
 Hélyette|F|1|1
 Hélène|F|7|7
 Héléna|F|3|3
-Ida|F|4|4
+Ida|F|4|mythological
 Ignace|M?|3|3
 Ilja|F?|1|1
 Ilona|F|2|2
@@ -1173,7 +1173,7 @@ Iman|M|1|1
 Imelda|F|2|2
 Imke|F?|1|1
 Ina|F|2|2
-Indra|F|1|1
+Indra|F|1|mythological
 Ine|F|4|4
 Ineke|F|1|1
 Ines|F|4|4
@@ -1188,7 +1188,7 @@ Irma|F|5|5
 Irmgard|F|1|1
 Irène|F|7|7
 Irénée|M?|1|1
-Isaac|M|1|1
+Isaac|M|1|biblical
 Isabeau|F|1|1
 Isabel|F|6|6
 Isabelle|F|8|8
@@ -1210,7 +1210,7 @@ Jacinthe|F|1|1
 Jack|M|3|3
 Jackie|M?|4|4
 Jacky|M|6|6
-Jacob|M|3|3
+Jacob|M|3|biblical,mythological
 Jacoba|F|2|2
 Jacobus|M|4|4
 Jacquelin|M|1|1
@@ -1276,7 +1276,7 @@ Jens|M|4|4
 Jeremie|M|1|1
 Jeroen|M|5|5
 Jerry|U|2|2
-Jesse|M|1|1
+Jesse|M|1|biblical
 Jessica|F|6|6
 Jessie|F|2|2
 Jessy|U|3|3
@@ -1284,7 +1284,7 @@ Jessyca|F|1|1
 Jim|M|4|4
 Jimmy|M|4|4
 Jo|U|4|4
-Joachim|M|4|4
+Joachim|M|4|biblical
 Joan|U|2|2
 Joane|F|1|1
 Joanna|F|6|6
@@ -1313,7 +1313,7 @@ Johny|M|6|6
 Joke|F|4|4
 Jolanda|F|1|1
 Jolien|F|4|4
-Jonathan|M|5|5
+Jonathan|M|5|biblical
 Joni|F|1|1
 Joost|M|3|3
 Jorane|F|1|1
@@ -1334,7 +1334,7 @@ Josefa|F|2|2
 Josefina|F|1|1
 Joseline|F|1|1
 Joselyne|F|2|2
-Joseph|M|8|8
+Joseph|M|8|biblical,mythological
 Josephine|F|5|5
 Josette|F|7|7
 Josiane|F|6|6
@@ -1362,7 +1362,7 @@ Joële|F|1|1
 Joëlle|F|7|7
 Juan|M|3|3
 Juanita|F|1|1
-Jude|M|1|1
+Jude|M|1|biblical
 Judicaël|M?|1|1
 Judicaëlle|F|1|1
 Judith|F|4|4
@@ -1713,7 +1713,7 @@ Marijn|U|1|1
 Marilyn|F|2|2
 Marilyne|F|3|3
 Marilyse|F|1|1
-Marina|F|6|6
+Marina|F|6|mythological
 Marine|F|5|5
 Marinette|F|4|4
 Marinus|M|2|2
@@ -1745,7 +1745,7 @@ Marlyse|F|1|1
 Marlène|F|4|4
 Marnix|M|4|4
 Marten|M|1|1
-Martha|F|6|6
+Martha|F|6|biblical
 Marthe|F|6|6
 Martial|M|4|4
 Martien|M?|1|1
@@ -1755,7 +1755,7 @@ Martina|F|4|4
 Martine|F|8|8
 Martinus|M|3|3
 Marvin|M|1|1
-Mary|F|3|3
+Mary|F|3|biblical
 Maryan|M|1|1
 Maryelle|F|1|1
 Marylaure|F|1|1
@@ -1816,7 +1816,7 @@ Maïthe|F|1|1
 Maïwen|F|1|1
 Maïwenn|F|1|1
 Melanie|F|3|3
-Melchior|M|1|1
+Melchior|M|1|biblical
 Melisa|F|1|1
 Melissa|F|4|mythological
 Mendy|U|1|1
@@ -1853,7 +1853,7 @@ Miranda|F|3|3
 Mireille|F|6|6
 Mirella|F|2|2
 Miren|F|1|1
-Miriam|F|2|2
+Miriam|F|2|biblical
 Mirjam|F|1|1
 Mirte|F|2|2
 Mirthe|F|1|1
@@ -1908,7 +1908,7 @@ Nadiège|F|1|1
 Nadège|F|5|5
 Nancy|F|7|7
 Nanette|F|1|1
-Naomi|F|2|2
+Naomi|F|2|biblical
 Naomie|F|1|1
 Napoléon|M|1|1
 Narcisse|M?|2|2
@@ -1917,7 +1917,7 @@ Natalie|F|3|3
 Natascha|F|2|2
 Natasja|F|2|2
 Nathalie|F|8|8
-Nathanael|M|1|1
+Nathanael|M|1|biblical
 Nathanaëlle|F|1|1
 Nathaël|M|1|1
 Nazaire|M|1|1
@@ -2087,7 +2087,7 @@ Quentin|M|5|5
 Quinten|M|2|2
 Quiterie|F|1|1
 Quitterie|F|1|1
-Rachel|F|5|5
+Rachel|F|5|biblical
 Rachelle|F|3|3
 Rachèle|F|1|1
 Radegonde|F|1|1
@@ -2106,7 +2106,7 @@ Raphaëlle|F|2|2
 Raymond|M|8|8
 Raymonde|F|6|6
 Raynald|M|1|1
-Rebecca|F|3|3
+Rebecca|F|3|biblical
 Rebekka|F|1|1
 Regina|F|4|4
 Reginald|M|2|2
@@ -2203,7 +2203,7 @@ Rudy|M|6|6
 Rufin|M|1|1
 Rufine|F|1|1
 Rutger|M|1|1
-Ruth|F|3|3
+Ruth|F|3|biblical
 Ruud|M|1|1
 Ruy|M|1|1
 Régina|F|1|1
@@ -2225,9 +2225,9 @@ Salomon|M|1|1
 Salomé|F|2|2
 Salomée|F|1|1
 Salvatore|M|5|5
-Sam|M|4|4
+Sam|M|4|mythological
 Samantha|F|3|3
-Samuel|M|5|5
+Samuel|M|5|biblical
 Samuelle|F|1|1
 Sander|M|3|3
 Sandie|F|2|2
@@ -2236,8 +2236,8 @@ Sandrina|F|1|1
 Sandrine|F|7|7
 Sandy|F?|5|5
 Sanne|F|2|2
-Sara|F|4|4
-Sarah|F|6|6
+Sara|F|4|biblical
+Sarah|F|6|biblical
 Sascha|U|1|1
 Saskia|F|4|4
 Saturnin|M|1|1
@@ -2339,7 +2339,7 @@ Sylvane|F|1|1
 Sylvanie|F|1|1
 Sylvestre|M|1|1
 Sylvette|F|3|3
-Sylvia|F|4|4
+Sylvia|F|4|mythological
 Sylvian|M|1|1
 Sylviane|F|5|5
 Sylvianne|F|1|1
@@ -2360,13 +2360,13 @@ Tangi|M|1|1
 Tanguy|M|2|2
 Tania|F|2|2
 Tanja|F|3|3
-Tara|F|1|1
+Tara|F|1|mythological
 Tatiana|F|3|3
 Teddy|M|3|3
 Teresa|F|3|3
 Tessa|F|2|2
 Thaddée|M|1|1
-Thalia|F|1|1
+Thalia|F|1|mythological
 Thalie|F|1|1
 Thaïs|F|1|1
 Thea|F|1|mythological
@@ -2427,7 +2427,7 @@ Toussainte|F|1|1
 Trees|F|1|1
 Tressy|F|1|1
 Trinité|M|1|1
-Tristan|M|3|3
+Tristan|M|3|mythological
 Tugdual|M|1|1
 Typhaine|F|1|1
 Typhanie|F|1|1
@@ -2564,5 +2564,5 @@ Zéphirin|M|1|1
 Zéphirine|F|1|1
 Zéphyr|M|1|1
 Ève|F|3|3
-Élaine|F|1|1
+Élaine|F|1|mythological
 Éponine|F|1|1

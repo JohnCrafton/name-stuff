@@ -5,14 +5,14 @@
 #
 Aarón|M|1|
 Abad|M|1|
-Abdon|M|1|
-Abel|M|3|
+Abdon|M|1|biblical
+Abel|M|3|biblical
 Abelardo|M|2|
 Abelia|F|1|
 Abelio|M|1|
 Abilia|F|1|
 Abilio|M|2|
-Abraham|M|2|
+Abraham|M|2|biblical
 Acacio|M|1|
 Adalberto|M|1|
 Adela|F|5|
@@ -118,7 +118,7 @@ Anacleta|F|1|
 Anacleto|M|1|
 Analía|F|1|
 Anartz|M|1|
-Anastasia|F|3|
+Anastasia|F|3|mythological
 Anastasio|M|4|
 Ander|M|1|
 Andere|F|1|
@@ -142,7 +142,7 @@ Anibal|M|2|
 Aniceta|F|1|
 Aniceto|M|2|
 Anita|F|1|
-Anna|F|3|mythological
+Anna|F|3|biblical,mythological
 Anselma|F|1|
 Anselmo|M|3|
 Antera|F|1|
@@ -310,7 +310,7 @@ Carles|M|3|
 Carlo|M|1|
 Carlos|M|9|
 Carlota|F|2|
-Carme|F|3|
+Carme|F|3|mythological
 Carmela|F|2|
 Carmele|F|1|
 Carmelina|F|1|
@@ -422,12 +422,12 @@ Damasa|F|1|
 Damaso|M|2|
 Damiana|F|1|
 Damián|M|3|
-Daniel|M|6|
+Daniel|M|6|biblical
 Daniela|F|3|
 Danilo|M|1|
 Daria|F|1|
 Darío|M|3|
-David|M|7|
+David|M|7|biblical
 Delfina|F|2|
 Delfino|M|1|
 Delia|F|3|
@@ -501,7 +501,7 @@ Eleonor|F|1|
 Eleuteria|F|1|
 Eleuterio|M|3|
 Elfidio|M|1|
-Eli|M|1|
+Eli|M|1|biblical
 Elia|F|2|
 Eliana|F|1|
 Elidia|F|1|
@@ -582,7 +582,7 @@ Estela|F|3|
 Estella|F|1|
 Ester|F|3|
 Estevan|M|1|
-Esther|F|6|
+Esther|F|6|biblical
 Estibaliz|F|2|
 Estrela|F|1|
 Estrella|F|4|
@@ -598,7 +598,7 @@ Eulalia|F|4|
 Eulalio|M|2|
 Eulogia|F|2|
 Eulogio|M|3|
-Eusebia|F|3|
+Eusebia|F|3|mythological
 Eusebio|M|5|
 Eustaquia|F|1|
 Eustaquio|M|3|
@@ -787,9 +787,9 @@ Hernesto|M|1|
 Hernán|M|2|
 Higinia|F|1|
 Higinio|M|3|
-Hilaria|F|2|
+Hilaria|F|2|mythological
 Hilario|M|4|
-Hilda|F|1|
+Hilda|F|1|mythological
 Hipolita|F|1|
 Hipolito|M|3|
 Homero|M|1|
@@ -813,7 +813,7 @@ Ibo|M|1|
 Ibon|M|1|
 Ibone|F|1|
 Iciar|F|2|
-Ida|F|1|
+Ida|F|1|mythological
 Idalia|F|1|
 Idoia|F|2|
 Idoya|F|1|
@@ -852,7 +852,7 @@ Irene|F|5|mythological
 Iria|F|1|
 Irma|F|2|
 Irune|F|1|
-Isaac|M|4|
+Isaac|M|4|biblical
 Isabel|F|9|
 Isabela|F|1|
 Isabelo|M|1|
@@ -1059,7 +1059,7 @@ Magda|F|1|
 Magdalena|F|5|
 Magna|F|1|
 Magno|M|1|
-Maia|F|1|
+Maia|F|1|mythological
 Maialen|F|1|
 Maider|F|1|
 Maisa|F|1|
@@ -1105,7 +1105,7 @@ Mariela|F|2|
 Marieta|F|1|
 Marilo|M|1|
 Marin|M|1|
-Marina|F|5|
+Marina|F|5|mythological
 Mario|M|5|
 Maris|F|1|
 Marisa|F|2|
@@ -1171,7 +1171,7 @@ Mireia|F|3|
 Mirella|F|1|
 Miren|F|3|
 Mirena|M|1|
-Miriam|F|4|
+Miriam|F|4|biblical
 Mirian|F|2|
 Mirna|F|1|
 Mirta|F|1|
@@ -1354,7 +1354,7 @@ Rafaela|F|4|
 Rafel|M|1|
 Raimon|M|1|
 Raimunda|F|1|
-Raimundo|M|4|
+Raimundo|M|4|mythological
 Rainerio|M|1|
 Ramira|F|1|
 Ramiro|M|4|
@@ -1423,7 +1423,7 @@ Rufina|F|3|
 Rufino|M|4|
 Ruperta|F|1|
 Rut|F|1|
-Ruth|F|3|
+Ruth|F|3|biblical
 Ruy|M|1|
 Régulo|M|1|
 Rómulo|M|1|
@@ -1439,7 +1439,7 @@ Salvador|M|6|
 Salvadora|F|2|
 Salvina|F|1|
 Salvino|M|1|
-Samuel|M|3|
+Samuel|M|3|biblical
 Sancha|F|1|
 Sancho|M|1|
 Sandalia|F|1|
@@ -1450,11 +1450,11 @@ Santana|F|1|
 Santiaga|F|2|
 Santiago|M|7|
 Santos|U|5|
-Sara|F|5|
+Sara|F|5|biblical
 Sarita|F|1|
 Saturnina|F|3|
 Saturnino|M|4|
-Saul|M|1|
+Saul|M|1|biblical
 Saula|F|1|
 Saulo|M|1|
 Sebastiana|F|2|
@@ -1492,7 +1492,7 @@ Silvia|F|5|
 Silvina|F|1|
 Silvino|M|1|
 Silvio|M|1|
-Simeon|M|1|
+Simeon|M|1|biblical
 Simon|M|3|mythological
 Simona|F|2|
 Sira|F|1|
@@ -1512,7 +1512,7 @@ Sorne|F|1|
 Stela|F|1|
 Stella|F|1|
 Susana|F|6|
-Susanna|F|1|
+Susanna|F|1|biblical
 Tadeo|M|1|
 Tania|F|2|
 Tatiana|F|2|

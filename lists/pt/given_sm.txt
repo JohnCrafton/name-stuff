@@ -54,7 +54,7 @@ Aníbal|M|6|6
 Augusta|F|6|6
 Celeste|F|6|6
 Clara|F|6|6
-David|M|6|6
+David|M|6|biblical
 Domingos|M|6|6
 Filipa|F|6|6
 Fátima|F|6|6
@@ -71,14 +71,14 @@ Marta|F|6|6
 Ricardo|M|6|6
 Rita|F|6|6
 Rogério|M|6|6
-Sara|F|6|6
+Sara|F|6|biblical
 Sofia|F|6|6
 Susana|F|6|6
 Sérgio|M|6|6
 Tiago|M|6|6
 Vasco|M|6|6
 Virgínia|F|6|6
-Abel|M|5|5
+Abel|M|5|biblical
 Abílio|M|5|5
 Adriano|M|5|5
 Albertina|F|5|5
@@ -100,4 +100,4 @@ Cecília|F|5|5
 Cláudia|F|5|5
 Cândida|F|5|5
 César|M|5|5
-Daniel|M|5|5
+Daniel|M|5|biblical

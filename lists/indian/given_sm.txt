@@ -35,7 +35,7 @@ Jyoti|F|6|6
 Kanagaratnam|M|6|6
 Kavita|F|6|6
 Kiran|F?|6|6
-Krishna|U|6|6
+Krishna|U|6|mythological
 Kumari|F|6|6
 Manjit|M?|6|6
 Manju|F?|6|6
@@ -44,7 +44,7 @@ Mohan|M|6|6
 Poonam|F|6|6
 Rajesh|M|6|6
 Rajinder|M?|6|6
-Ram|M|6|6
+Ram|M|6|biblical
 Ramesh|M|6|6
 Rashmi|F|6|6
 Rasiah|M|6|6
@@ -98,6 +98,6 @@ Jatinder|M?|5|5
 Jaya|F|5|5
 Jeyakumar|M|5|5
 Joginder|M?|5|5
-Joseph|M|5|5
+Joseph|M|5|biblical,mythological
 Kalpana|F|5|5
 Kamal|M?|5|5

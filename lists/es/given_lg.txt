@@ -40,7 +40,7 @@ Alejandro|M|7|7
 Alfonso|M|7|7
 Andrés|M|7|7
 Cristina|F|7|7
-David|M|7|7
+David|M|7|biblical
 Eduardo|M|7|7
 Elena|F|7|7
 Emilio|M|7|7
@@ -74,14 +74,14 @@ Begoña|F|6|6
 Belén|F|6|6
 Cesar|M|6|6
 Consuelo|F|6|6
-Daniel|M|6|6
+Daniel|M|6|biblical
 Diego|M|6|6
 Domingo|M|6|6
 Emilia|F|6|6
 Encarnación|F|6|6
 Esperanza|F|6|6
 Esteban|M|6|6
-Esther|F|6|6
+Esther|F|6|biblical
 Eugenia|F|6|6
 Eugenio|M|6|6
 Eva|F|6|6
@@ -169,7 +169,7 @@ Leonor|F|5|5
 Magdalena|F|5|5
 Marcos|M|5|5
 Mari|F|5|5
-Marina|F|5|5
+Marina|F|5|mythological
 Mario|M|5|5
 María del Rosario|F|5|5
 Maxímo|M|5|5
@@ -186,7 +186,7 @@ Petra|F|5|5
 Rocío|F?|5|5
 Sagrario|F|5|5
 Santos|U|5|5
-Sara|F|5|5
+Sara|F|5|biblical
 Sebastián|M|5|5
 Sergio|M|5|5
 Silvia|F|5|5
@@ -255,7 +255,7 @@ Hilario|M|4|4
 Hortensia|F|4|4
 Héctor|M|4|4
 Ildefonso|M|4|4
-Isaac|M|4|4
+Isaac|M|4|biblical
 Ismael|M|4|4
 Iván|M|4|4
 Jeronimo|M|4|4
@@ -272,7 +272,7 @@ Marcelo|M|4|4
 Marcial|M|4|4
 Martina|F|4|4
 Matías|M|4|4
-Miriam|F|4|4
+Miriam|F|4|biblical
 Modesto|M|4|4
 Moisés|M|4|4
 Pascual|M|4|4
@@ -280,7 +280,7 @@ Patricio|M|4|4
 Paulino|M|4|4
 Piedad|F|4|4
 Rafaela|F|4|4
-Raimundo|M|4|4
+Raimundo|M|4|mythological
 Ramiro|M|4|4
 Ramona|F|4|4
 Remedios|F|4|4
@@ -304,7 +304,7 @@ Verónica|F|4|4
 Visitación|F|4|4
 Xavier|M|4|4
 Íñigo|M|4|4
-Abel|M|3|3
+Abel|M|3|biblical
 Adelaida|F|3|3
 Adelina|F|3|3
 Adriana|F|3|3
@@ -317,9 +317,9 @@ Alfonsa|F|3|3
 Alonso|M|3|3
 Amaya|F|3|3
 Ambrosio|M|3|3
-Anastasia|F|3|3
+Anastasia|F|3|mythological
 Angélica|F|3|3
-Anna|F|3|mythological
+Anna|F|3|biblical,mythological
 Anselmo|M|3|3
 Antolin|M|3|3
 Antoni|M|3|3
@@ -344,7 +344,7 @@ Brígida|F|3|3
 Bárbara|F|3|3
 Candelas|F|3|3
 Carles|M|3|3
-Carme|F|3|3
+Carme|F|3|mythological
 Casimiro|M|3|3
 Cayetano|M|3|3
 Ceferino|M|3|3
@@ -375,7 +375,7 @@ Estefania|F|3|3
 Estela|F|3|3
 Ester|F|3|3
 Eulogio|M|3|3
-Eusebia|F|3|3
+Eusebia|F|3|mythological
 Eustaquio|M|3|3
 Evaristo|M|3|3
 Fabian|M|3|3
@@ -464,9 +464,9 @@ Rodolfo|M|3|3
 Rogelio|M|3|3
 Roser|F|3|3
 Rufina|F|3|3
-Ruth|F|3|3
+Ruth|F|3|biblical
 Sabina|F|3|3
-Samuel|M|3|3
+Samuel|M|3|biblical
 Saturnina|F|3|3
 Simon|M|3|mythological
 Sixto|M|3|3
@@ -486,7 +486,7 @@ Virgilio|M|3|3
 Águeda|F|3|3
 Abelardo|M|2|2
 Abilio|M|2|2
-Abraham|M|2|2
+Abraham|M|2|biblical
 Aida|F|2|2
 Ainhoa|F|2|2
 Alba|F|2|2

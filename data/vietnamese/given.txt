@@ -46,7 +46,7 @@ Cuc|F?|5|
 Cuong|M?|9|
 Dac|U|5|
 Dai|M?|5|
-Dan|M?|6|
+Dan|M?|6|biblical,mythological
 Dang|U|8|
 Danh|U|4|
 Dao|F?|6|
@@ -109,7 +109,7 @@ Hong|U|10|
 Hua|U|1|
 Huan|U|7|
 Hue|U|6|
-Hui|U|4|
+Hui|U|4|mythological
 Hun|U|6|
 Hung|M?|11|
 Huong|F?|10|
@@ -218,7 +218,7 @@ Quynh|F?|6|
 Ri|M?|3|
 Sa|U|4|
 Sai|U|1|
-Sam|U|4|
+Sam|U|4|mythological
 Sang|M?|7|
 Sau|U|4|
 Si|M?|5|
@@ -232,7 +232,7 @@ Su|U|6|
 Suu|U|4|
 Suy|U|3|
 Sy|M?|7|
-Tai|M?|7|
+Tai|M?|7|mythological
 Tam|F|9|
 Tan|M?|10|mythological
 Tang|U|4|

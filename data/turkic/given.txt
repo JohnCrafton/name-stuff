@@ -203,7 +203,7 @@ Amir|M|4|
 Anar|F|5|
 Anara|F|6|
 Anarbek|M|1|
-Anastasia|F|5|
+Anastasia|F|5|mythological
 Anastasija|F|4|
 Anastasiya|F|4|
 Anastassia|F|5|
@@ -222,7 +222,7 @@ Angela|F|2|
 Angelika|F|2|
 Angelina|F|3|
 Anis|M|2|
-Anna|F|7|mythological
+Anna|F|7|biblical,mythological
 Ansa|F|2|
 Ansar|M|2|
 Anton|M|5|mythological
@@ -591,7 +591,7 @@ Darya|F|4|
 Daulet|M|5|
 Dauren|M|6|
 Daurenbek|M|3|
-David|M|2|
+David|M|2|biblical
 Davron|M|4|
 Davut|M|5|
 Dayana|F|1|
@@ -1124,7 +1124,7 @@ Hanife|F|6|
 Hanifi|M|3|
 Hanım|F|5|
 Harika|F|2|
-Harun|M|5|
+Harun|M|5|mythological
 Hasan|M|8|
 Hasancan|M|1|
 Hasbi|M|2|
@@ -1188,8 +1188,8 @@ Hüsnüye|F|2|
 Hüsrev|M|1|
 Hıdır|M|4|
 Hızır|M|3|
-Ida|F|2|
-Idris|M|2|
+Ida|F|2|mythological
+Idris|M|2|mythological
 Iftadiye|F|1|
 Igor|M|7|
 Ildar|M|5|
@@ -1305,7 +1305,7 @@ Kazım|M|5|
 Kağan|M|2|
 Kemal|M|7|
 Kemalettin|M|2|
-Kenan|M|6|
+Kenan|M|6|biblical
 Keramettin|M|1|
 Kerem|M|5|
 Kerim|M|4|
@@ -1444,7 +1444,7 @@ Maria|F|7|
 Mariana|F|1|
 Marianna|F|2|
 Marija|F|7|
-Marina|F|7|
+Marina|F|7|mythological
 Mariya|F|7|
 Mariyam|F|3|
 Mark|M|2|
@@ -1801,8 +1801,8 @@ Olmas|M|4|
 Olya|F|2|
 Olzhas|M|6|
 Olçun|M|1|
-Omar|M|2|
-Onan|M|1|
+Omar|M|2|biblical
+Onan|M|1|biblical
 Onat|M|2|
 Onay|M|1|
 Onur|M|6|
@@ -1993,7 +1993,7 @@ Sanjar|M|4|
 Sanzhar|M|3|
 Sapar|M|1|
 Saparbek|M|1|
-Sara|F|4|
+Sara|F|4|biblical
 Saray|U|2|
 Sardor|M|5|
 Sare|F|2|
@@ -2005,7 +2005,7 @@ Saruhan|M|1|
 Sarvar|M|4|
 Sascha|M?|2|
 Sasha|M?|2|
-Sati|F|4|
+Sati|F|4|mythological
 Satılmış|M|3|
 Saule|F|7|
 Savaş|M|4|
@@ -2170,7 +2170,7 @@ Sunnat|M|4|
 Suphi|M|1|
 Suphiye|F|2|
 Sururi|M|1|
-Susanna|F|2|
+Susanna|F|2|biblical
 Suzan|F|5|
 Sveta|F|2|
 Svetlana|F|8|
@@ -2442,7 +2442,7 @@ Yulduz|F|5|
 Yulia|F|7|
 Yuliya|F|8|
 Yulya|F|2|
-Yunus|M|6|
+Yunus|M|6|mythological
 Yurdagül|F|4|
 Yuri|M|6|
 Yuriy|M|6|

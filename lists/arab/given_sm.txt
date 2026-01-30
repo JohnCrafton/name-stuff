@@ -15,7 +15,7 @@ Muhammad|M|9|9
 Abdul|M|8|8
 Hassan|M|8|8
 Hussein|M|8|8
-Ibrahim|M|8|8
+Ibrahim|M|8|mythological
 Khaled|M|8|8
 Layla|F|8|8
 Leyla|F|8|8
@@ -47,13 +47,13 @@ Khalil|M|7|7
 Maha|F|7|7
 Mariam|F|7|7
 May|F|7|7
-Miriam|F|7|7
+Miriam|F|7|biblical
 Muna|F|7|7
 Mustafa|M|7|7
 Nabil|M|7|7
 Nada|F|7|7
 Nadja|F|7|7
-Omar|M|7|7
+Omar|M|7|biblical
 Rana|F|7|7
 Randa|F|7|7
 Rima|F|7|7

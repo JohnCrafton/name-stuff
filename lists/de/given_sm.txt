@@ -6,7 +6,7 @@ Johann|M|10|10
 Josef|M|10|10
 Maria|F|10|10
 Andreas|M|9|9
-Anna|F|9|mythological
+Anna|F|9|biblical,mythological
 Christine|F|9|9
 Elisabeth|F|9|9
 Gerhard|M|9|9
@@ -37,7 +37,7 @@ Brigitte|F|8|8
 Bruno|M|8|8
 Christian|M|8|8
 Claudia|F|8|8
-Daniel|M|8|8
+Daniel|M|8|biblical
 Dieter|M|8|8
 Elfriede|F|8|8
 Elke|U|8|8
@@ -60,7 +60,7 @@ Herbert|M|8|8
 Hermann|M|8|8
 Horst|M|8|8
 Ingrid|F|8|8
-Joachim|M|8|8
+Joachim|M|8|biblical
 Johanna|F|8|8
 Jörg|M|8|8
 Karin|F|8|8
@@ -81,7 +81,7 @@ René|M|8|8
 Robert|M|8|8
 Roland|M|8|8
 Rudolf|M|8|8
-Ruth|F|8|8
+Ruth|F|8|biblical
 Sabine|F|8|8
 Sandra|F|8|8
 Stefan|M|8|8

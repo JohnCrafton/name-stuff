@@ -15,7 +15,7 @@ Muhammad|M|9|9
 Abdul|M|8|8
 Hassan|M|8|8
 Hussein|M|8|8
-Ibrahim|M|8|8
+Ibrahim|M|8|mythological
 Khaled|M|8|8
 Layla|F|8|8
 Leyla|F|8|8
@@ -47,13 +47,13 @@ Khalil|M|7|7
 Maha|F|7|7
 Mariam|F|7|7
 May|F|7|7
-Miriam|F|7|7
+Miriam|F|7|biblical
 Muna|F|7|7
 Mustafa|M|7|7
 Nabil|M|7|7
 Nada|F|7|7
 Nadja|F|7|7
-Omar|M|7|7
+Omar|M|7|biblical
 Rana|F|7|7
 Randa|F|7|7
 Rima|F|7|7
@@ -114,7 +114,7 @@ Houssam|M|6|6
 Hussam|M|6|6
 Iman|F?|6|6
 Isam|M|6|6
-Ismail|M|6|6
+Ismail|M|6|mythological
 Issam|M|6|6
 Jamal|M|6|6
 Jamil|M|6|6
@@ -166,10 +166,10 @@ Roula|F|6|6
 Saeed|M|6|6
 Saida|F|6|6
 Saleem|M|6|6
-Saleh|M|6|6
+Saleh|M|6|mythological
 Salma|F|6|6
 Samar|F|6|6
-Sara|F|6|6
+Sara|F|6|biblical
 Shirin|F|6|6
 Siham|F|6|6
 Sohail|M|6|6
@@ -321,7 +321,7 @@ Rukhsana|F|5|5
 Runak|F|5|5
 Saad|M|5|5
 Safa|F|5|5
-Salah|M|5|5
+Salah|M|5|biblical,mythological
 Salam|M|5|5
 Salem|M|5|5
 Salima|F|5|5
@@ -455,7 +455,7 @@ Hameed|M|4|4
 Hanadi|F|4|4
 Haroon|M|4|4
 Haroun|M|4|4
-Harun|M|4|4
+Harun|M|4|mythological
 Hasina|F|4|4
 Hasna|F|4|4
 Hassina|F|4|4

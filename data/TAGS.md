@@ -15,8 +15,8 @@ Thor|M|4|mythological,historical
 ## Available Tags
 
 ### Origin Tags
-- `biblical` - Names from religious texts
-- `mythological` - Names from mythology (Greek, Norse, etc.)
+- `biblical` - Names from the Bible (e.g., Aaron, Abigail, Adam, Ruth, Noah)
+- `mythological` - Names from mythology (Greek, Roman, Norse, Egyptian, Celtic, etc.)
 - `historical` - Names of notable historical figures
 - `literary` - Names from literature, film, or other media
 
@@ -27,7 +27,6 @@ Thor|M|4|mythological,historical
 
 ### Usage Tags
 - `archaic` - Names no longer in common use
-- `diminutive` - Nicknames or shortened forms
 - `formal` - Full/formal versions of names
 - `diminutive` - Nicknames or shortened forms
 

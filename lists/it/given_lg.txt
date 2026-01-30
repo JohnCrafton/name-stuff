@@ -1,14 +1,14 @@
 # name-stuff given names
 # format: name|gender|frequency|tags
 #
-Joseph|M|11|11
+Joseph|M|11|biblical,mythological
 Maria|F|11|11
-Anna|F|10|mythological
+Anna|F|10|biblical,mythological
 Anthony|M|10|10
 Antonio|M|10|10
 Giuseppe|M|10|10
 John|M|10|10
-Mary|F|10|10
+Mary|F|10|biblical
 Carmel|M|9|9
 Carmen|F|9|9
 Emanuel|M|9|9
@@ -29,7 +29,7 @@ Carlo|M|8|8
 Carmela|F|8|8
 Carmelo|M|8|8
 Charles|M|8|8
-David|M|8|8
+David|M|8|biblical
 Domenico|M|8|8
 Francesca|F|8|8
 Francis|M|8|8
@@ -106,7 +106,7 @@ Massimo|M|7|7
 Maurizio|M|7|7
 Mauro|M|7|7
 Michelle|F|7|7
-Miriam|F|7|7
+Miriam|F|7|biblical
 Monica|F|7|7
 Nicola|U|7|7
 Pasquale|M|7|7
@@ -114,7 +114,7 @@ Patrizia|F|7|7
 Paula|F|7|7
 Peter|M|7|7
 Philip|M|7|7
-Rachel|F|7|7
+Rachel|F|7|biblical
 Raffaele|M|7|7
 Renato|M|7|7
 Robert|M|7|7
@@ -187,8 +187,8 @@ Giulio|M|6|6
 Grace|F|6|6
 Graziella|F|6|6
 Guido|M|6|6
-Henry|M|6|6
-Ida|F|6|6
+Henry|M|6|mythological
+Ida|F|6|mythological
 Iolanda|F|6|6
 Isabelle|F|6|6
 Ivan|M|6|6
@@ -210,7 +210,7 @@ Luca|M|6|6
 Maddalena|F|6|6
 Marcello|M|6|6
 Mariella|F|6|6
-Marina|F|6|6
+Marina|F|6|mythological
 Marthese|F|6|6
 Martin|M|6|6
 Matteo|M|6|6
@@ -236,7 +236,7 @@ Rocco|M|6|6
 Romina|F|6|6
 Rosanna|F|6|6
 Rosario|M|6|6
-Ruth|F|6|6
+Ruth|F|6|biblical
 Sandra|F|6|6
 Sebastiano|M|6|6
 Silvano|M|6|6
@@ -292,7 +292,7 @@ Ciro|M|5|5
 Corrado|M|5|5
 Danilo|M|5|5
 Dante|M|5|5
-Deborah|F|5|5
+Deborah|F|5|biblical
 Diego|M|5|5
 Dina|F|5|5
 Dominic|M?|5|5
@@ -404,15 +404,15 @@ Sandro|M|5|5
 Santa|F|5|5
 Santina|F|5|5
 Santo|M|5|5
-Sara|F|5|5
-Sarah|F|5|5
+Sara|F|5|biblical
+Sarah|F|5|biblical
 Saverio|M|5|5
 Simona|F|5|5
 Simone|M|5|5
 Simonetta|F|5|5
 Sonia|F|5|5
 Speranza|F|5|5
-Susanna|F|5|5
+Susanna|F|5|biblical
 Tiziano|M|5|5
 Tony|M|5|5
 Valentina|F|5|5
@@ -423,7 +423,7 @@ Vanessa|F|5|5
 Virginia|F|5|5
 William|M|5|5
 Yvonne|F|5|5
-Aaron|M|4|4
+Aaron|M|4|biblical,mythological
 Achille|M|4|4
 Addolorata|F|4|4
 Adelaide|F|4|4
@@ -474,7 +474,7 @@ Corinne|F|4|4
 Cosima|F|4|4
 Costantino|M|4|4
 Damiano|M|4|4
-Daniel|M|4|4
+Daniel|M|4|biblical
 Darren|M|4|4
 Delia|F|4|4
 Diana|F|4|mythological
@@ -536,7 +536,7 @@ Jeffrey|M|4|4
 Jennifer|F|4|4
 Jimmy|M|4|4
 Joanna|F|4|4
-Jonathan|M|4|4
+Jonathan|M|4|biblical
 Josef|M|4|4
 Karl|M|4|4
 Kathleen|F|4|4
@@ -596,9 +596,9 @@ Rachele|F|4|4
 Raffaela|F|4|4
 Raimondo|M|4|4
 Ray|M?|4|4
-Rebecca|F|4|4
+Rebecca|F|4|biblical
 Regina|F|4|4
-Reuben|M|4|4
+Reuben|M|4|biblical
 Rinaldo|M|4|4
 Roderick|M|4|4
 Rolando|M|4|4
@@ -611,7 +611,7 @@ Ruggero|M|4|4
 Sabina|F|4|4
 Salvatrice|F|4|4
 Salvina|F|4|4
-Samuel|M|4|4
+Samuel|M|4|biblical
 Sante|M|4|4
 Sebastiana|F|4|4
 Serafina|F|4|4
@@ -622,7 +622,7 @@ Sofia|F|4|4
 Stefan|M|4|4
 Susan|F|4|4
 Suzanne|F|4|4
-Sylvia|F|4|4
+Sylvia|F|4|mythological
 Teresina|F|4|4
 Theresa|F|4|4
 Thomas|M|4|4
@@ -672,7 +672,7 @@ Attilia|F|3|3
 Baptist|M|3|3
 Basilio|M|3|3
 Beniamino|M|3|3
-Benjamin|M|3|3
+Benjamin|M|3|biblical
 Benny|M|3|3
 Bernardino|M|3|3
 Bice|F|3|3
@@ -726,7 +726,7 @@ Emiliano|M|3|3
 Enrichetta|F|3|3
 Eraldo|M|3|3
 Ercole|M|3|3
-Eric|M|3|3
+Eric|M|3|mythological
 Erika|F|3|3
 Ermelinda|F|3|3
 Ermenegildo|M|3|3
@@ -921,7 +921,7 @@ Americo|M|2|2
 Amilcare|M|2|2
 Amleto|M|2|2
 Anacleto|M|2|2
-Anastasia|F|2|2
+Anastasia|F|2|mythological
 Angelino|M|2|2
 Angiola|F|2|2
 Angiolo|M|2|2

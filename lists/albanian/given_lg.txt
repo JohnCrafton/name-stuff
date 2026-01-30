@@ -134,10 +134,10 @@ Hasan|M|6|6
 Hatixhe|F|6|6
 Haxhi|M|6|6
 Hysen|M|6|6
-Ibrahim|M|6|6
+Ibrahim|M|6|mythological
 Ilda|F|6|6
 Ilirjan|M|6|6
-Ismail|M|6|6
+Ismail|M|6|mythological
 Jani|M|6|6
 Kastriot|M|6|6
 Klodiana|F|6|6
@@ -255,7 +255,7 @@ Gjovalin|M|5|5
 Greta|F|5|5
 Guri|F|5|5
 Hajrie|F|5|5
-Haki|M|5|5
+Haki|M|5|mythological
 Halil|M|5|5
 Halit|M|5|5
 Hamdi|M|5|5
@@ -410,7 +410,7 @@ Blendi|M|4|4
 Blerim|M|4|4
 Burhan|M|4|4
 Dalip|M|4|4
-Daniel|M|4|4
+Daniel|M|4|biblical
 Danjela|F|4|4
 Daut|M|4|4
 Demir|M|4|4

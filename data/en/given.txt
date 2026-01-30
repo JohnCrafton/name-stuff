@@ -115,7 +115,7 @@ Aarna|F|4|modern
 Aarnav|M|3|modern
 Aaro|M|2|modern
 Aarohi|F|3|modern
-Aaron|M|10|modern
+Aaron|M|10|biblical,modern,mythological
 Aaronjames|M|1|modern
 Aarron|M|4|modern
 Aarsh|M|2|modern
@@ -212,7 +212,7 @@ Abdinasir|M|2|modern
 Abdirahim|M|2|modern
 Abdirahman|M|4|modern
 Abdirizak|M|2|modern
-Abdon|M|2|modern
+Abdon|M|2|biblical,modern
 Abdou|M|2|modern
 Abdoul|M|3|modern
 Abdoulaye|M|3|modern
@@ -242,12 +242,12 @@ Abdurahman|M|2|modern
 Abdurrahman|M|4|modern
 Abe|M|5|vintage
 Abed|M|2|modern
-Abednego|M|2|modern
+Abednego|M|2|biblical,modern
 Abeeha|F|2|
 Abeer|F?|3|modern
 Abeera|F|2|modern
 Abegail|F|3|modern
-Abel|M|7|modern
+Abel|M|7|biblical,modern
 Abelardo|M|4|modern
 Abelina|F|3|modern
 Abelino|M|3|modern
@@ -260,7 +260,7 @@ Aberdeen|F|2|modern
 Abhay|M|3|modern
 Abhi|M|2|modern
 Abhijay|M|1|modern
-Abhimanyu|M|2|modern
+Abhimanyu|M|2|modern,mythological
 Abhinav|M|4|modern
 Abhiraj|M|2|modern
 Abhiram|M|4|modern
@@ -274,7 +274,7 @@ Abie|M?|3|vintage
 Abiel|M|4|modern
 Abigael|F|4|modern
 Abigaelle|F|2|
-Abigail|F|9|modern
+Abigail|F|9|biblical,modern
 Abigaile|F|3|modern
 Abigal|F|3|modern
 Abigale|F|5|modern
@@ -282,20 +282,20 @@ Abigayl|F|2|modern
 Abigayle|F|5|modern
 Abigial|F|2|modern
 Abiha|F|2|modern
-Abijah|M?|2|modern
+Abijah|M?|2|biblical,modern
 Abilene|F|4|modern
 Abimael|M|4|modern
 Abiola|F?|2|modern
 Abir|M?|3|modern
 Abisai|M?|4|modern
-Abishai|M?|2|modern
+Abishai|M?|2|biblical,modern
 Abisola|F|2|modern
 Able|M|4|modern
-Abner|M|5|modern
+Abner|M|5|biblical,modern
 Abou|M|2|modern
 Aboubacar|M|2|modern
 Abra|F|4|modern
-Abraham|M|8|modern
+Abraham|M|8|biblical,modern
 Abrahan|M|4|modern
 Abrahim|M|3|modern
 Abrahm|M|3|modern
@@ -354,7 +354,7 @@ Aceyn|M|2|
 Achille|M|2|vintage
 Achilles|M|4|modern
 Achilleus|M|1|mythological
-Achsah|F|2|
+Achsah|F|2|biblical
 Acie|M|4|vintage
 Acquanetta|F|2|
 Acre|M|2|
@@ -366,7 +366,7 @@ Adabella|F|2|modern
 Adabelle|F|2|modern
 Adael|M|3|
 Adaeze|F|3|modern
-Adah|F|4|modern
+Adah|F|4|biblical,modern
 Adahlia|F|2|modern
 Adaia|F|2|
 Adaiah|F?|3|modern
@@ -413,7 +413,7 @@ Adalyna|F|2|modern
 Adalyne|F|3|modern
 Adalynn|F|6|modern
 Adalynne|F|4|modern
-Adam|M|10|modern
+Adam|M|10|biblical,modern,mythological
 Adama|U|4|modern
 Adamae|F|2|modern
 Adamari|F|4|modern
@@ -579,7 +579,7 @@ Adit|M|2|modern
 Adith|M|2|modern
 Adithi|F|2|modern
 Adithya|M|3|modern
-Aditi|F|4|modern
+Aditi|F|4|modern,mythological
 Aditri|F|2|modern
 Aditya|M|5|modern
 Adiva|F|2|modern
@@ -615,7 +615,7 @@ Adonia|F|2|modern
 Adoniah|U|2|modern
 Adonias|M|2|modern
 Adonica|F|2|
-Adonijah|M?|2|modern
+Adonijah|M?|2|biblical,modern
 Adonis|M|6|mythological
 Adonna|F|3|
 Adonnis|M|3|
@@ -657,7 +657,7 @@ Adrick|M|2|modern
 Adrie|F|2|modern
 Adrieana|F|2|modern
 Adrieanna|F|2|modern
-Adriel|M|6|
+Adriel|M|6|biblical
 Adriell|M|2|modern
 Adriella|F|2|modern
 Adrielle|F|4|modern
@@ -712,7 +712,7 @@ Aella|F|3|
 Aelyn|F|2|modern
 Aemilia|F|2|modern
 Aemon|M|2|modern
-Aeneas|M|2|modern
+Aeneas|M|2|biblical,modern
 Aengus|M|2|modern
 Aeon|U|2|modern
 Aerabella|F|2|modern
@@ -762,7 +762,7 @@ Agape|U|2|
 Agapita|F|2|vintage
 Agapito|M|4|vintage
 Agasthya|M|2|
-Agastya|M|4|
+Agastya|M|4|mythological
 Agata|F|2|modern
 Agatha|F|5|vintage
 Aggie|F|4|vintage
@@ -1185,7 +1185,7 @@ Alanys|F|2|modern
 Alanzo|M|2|modern
 Alara|F|4|
 Alaria|F|2|modern
-Alaric|M|4|modern
+Alaric|M|4|modern,mythological
 Alarik|M|2|modern
 Alasdair|M|2|modern
 Alasha|F|2|modern
@@ -1248,7 +1248,7 @@ Albie|U|2|
 Albin|M|4|vintage
 Albina|F|4|vintage
 Albino|M|4|vintage
-Albion|M|3|vintage
+Albion|M|3|mythological,vintage
 Albirda|F|2|vintage
 Albirta|F|2|vintage
 Alcario|M|2|
@@ -1477,7 +1477,7 @@ Aleyssa|F|2|modern
 Aleyza|F|2|modern
 Alezander|M|2|modern
 Alezandra|F|2|modern
-Alf|M|4|vintage
+Alf|M|4|mythological,vintage
 Alfa|F?|2|vintage
 Alferd|M|3|vintage
 Alfie|M?|4|
@@ -2039,7 +2039,7 @@ Amayra|F|2|
 Amayrani|F|3|modern
 Amayrany|F|2|modern
 Amazi|M?|2|
-Amaziah|M?|3|modern
+Amaziah|M?|3|biblical,modern
 Amazin|F?|2|modern
 Amazing|F?|2|modern
 Amazyn|F|2|
@@ -2208,7 +2208,7 @@ Ammar|M|4|modern
 Ammara|F|2|modern
 Ammi|F|2|modern
 Ammie|F|4|
-Ammon|M|4|modern
+Ammon|M|4|modern,mythological
 Ammy|F|4|modern
 Amna|F|4|modern
 Amnah|F|2|modern
@@ -2238,7 +2238,7 @@ Amouri|U|2|
 Amparo|F|4|vintage
 Amr|M|3|modern
 Amra|F|2|modern
-Amram|M|2|
+Amram|M|2|biblical
 Amran|F?|2|modern
 Amreen|F|2|modern
 Amri|F?|2|modern
@@ -2416,7 +2416,7 @@ Anastacio|M|4|vintage
 Anastaisa|F|2|modern
 Anastasha|F|2|modern
 Anastashia|F|2|modern
-Anastasia|F|7|modern
+Anastasia|F|7|modern,mythological
 Anastasija|F|2|modern
 Anastasio|M|2|vintage
 Anastasios|M|4|
@@ -2653,7 +2653,7 @@ Anhad|M?|2|
 Anhar|F|2|modern
 Anhthu|F|2|modern
 Ani|F|4|modern
-Ania|F|4|modern
+Ania|F|4|modern,mythological
 Aniah|F|4|modern
 Anias|M?|2|modern
 Aniaya|F|2|modern
@@ -2741,7 +2741,7 @@ Ankush|M|2|modern
 Anmarie|F|2|modern
 Anmol|U|3|modern
 Ann|F|9|
-Anna|F|10|mythological,vintage
+Anna|F|10|biblical,mythological,vintage
 Annabel|F|6|modern
 Annabell|F|5|modern
 Annabella|F|6|modern
@@ -3066,7 +3066,7 @@ Ap|M|1|
 Aparna|F|3|modern
 Aphrodite|F|3|modern,mythological
 Apolinar|M|4|modern
-Apollo|M|5|
+Apollo|M|5|mythological
 Apollonia|F|3|modern
 Apollos|M|2|modern
 Apolo|M|2|modern
@@ -3117,7 +3117,7 @@ Aradia|F|2|modern
 Araeya|F|2|modern
 Araf|M|2|modern
 Arafat|M|2|modern
-Arah|F|3|modern
+Arah|F|3|biblical,modern
 Araia|F|2|modern
 Araina|F|3|modern
 Araiya|F|2|modern
@@ -3125,7 +3125,7 @@ Araiyah|F|2|modern
 Araly|F|2|modern
 Aralyn|F|3|modern
 Aralynn|F|3|modern
-Aram|M|4|modern
+Aram|M|4|biblical,modern
 Araminta|F|2|vintage
 Aramis|M?|4|modern
 Aran|M|3|modern
@@ -3235,7 +3235,7 @@ Argelia|F|3|modern
 Argelio|M|2|modern
 Argenis|M|3|modern
 Argentina|F|2|vintage
-Argie|F?|4|vintage
+Argie|F?|4|mythological,vintage
 Argus|M|2|vintage
 Argyle|M?|2|vintage
 Arha|F|2|
@@ -3360,7 +3360,7 @@ Arjan|M|3|
 Arjay|M|2|modern
 Arjen|M|2|modern
 Arjun|M|6|modern
-Arjuna|M|2|modern
+Arjuna|M|2|modern,mythological
 Arjunreddy|M|2|
 Arkan|M|2|
 Arkeem|M|2|modern
@@ -3647,7 +3647,7 @@ Arzella|F|2|vintage
 Arzoi|F|2|
 Arzoyi|F|2|
 Arzu|F|2|modern
-Asa|M|6|modern
+Asa|M|6|biblical,modern
 Asaad|M|3|
 Asad|M|4|modern
 Asael|M|4|modern
@@ -3680,7 +3680,7 @@ Aseel|F?|4|modern
 Aseem|M|2|modern
 Asees|F|2|
 Asenat|F|2|
-Asenath|F|2|
+Asenath|F|2|biblical
 Asencion|M?|2|vintage
 Aseneth|F|2|modern
 Aser|M|2|modern
@@ -3718,7 +3718,7 @@ Ashe|U|3|modern
 Asheley|F|3|modern
 Ashely|F|5|modern
 Ashelyn|F|2|modern
-Asher|M|8|modern
+Asher|M|8|biblical,modern
 Asherah|F|2|
 Asheton|U|2|modern
 Ashey|F|2|modern
@@ -3774,7 +3774,7 @@ Ashton|U|8|modern
 Ashtyn|F|5|modern
 Ashtynn|F?|2|modern
 Ashunti|F|2|modern
-Ashur|M|3|modern
+Ashur|M|3|biblical,modern
 Ashvi|F|2|
 Ashvik|M|2|
 Ashvin|M|2|modern
@@ -3866,7 +3866,7 @@ Atha|F?|4|vintage
 Athalee|F|2|vintage
 Athalene|F|2|vintage
 Athalia|F|3|
-Athaliah|F|2|
+Athaliah|F|2|biblical
 Athalie|F|2|vintage
 Athan|M|4|modern
 Athanasia|F|3|
@@ -4268,7 +4268,7 @@ Awab|M|2|modern
 Awad|M|2|modern
 Awais|M|2|modern
 Awesome|M?|2|modern
-Awilda|F|4|
+Awilda|F|4|mythological
 Aws|M|2|modern
 Axavier|M|2|modern
 Axcel|M|2|modern
@@ -4439,7 +4439,7 @@ Azalee|F|4|vintage
 Azaleia|F|2|
 Azaleya|F|2|
 Azalia|F|4|modern
-Azaliah|F|2|modern
+Azaliah|F|2|biblical,modern
 Azalie|F|2|modern
 Azaliyah|F|2|modern
 Azalya|F|2|modern
@@ -4455,7 +4455,7 @@ Azarah|F|2|
 Azarel|M|2|
 Azari|U|4|
 Azaria|F|5|modern
-Azariah|U|6|modern
+Azariah|U|6|biblical,modern
 Azarian|M|2|modern
 Azarias|M|2|modern
 Azarie|F?|2|modern
@@ -4591,7 +4591,7 @@ Balin|M|2|modern
 Balinda|F|3|
 Ballard|M|4|vintage
 Baltazar|M|4|modern
-Balthazar|M|2|modern
+Balthazar|M|2|biblical,modern
 Bama|F|2|vintage
 Bambi|F|5|
 Bambie|F|2|
@@ -4612,7 +4612,7 @@ Bao|U|4|modern
 Baraa|M?|2|modern
 Barabara|F|2|
 Barack|M|2|modern
-Barak|M|3|modern
+Barak|M|3|biblical,modern
 Baraka|M?|2|modern
 Baran|U|2|modern
 Barb|F|4|
@@ -4693,7 +4693,7 @@ Bastien|M|2|modern
 Bastion|M|2|modern
 Basya|F|4|modern
 Bates|M|2|modern
-Bathsheba|F|2|
+Bathsheba|F|2|biblical
 Batina|F|2|
 Batool|F|2|modern
 Batoul|F|2|modern
@@ -4829,7 +4829,7 @@ Belynda|F|3|
 Bemnet|U|2|modern
 Ben|M|7|vintage
 Bena|F|3|vintage
-Benaiah|M|4|modern
+Benaiah|M|4|biblical,modern
 Benancio|M|2|vintage
 Benard|M|4|
 Benay|F|2|
@@ -4853,7 +4853,7 @@ Benita|F|6|
 Benito|M|6|modern
 Benjaman|M|4|vintage
 Benjamen|M|4|modern
-Benjamin|M|10|modern
+Benjamin|M|10|biblical,modern
 Benjamine|M|4|modern
 Benjamyn|M|2|modern
 Benjerman|M|2|modern
@@ -4896,7 +4896,7 @@ Benzion|M|4|modern
 Beola|F|2|vintage
 Beonca|F|2|modern
 Beonka|F|2|modern
-Bera|F?|2|vintage
+Bera|F?|2|biblical,vintage
 Berda|F|2|
 Berdell|U|2|vintage
 Berdella|F|2|vintage
@@ -5812,7 +5812,7 @@ Briona|F|4|modern
 Brionna|F|4|modern
 Brionne|F|2|modern
 Briony|F|2|modern
-Brisa|F|5|modern
+Brisa|F|5|modern,mythological
 Briseida|F|4|modern
 Briseidy|F|2|modern
 Briseis|F|4|modern
@@ -6251,7 +6251,7 @@ Cailyn|F|5|modern
 Cailynn|F|4|modern
 Cailín|F|1|
 Cain|M|5|modern
-Cainan|M|3|modern
+Cainan|M|3|biblical,modern
 Caine|M|4|modern
 Cainen|M|3|modern
 Caio|M|3|modern
@@ -6297,7 +6297,7 @@ Caldwell|M|3|vintage
 Cale|M|5|modern
 Calea|F|2|modern
 Caleah|F|3|modern
-Caleb|M|9|modern
+Caleb|M|9|biblical,modern
 Calee|F|3|modern
 Caleel|M|2|modern
 Caleen|F|2|
@@ -6356,7 +6356,7 @@ Callie|F|7|modern
 Callin|M?|2|modern
 Calliope|F|5|
 Callista|F|4|modern
-Callisto|F?|2|
+Callisto|F?|2|mythological
 Calloway|M?|3|
 Callum|M|6|
 Cally|F?|4|modern
@@ -6375,7 +6375,7 @@ Calvyn|M|2|modern
 Caly|F|2|modern
 Calyn|F?|3|modern
 Calynn|F|2|modern
-Calypso|F|2|modern
+Calypso|F|2|modern,mythological
 Calyssa|F|2|modern
 Calysta|F|2|modern
 Calyx|M?|2|modern
@@ -6798,7 +6798,7 @@ Casmer|M|2|vintage
 Casmir|M|2|vintage
 Cason|M|6|modern
 Casondra|F|4|modern
-Caspar|M|2|modern
+Caspar|M|2|biblical,modern
 Caspen|M|2|
 Casper|M|5|
 Caspian|M|4|
@@ -7147,7 +7147,7 @@ Chanda|F|5|
 Chandel|F|2|modern
 Chandell|F|2|modern
 Chandelle|F|2|modern
-Chandi|F|2|modern
+Chandi|F|2|modern,mythological
 Chandlar|U|2|modern
 Chandler|M?|6|modern
 Chandni|F|2|modern
@@ -7548,7 +7548,7 @@ Chester|M|8|vintage
 Chestina|F|2|
 Chestine|F|2|vintage
 Cheston|M|3|modern
-Chet|M|5|
+Chet|M|5|mythological
 Chetan|M|2|modern
 Chett|M|2|modern
 Chevelle|F?|4|modern
@@ -7627,7 +7627,7 @@ Chipper|M|2|
 Chiquita|F|5|modern
 Chiquitta|F|2|modern
 Chirag|M|3|modern
-Chiron|M|2|
+Chiron|M|2|mythological
 Chirstina|F|2|modern
 Chirstine|F|2|
 Chirstopher|M|4|modern
@@ -8006,7 +8006,7 @@ Cleofas|M?|2|vintage
 Cleola|F|4|vintage
 Cleon|M|4|vintage
 Cleona|F|3|vintage
-Cleone|F|4|vintage
+Cleone|F|4|mythological,vintage
 Cleopatra|F|4|vintage
 Cleophas|M|3|vintage
 Cleophus|M|4|
@@ -8020,7 +8020,7 @@ Clessie|F|2|vintage
 Clester|M?|2|vintage
 Cleston|M|2|vintage
 Cleta|F|4|vintage
-Clete|M|2|
+Clete|M|2|mythological
 Cletis|M?|4|vintage
 Cleto|M|2|vintage
 Cletus|M|5|vintage
@@ -8084,7 +8084,7 @@ Clydene|F|2|
 Clydia|F|3|
 Clydie|F|3|vintage
 Clytee|F|2|vintage
-Clytie|F|2|vintage
+Clytie|F|2|mythological,vintage
 Clíodhna|F|3|
 Clíona|F|5|
 Coady|M|2|modern
@@ -8230,7 +8230,7 @@ Constancia|F|2|vintage
 Constant|M?|2|vintage
 Constantin|M|2|modern
 Constantina|F|3|
-Constantine|M?|5|modern
+Constantine|M?|5|modern,mythological
 Constantino|M|4|vintage
 Constantinos|M|3|
 Constanza|F|3|modern
@@ -8389,7 +8389,7 @@ Corvin|M|3|modern
 Corwin|M|4|modern
 Corwyn|M|2|modern
 Cory|M?|8|modern
-Corydon|M|2|modern
+Corydon|M|2|modern,mythological
 Coryn|F|3|modern
 Corynn|F|3|modern
 Corynne|F|2|modern
@@ -8642,7 +8642,7 @@ Cyra|F|3|modern
 Cyrah|F|2|modern
 Cyree|M|2|modern
 Cyrena|F|3|modern
-Cyrene|F|2|modern
+Cyrene|F|2|modern,mythological
 Cyriah|F|2|modern
 Cyrie|M|2|
 Cyril|M|6|vintage
@@ -8929,7 +8929,7 @@ Damarien|M|2|modern
 Damario|M|4|modern
 Damarion|M|4|modern
 Damarious|M|2|modern
-Damaris|F|6|modern
+Damaris|F|6|biblical,modern
 Damarius|M|4|modern
 Damariz|F|2|modern
 Damarko|M|2|modern
@@ -8998,7 +8998,7 @@ Damyiah|F|2|modern
 Damyla|F|2|
 Damyon|M|2|modern
 Damyra|F|2|modern
-Dan|M|8|
+Dan|M|8|biblical,mythological
 Dana|F?|8|
 Danae|F|5|modern,mythological
 Danah|F|4|modern
@@ -9062,7 +9062,7 @@ Danice|F|3|
 Danicia|F|1|modern
 Danicka|F|2|modern
 Danie|U|3|modern
-Daniel|M|11|modern
+Daniel|M|11|biblical,modern
 Daniela|F|7|modern
 Daniele|F?|4|modern
 Daniell|U|4|modern
@@ -9389,7 +9389,7 @@ Dason|M|3|modern
 Dastan|M|2|modern
 Dat|M|3|modern
 Datha|F|2|vintage
-Dathan|M|4|modern
+Dathan|M|4|biblical,modern
 Datron|M|2|modern
 Daud|M|2|modern
 Daulton|M|4|modern
@@ -9430,7 +9430,7 @@ Davia|F|4|modern
 Davian|M|5|modern
 Daviana|F|3|modern
 Davianna|F|3|modern
-David|M|12|
+David|M|12|biblical
 Davida|F|4|
 Davide|M|3|modern
 Davidlee|M|2|modern
@@ -9674,7 +9674,7 @@ Deberah|F|2|
 Debi|F|4|
 Debie|F|2|
 Debora|F|6|
-Deborah|F|10|
+Deborah|F|10|biblical
 Deboraha|F|2|
 Deborahann|F|2|
 Deborh|F|2|
@@ -9760,7 +9760,7 @@ Deiontae|M|2|modern
 Deionte|M|2|modern
 Deirbhile|F|1|
 Deirdra|F|4|
-Deirdre|F|8|
+Deirdre|F|8|mythological
 Deisha|F|2|modern
 Deisi|F|3|modern
 Deisy|F|4|modern
@@ -9855,7 +9855,7 @@ Deliana|F|2|modern
 Delicia|F|4|
 Delight|F|4|vintage
 Delila|F|4|modern
-Delilah|F|7|modern
+Delilah|F|7|biblical,modern
 Deliliah|F|2|modern
 Delina|F|4|modern
 Delinda|F|4|
@@ -10616,7 +10616,7 @@ Dimitry|M|3|modern
 Dimond|F|2|modern
 Dimple|F|4|vintage
 Dina|F|6|
-Dinah|F|6|
+Dinah|F|6|biblical
 Dinari|M|2|modern
 Dineen|F|2|
 Dinero|M|3|
@@ -10915,7 +10915,7 @@ Dorann|F|2|
 Doranne|F|2|
 Dorathea|F|3|vintage
 Dorathy|F|4|vintage
-Dorcas|F|5|vintage
+Dorcas|F|5|biblical,vintage
 Dorcus|F|2|vintage
 Dore|F?|2|
 Dorean|U|2|
@@ -11328,7 +11328,7 @@ Ebbie|U|3|vintage
 Ebelin|F|2|modern
 Eben|M|4|modern
 Ebenezer|M|4|modern
-Eber|M|4|modern
+Eber|M|4|biblical,modern,mythological
 Eberardo|M|2|modern
 Ebert|M|2|vintage
 Ebin|M|2|modern
@@ -11409,7 +11409,7 @@ Edmond|M|6|vintage
 Edmonia|F|3|vintage
 Edmund|M|7|vintage
 Edmundo|M|4|modern
-Edna|F|9|vintage
+Edna|F|9|biblical,vintage
 Ednamae|F|2|vintage
 Edoardo|M|2|modern
 Edon|M|2|modern
@@ -11551,7 +11551,7 @@ Elad|M|2|modern
 Eladia|F|2|modern
 Eladio|M|4|modern
 Elaf|F|2|
-Elah|F|2|modern
+Elah|F|2|biblical,modern
 Elahni|F|2|
 Elai|M|2|modern
 Elaia|F|2|mythological
@@ -11563,7 +11563,7 @@ Elaine|F|9|
 Elainna|F|2|modern
 Elaiza|F|2|modern
 Elajah|F|2|modern
-Elam|M|4|modern
+Elam|M|4|biblical,modern
 Elan|M?|4|modern
 Elana|F|5|modern
 Elanah|F|2|modern
@@ -11630,10 +11630,10 @@ Eleanor|F|9|vintage
 Eleanora|F|5|modern
 Eleanore|F|6|vintage
 Elease|F|4|vintage
-Eleazar|M|5|modern
+Eleazar|M|5|biblical,modern
 Elecia|F|3|modern
 Electa|F|4|vintage
-Electra|F|4|modern
+Electra|F|4|modern,mythological
 Eleen|F|3|modern
 Eleena|F|2|modern
 Eleftheria|F|2|modern
@@ -11689,14 +11689,14 @@ Elgin|M|4|vintage
 Elhadj|M|2|modern
 Elhadji|M|2|modern
 Elham|F?|2|
-Eli|M|8|modern
+Eli|M|8|biblical,modern
 Elia|F?|5|modern
 Eliab|M|3|modern
 Eliabeth|F|2|modern
 Eliah|U|4|modern
 Eliahna|F|2|
 Eliahs|M|1|modern
-Eliakim|M|2|
+Eliakim|M|2|biblical,mythological
 Eliam|M|4|
 Elian|M|6|
 Eliana|F|7|modern
@@ -11733,7 +11733,7 @@ Elienai|F|2|modern
 Elier|M|3|modern
 Elieser|M|2|modern
 Eliette|F|4|
-Eliezer|M|5|modern
+Eliezer|M|5|biblical,modern
 Elif|F|4|modern
 Eliga|M|2|vintage
 Eligah|M|4|vintage
@@ -11742,10 +11742,10 @@ Eligh|M|4|modern
 Eligha|M|2|vintage
 Eligio|M|4|modern
 Elih|M|2|modern
-Elihu|M|4|vintage
+Elihu|M|4|biblical,vintage
 Elihue|M|2|vintage
 Elija|M|4|modern
-Elijah|M|9|modern
+Elijah|M|9|biblical,modern
 Elijahjames|M|2|modern
 Elijan|M|2|modern
 Elijha|M|3|modern
@@ -11755,7 +11755,7 @@ Elika|F|2|modern
 Elikai|M|2|
 Elilah|F|2|
 Elim|U|3|modern
-Elimelech|M|4|modern
+Elimelech|M|4|biblical,modern
 Elin|F|5|modern
 Elina|F|5|modern
 Elinda|F|2|
@@ -11785,8 +11785,8 @@ Elise|F|7|modern
 Elisea|F|2|modern
 Eliseo|M|6|modern
 Elisha|F?|6|modern
-Elishah|M?|2|modern
-Elisheba|F|2|modern
+Elishah|M?|2|biblical,modern
+Elisheba|F|2|biblical,modern
 Elisheva|F|4|modern
 Elishia|F|3|modern
 Elisia|F|4|modern
@@ -11977,7 +11977,7 @@ Elohim|M|2|
 Elois|F|4|vintage
 Eloisa|F|5|vintage
 Eloise|F|7|
-Elon|M|4|modern
+Elon|M|4|biblical,modern
 Elona|F|4|modern
 Elonda|F|3|
 Eloni|F|2|
@@ -12362,10 +12362,10 @@ Ennifer|F|2|modern
 Ennio|M|2|modern
 Ennis|M?|4|vintage
 Enoc|M|4|modern
-Enoch|M|6|modern
+Enoch|M|6|biblical,modern
 Enola|F|4|vintage
 Enora|F|2|modern
-Enos|M|4|vintage
+Enos|M|4|mythological,vintage
 Enrica|F|2|
 Enrico|M|4|
 Enrigue|M|3|modern
@@ -12414,7 +12414,7 @@ Eran|M?|3|modern
 Erandi|F|2|modern
 Erandy|F|2|modern
 Erasmo|M|4|modern
-Erasmus|M|2|vintage
+Erasmus|M|2|mythological,vintage
 Erasto|M|2|modern
 Erastus|M|2|vintage
 Erbie|M?|2|vintage
@@ -12440,7 +12440,7 @@ Erian|U|2|modern
 Eriana|F|4|modern
 Erianna|F|4|modern
 Eriberto|M|4|modern
-Eric|M|10|
+Eric|M|10|mythological
 Erica|F|8|modern
 Ericca|F|3|modern
 Erice|M?|2|
@@ -12557,7 +12557,7 @@ Esabella|F|3|modern
 Esai|M|4|modern
 Esaiah|M|2|modern
 Esaias|M|3|modern
-Esau|M|4|modern
+Esau|M|4|biblical,modern
 Esaul|M|2|modern
 Esaw|M|2|vintage
 Esbeidy|F|2|modern
@@ -12647,7 +12647,7 @@ Estevan|M|5|modern
 Esteven|M|3|modern
 Esthefany|F|2|modern
 Esthela|F|2|modern
-Esther|F|9|vintage
+Esther|F|9|biblical,vintage
 Esti|F|2|
 Estiben|M|2|modern
 Estie|F|2|vintage
@@ -12666,10 +12666,10 @@ Esvin|M|2|modern
 Esyllt|F|1|
 Etai|M|2|modern
 Etan|M|2|modern
-Etana|F|2|modern
+Etana|F|2|modern,mythological
 Eternity|F|4|modern
 Etha|F|4|vintage
-Ethan|M|9|modern
+Ethan|M|9|biblical,modern
 Ethaniel|M|3|modern
 Ethanjames|M|2|modern
 Ethel|F|9|vintage
@@ -12683,7 +12683,7 @@ Ethelmae|F|2|vintage
 Ethelyn|F|4|vintage
 Ethelyne|F|2|vintage
 Ethen|M|4|modern
-Ether|F?|4|vintage
+Ether|F?|4|mythological,vintage
 Etheridge|M|2|vintage
 Ethin|M|2|modern
 Ethlyn|F|3|vintage
@@ -12744,7 +12744,7 @@ Eulla|F|2|vintage
 Eulogio|M|3|
 Eun|F|2|modern
 Euna|F|4|vintage
-Eunice|F|7|vintage
+Eunice|F|7|biblical,vintage
 Eunie|F|2|vintage
 Eunique|F|3|modern
 Eupha|F|2|vintage
@@ -12754,7 +12754,7 @@ Eural|M|2|vintage
 Eureka|F|3|
 Euretha|F|2|vintage
 Euron|F|1|
-Eusebia|F|2|vintage
+Eusebia|F|2|mythological,vintage
 Eusebio|M|4|
 Eustace|M|3|vintage
 Eustacia|F|2|
@@ -12814,7 +12814,7 @@ Evany|F|3|modern
 Evaristo|M|4|modern
 Evarose|F|2|modern
 Evart|M|2|vintage
-Eve|F|6|modern
+Eve|F|6|biblical,modern,mythological
 Evea|F|2|vintage
 Evee|F|3|modern
 Evelean|F|2|vintage
@@ -12836,7 +12836,7 @@ Evelyna|F|2|modern
 Evelyne|F|4|vintage
 Evelynn|F|6|modern
 Evelynne|F|4|modern
-Even|M|3|modern
+Even|M|3|modern,mythological
 Evens|M|2|modern
 Eveny|F|2|modern
 Ever|U|5|modern
@@ -12951,7 +12951,7 @@ Ezechiel|M|2|modern
 Ezekeil|M|2|modern
 Ezekiah|M|2|
 Ezekial|M|4|modern
-Ezekiel|M|7|modern
+Ezekiel|M|7|biblical,modern
 Ezel|M|2|modern
 Ezell|M|4|vintage
 Ezella|F|2|vintage
@@ -12970,7 +12970,7 @@ Ezmae|F|2|modern
 Ezmay|F|2|
 Ezme|F|2|
 Ezmeralda|F|2|modern
-Ezra|M|8|
+Ezra|M|8|biblical
 Ezrael|M|2|
 Ezrah|M?|4|
 Ezran|M|2|
@@ -13222,7 +13222,7 @@ Fergus|M|3|modern
 Ferguson|M|2|modern
 Ferlin|M|2|
 Ferman|M|4|vintage
-Fermin|M|4|modern
+Fermin|M|4|modern,mythological
 Fermina|F|2|vintage
 Fermon|M|2|vintage
 Fern|F|6|vintage
@@ -13246,7 +13246,7 @@ Feven|F|2|modern
 Fey|F|2|modern
 Ffion|F?|1|
 Ffiona|F|1|
-Fflur|F|1|
+Fflur|F|1|mythological
 Fia|F|3|
 Fiach|M|2|
 Fiachra|M|1|
@@ -13545,7 +13545,7 @@ French|M|4|vintage
 Frenchie|F?|2|
 Freya|F|6|
 Freyah|F|2|
-Freyja|F|4|
+Freyja|F|4|mythological
 Frida|F|5|modern
 Frieda|F|6|vintage
 Friedrich|M|3|modern
@@ -13617,7 +13617,7 @@ Gabryela|F|2|modern
 Gabryella|F|3|modern
 Gabryelle|F|3|modern
 Gaby|F|4|modern
-Gad|M|2|modern
+Gad|M|2|biblical,modern
 Gaddiel|M|2|modern
 Gadge|M|2|modern
 Gadiel|M|4|modern
@@ -13760,7 +13760,7 @@ Gavriella|F|2|modern
 Gavrielle|F|2|modern
 Gavyn|M|5|modern
 Gavynn|M|2|modern
-Gawain|M|1|
+Gawain|M|1|mythological
 Gay|F|6|
 Gayathri|F|2|modern
 Gayatri|F|2|modern
@@ -14005,8 +14005,8 @@ Gerritt|M|2|modern
 Gerrod|M|3|modern
 Gerron|M|2|modern
 Gerry|M?|6|
-Gershom|M|2|modern
-Gershon|M|3|modern
+Gershom|M|2|biblical,modern
+Gershon|M|3|biblical,modern
 Gerson|M|4|modern
 Gertha|F|4|vintage
 Gertie|F|5|vintage
@@ -14075,8 +14075,8 @@ Giavonna|F|4|modern
 Giavonni|U|2|modern
 Gibran|M|4|modern
 Gibson|M|5|modern
-Gid|M|2|vintage
-Gideon|M|6|modern
+Gid|M|2|mythological,vintage
+Gideon|M|6|biblical,modern,mythological
 Gidget|F|4|
 Gifford|M|4|vintage
 Gift|F?|2|modern
@@ -14281,7 +14281,7 @@ Goldie|F|6|vintage
 Goldman|M|2|vintage
 Goldy|F|4|modern
 Goldye|F|2|vintage
-Gomer|M|2|vintage
+Gomer|M|2|biblical,vintage
 Gonsalo|M|2|modern
 Gonzalo|M|6|modern
 Goodwin|M|2|vintage
@@ -14474,7 +14474,7 @@ Gráinne|F|6|
 Guadalupe|F?|7|modern
 Guage|M|2|modern
 Gualberto|M|2|
-Gudrun|F|2|vintage
+Gudrun|F|2|mythological,vintage
 Guelda|F|2|vintage
 Guenevere|F|2|modern
 Guerino|M|2|vintage
@@ -14490,7 +14490,7 @@ Guilianna|F|2|modern
 Guillaume|M|2|modern
 Guillermina|F|4|
 Guillermo|M|6|modern
-Guinevere|F|4|modern
+Guinevere|F|4|modern,mythological
 Guinn|M|2|vintage
 Guiselle|F|2|modern
 Guiseppe|M|3|modern
@@ -14537,7 +14537,7 @@ Gustavus|M|2|
 Gustie|F|2|vintage
 Gustin|M|2|modern
 Guthrie|M|3|modern
-Guy|M|7|
+Guy|M|7|mythological
 Guyla|F|2|
 Guynell|F|2|vintage
 Gwanwyn|F|1|
@@ -14630,7 +14630,7 @@ Hadrian|M|3|modern
 Hadriel|M|2|
 Hady|M?|2|modern
 Hadyn|U|4|modern
-Hae|F|2|modern
+Hae|F|2|modern,mythological
 Haeden|M?|2|modern
 Haedyn|U|3|modern
 Haelee|F|2|modern
@@ -14647,7 +14647,7 @@ Hafren|F|1|
 Hafsa|F|4|modern
 Hafsah|F|3|modern
 Hagan|M?|4|modern
-Hagar|F|2|modern
+Hagar|F|2|biblical,modern
 Hagen|M?|4|modern
 Hager|U|2|vintage
 Hagop|M|2|modern
@@ -14725,7 +14725,7 @@ Haley|U|8|modern
 Halford|M|2|vintage
 Hali|F|4|modern
 Halia|F|4|modern,mythological
-Halie|F|5|modern
+Halie|F|5|modern,mythological
 Haliegh|F|2|modern
 Haliey|F|2|modern
 Halim|M|2|modern
@@ -14785,7 +14785,7 @@ Hanah|F|4|modern
 Hanako|F|2|vintage
 Hanalei|F?|2|modern
 Hanan|F?|4|modern
-Hananiah|U|2|modern
+Hananiah|U|2|biblical,modern
 Handsome|M|2|modern
 Handy|M|3|vintage
 Haneef|M|3|modern
@@ -14809,7 +14809,7 @@ Haniyyah|F|2|modern
 Hank|M|6|modern
 Hanley|U|3|modern
 Hanna|F|6|modern
-Hannah|F|9|modern
+Hannah|F|9|biblical,modern
 Hannahgrace|F|2|modern
 Hannahmarie|F|2|modern
 Hannan|F?|3|modern
@@ -14818,7 +14818,7 @@ Hannelore|F|2|modern
 Hanni|F|2|modern
 Hannia|F|3|modern
 Hannibal|M|3|modern
-Hanniel|M|2|modern
+Hanniel|M|2|biblical,modern
 Hanny|F|2|
 Hanora|F|3|
 Hans|M|6|
@@ -14948,7 +14948,7 @@ Haruka|F|2|modern
 Haruki|M|2|modern
 Haruko|F|3|vintage
 Harumi|F?|2|vintage
-Harun|M|3|modern
+Harun|M|3|modern,mythological
 Haruo|M|2|vintage
 Haruto|M|2|modern
 Harvard|M|3|vintage
@@ -15127,7 +15127,7 @@ Heitor|M|2|
 Hektor|M|2|modern,mythological
 Helaina|F|4|modern
 Helaine|F|4|
-Helaman|M|2|modern
+Helaman|M|2|modern,mythological
 Helana|F|3|modern
 Helane|F|2|
 Helayna|F|2|modern
@@ -15139,8 +15139,8 @@ Helen|F|11|vintage
 Helena|F|6|modern,mythological
 Helene|F|6|vintage
 Helga|F|4|
-Heli|F?|2|modern
-Helia|F|2|
+Heli|F?|2|biblical,modern
+Helia|F|2|mythological
 Helina|F|3|modern
 Helio|M|2|modern
 Heliodoro|M|2|modern
@@ -15195,7 +15195,7 @@ Henrik|M|4|modern
 Henrique|M|3|modern
 Henritta|F|2|vintage
 Henrry|M|3|modern
-Henry|M|10|vintage
+Henry|M|10|mythological,vintage
 Henryetta|F|2|vintage
 Henryk|M|2|modern
 Henslee|F|2|modern
@@ -15280,7 +15280,7 @@ Heydy|F|2|modern
 Heyward|M|4|vintage
 Heywood|M|2|vintage
 Hezakiah|M|2|modern
-Hezekiah|M|6|modern
+Hezekiah|M|6|biblical,modern
 Hezzie|M|2|vintage
 Hiawatha|M?|4|vintage
 Hiba|F|4|modern
@@ -15303,13 +15303,13 @@ Hikma|F|2|modern
 Hila|F|3|modern
 Hilal|U|2|
 Hilari|F|2|
-Hilaria|F|3|vintage
+Hilaria|F|3|mythological,vintage
 Hilarie|F|3|
 Hilario|M|4|modern
 Hilary|F|6|modern
 Hilbert|M|4|vintage
 Hilberto|M|2|
-Hilda|F|7|vintage
+Hilda|F|7|mythological,vintage
 Hildagard|F|2|vintage
 Hildagarde|F|2|vintage
 Hilde|F|2|
@@ -15414,7 +15414,7 @@ Holten|M|2|modern
 Holton|M|4|modern
 Holy|F?|2|modern
 Homar|M|3|modern
-Homer|M|7|vintage
+Homer|M|7|mythological,vintage
 Homero|M|4|modern
 Honest|U|3|
 Honestee|F|2|modern
@@ -15445,7 +15445,7 @@ Hortense|F|5|vintage
 Hortensia|F|4|vintage
 Horton|M|3|vintage
 Hosanna|F|4|modern
-Hosea|M|5|vintage
+Hosea|M|5|biblical,vintage
 Hosey|M|2|vintage
 Hosie|M|4|vintage
 Houa|U|2|modern
@@ -15487,7 +15487,7 @@ Huie|M|2|vintage
 Hulan|M|2|vintage
 Hulbert|M|2|vintage
 Hulda|F|5|vintage
-Huldah|F|3|vintage
+Huldah|F|3|biblical,vintage
 Hulen|M|2|vintage
 Hulon|M|4|vintage
 Huma|F|2|modern
@@ -15572,7 +15572,7 @@ Iban|M|3|modern
 Ibeth|F|2|modern
 Ibn|M|3|modern
 Ibraheem|M|4|modern
-Ibrahim|M|6|modern
+Ibrahim|M|6|modern,mythological
 Ibrahima|M|4|modern
 Ibrohim|M|2|
 Ibtisam|F|2|modern
@@ -15591,7 +15591,7 @@ Icie|F|4|vintage
 Icis|F|2|modern
 Icker|M|2|modern
 Icy|F|4|vintage
-Ida|F|8|vintage
+Ida|F|8|mythological,vintage
 Idabell|F|2|vintage
 Idabelle|F|3|vintage
 Idali|F|2|modern
@@ -15616,7 +15616,7 @@ Idolina|F|2|
 Idonia|F|2|vintage
 Idonna|F|2|vintage
 Idrees|M|3|
-Idris|M|4|modern
+Idris|M|4|modern,mythological
 Idriss|M|2|modern
 Idrissa|M|2|modern
 Idus|M|2|vintage
@@ -15660,7 +15660,7 @@ Ikia|F|2|modern
 Ikram|F?|2|modern
 Ikran|F|2|modern
 Iktan|M|2|modern
-Ila|F|6|vintage
+Ila|F|6|mythological,vintage
 Ilah|F|4|vintage
 Ilai|M|2|
 Ilaisaane|F|2|modern
@@ -15759,7 +15759,7 @@ Imaya|F|2|modern
 Imelda|F|5|
 Imer|M|2|modern
 Imir|M|2|modern
-Immanuel|M|5|modern
+Immanuel|M|5|biblical,modern
 Imo|F|3|vintage
 Imogean|F|2|vintage
 Imogen|F|4|modern
@@ -15799,7 +15799,7 @@ Indio|M|2|modern
 Indira|F|4|modern
 Indiya|F|2|modern
 Indiyah|F|2|modern
-Indra|F?|3|modern
+Indra|F?|3|modern,mythological
 Indy|U|4|
 Indya|F|4|modern
 Indyah|F|2|modern
@@ -15919,7 +15919,7 @@ Irving|M|6|vintage
 Irwin|M|6|vintage
 Irys|F|2|modern
 Isa|F|5|modern
-Isaac|M|9|modern
+Isaac|M|9|biblical,modern
 Isaack|M|2|modern
 Isaah|M|2|modern
 Isaak|M|4|modern
@@ -15945,7 +15945,7 @@ Isahi|M|2|modern
 Isahia|M|2|modern
 Isai|M|5|modern
 Isaia|M|2|modern,mythological
-Isaiah|M|8|modern
+Isaiah|M|8|biblical,modern
 Isaiahs|M|2|modern
 Isaias|M|6|modern
 Isaic|M|2|modern
@@ -15973,7 +15973,7 @@ Iseah|M|2|modern
 Isel|F|2|modern
 Isela|F|5|modern
 Isella|F|2|modern
-Iseult|F|1|
+Iseult|F|1|mythological
 Isha|F|4|modern
 Ishaan|M|5|modern
 Ishaaq|M|2|modern
@@ -15988,7 +15988,7 @@ Ishi|F?|2|modern
 Ishia|F|2|modern
 Ishika|F|4|modern
 Ishita|F|3|modern
-Ishmael|M|5|modern
+Ishmael|M|5|biblical,modern,mythological
 Ishmail|M|2|modern
 Ishmeal|M|2|modern
 Ishmel|M|2|modern
@@ -16014,7 +16014,7 @@ Isma|F|2|vintage
 Ismaeel|M|2|modern
 Ismael|M|6|modern
 Ismahan|F|2|modern
-Ismail|M|4|modern
+Ismail|M|4|modern,mythological
 Ismar|M?|2|modern
 Ismay|F|1|
 Ismelda|F|2|
@@ -16036,7 +16036,7 @@ Issaac|M|2|modern
 Issabella|F|4|modern
 Issabelle|F|2|modern
 Issac|M|6|modern
-Issachar|M|2|modern
+Issachar|M|2|biblical,modern
 Issaiah|M|2|modern
 Issaih|M|2|modern
 Issak|M|2|modern
@@ -16234,7 +16234,7 @@ Jabbar|M|3|
 Jabe|M|2|modern
 Jaber|M|2|modern
 Jabes|M|2|modern
-Jabez|M|4|modern
+Jabez|M|4|biblical,modern
 Jabier|M|2|
 Jabin|M|3|modern
 Jabir|M|2|modern
@@ -16317,7 +16317,7 @@ Jaclyn|F|6|modern
 Jaclyne|F|2|modern
 Jaclynn|F|4|modern
 Jaclynne|F|2|modern
-Jacob|M|10|modern
+Jacob|M|10|biblical,modern,mythological
 Jacoba|F|2|vintage
 Jacobb|M|2|modern
 Jacobe|M|4|modern
@@ -16379,7 +16379,7 @@ Jacy|F?|4|modern
 Jacyln|F|2|modern
 Jacynda|F|2|modern
 Jad|M|4|modern
-Jada|F|7|modern
+Jada|F|7|biblical,modern
 Jadae|F|2|modern
 Jadah|F|4|modern
 Jadakiss|M?|2|modern
@@ -16491,7 +16491,7 @@ Jahanna|F|2|modern
 Jahara|F|2|modern
 Jahari|M?|4|modern
 Jahayra|F|2|modern
-Jahaziel|M|4|modern
+Jahaziel|M|4|biblical,modern
 Jahbari|M|2|modern
 Jahdai|U|2|modern
 Jahden|M|2|modern
@@ -16632,13 +16632,13 @@ Jaion|M|2|modern
 Jaiona|F|2|modern
 Jaionna|F|2|modern
 Jaiquan|M|2|modern
-Jair|M|5|modern
+Jair|M|5|biblical,modern
 Jaira|F|3|modern
 Jaire|M|4|
 Jairen|M|2|modern
 Jairo|M|6|modern
 Jairon|M|2|modern
-Jairus|M|4|modern
+Jairus|M|4|biblical,modern
 Jaisa|F|2|modern
 Jaise|M?|2|modern
 Jaisean|M|2|modern
@@ -17193,7 +17193,7 @@ Janyth|F|2|
 Janziel|M|2|modern
 Jaonna|F|2|modern
 Japhet|M|2|modern
-Japheth|M|4|modern
+Japheth|M|4|biblical,modern
 Japji|F|2|modern
 Jaqua|U|2|modern
 Jaquala|F|2|modern
@@ -17248,7 +17248,7 @@ Jaramie|M|2|
 Jaran|M|2|modern
 Jaray|M|2|modern
 Jardani|M|2|
-Jared|M|8|modern
+Jared|M|8|biblical,modern,mythological
 Jaree|U|2|modern
 Jarek|M|4|modern
 Jarel|M|4|modern
@@ -17293,7 +17293,7 @@ Jarmel|M|2|modern
 Jarmon|M|2|modern
 Jarod|M|6|modern
 Jarold|M|3|
-Jarom|M|4|modern
+Jarom|M|4|modern,mythological
 Jarome|M|2|modern
 Jaron|M|6|modern
 Jarquez|M|2|modern
@@ -17439,7 +17439,7 @@ Jaun|M|3|modern
 Jaunita|F|5|vintage
 Javae|F?|2|modern
 Javaeh|F|2|modern
-Javan|M|4|modern
+Javan|M|4|biblical,modern
 Javani|M?|2|
 Javanna|F|2|modern
 Javanni|M|2|modern
@@ -17863,7 +17863,7 @@ Jehiel|M|2|modern
 Jehieli|F|2|modern
 Jehilyn|F|3|
 Jehlani|U|2|
-Jehu|M|4|modern
+Jehu|M|4|biblical,modern
 Jeiden|M|2|modern
 Jeidy|F|2|modern
 Jeilani|F|2|
@@ -17892,7 +17892,7 @@ Jemell|M|2|modern
 Jemia|F|2|modern
 Jemiah|U|2|modern
 Jemila|F|2|modern
-Jemima|F|4|modern
+Jemima|F|4|biblical,modern
 Jemimah|F|3|modern
 Jemina|F|2|modern
 Jemini|U|2|modern
@@ -18084,7 +18084,7 @@ Jereme|M|4|modern
 Jeremey|M|4|modern
 Jeremi|M|4|modern
 Jeremia|M|3|modern
-Jeremiah|M|8|modern
+Jeremiah|M|8|biblical,modern,mythological
 Jeremias|M|4|modern
 Jeremie|M|4|modern
 Jeremih|M|4|modern
@@ -18268,7 +18268,7 @@ Jessamine|F|3|modern
 Jessamy|F|2|modern
 Jessamyn|F|3|modern
 Jesscia|F|2|modern
-Jesse|U|9|modern
+Jesse|U|9|biblical,modern
 Jesseca|F|4|modern
 Jessee|M?|4|modern
 Jessejames|M|3|modern
@@ -18319,7 +18319,7 @@ Jet|M|4|modern
 Jetaime|F|2|modern
 Jetaun|F|2|
 Jeter|M|4|modern
-Jethro|M|4|modern
+Jethro|M|4|biblical,modern
 Jetson|M|3|
 Jett|M|6|modern
 Jetta|F|4|modern
@@ -18358,7 +18358,7 @@ Jeyren|M|2|modern
 Jeyson|M|3|modern
 Jezabel|F|3|modern
 Jezabelle|F|2|modern
-Jezebel|F|3|modern
+Jezebel|F|3|biblical,modern
 Jezel|F|2|modern
 Jezelle|F|2|modern
 Jeziah|M?|3|modern
@@ -18519,8 +18519,8 @@ Jniyah|F|2|modern
 Jnya|F|2|modern
 Jo|F|8|
 Joa|U|1|
-Joab|M|3|modern
-Joachim|M|4|modern
+Joab|M|3|biblical,modern
+Joachim|M|4|biblical,modern
 Joah|M|4|modern
 Joahan|M|2|modern
 Joakim|M|2|modern
@@ -18549,7 +18549,7 @@ Joaquin|M|6|modern
 Joaquina|F|2|vintage
 Joas|M|2|modern
 Joash|M|2|modern
-Job|M|4|modern
+Job|M|4|biblical,modern
 Jobani|M|2|modern
 Jobany|M|2|modern
 Jobe|M|4|modern
@@ -18565,7 +18565,7 @@ Jocelyn|F|8|modern
 Jocelyne|F|4|modern
 Jocelynn|F|5|modern
 Jocelynne|F|3|modern
-Jochebed|F|2|modern
+Jochebed|F|2|biblical,modern
 Joci|F|2|modern
 Jocie|F|3|modern
 Jocilyn|F|2|modern
@@ -18764,7 +18764,7 @@ Jon|M|8|
 Jona|F?|4|
 Jonae|F|4|modern
 Jonael|M|3|modern
-Jonah|M|7|modern
+Jonah|M|7|biblical,modern
 Jonahtan|M|2|modern
 Jonai|F|2|modern
 Jonalyn|F|2|modern
@@ -18774,7 +18774,7 @@ Jonas|M|6|modern
 Jonasia|F|2|modern
 Jonatan|M|4|modern
 Jonatha|M?|2|modern
-Jonathan|M|10|modern
+Jonathan|M|10|biblical,modern
 Jonathen|M|4|modern
 Jonathin|M|2|modern
 Jonathon|M|7|modern
@@ -18938,7 +18938,7 @@ Josemanuel|M|4|modern
 Josemaria|M|3|modern
 Josemiguel|M|2|modern
 Josep|M|2|modern
-Joseph|M|12|modern
+Joseph|M|12|biblical,modern,mythological
 Josepha|F|2|vintage
 Josephene|F|2|vintage
 Josephina|F|4|modern
@@ -18948,7 +18948,7 @@ Joseth|M|2|modern
 Josetta|F|3|
 Josette|F|5|
 Josey|F?|4|modern
-Josh|M|6|
+Josh|M|6|mythological
 Josha|M?|2|modern
 Joshalyn|F|2|modern
 Joshau|M|2|modern
@@ -18959,7 +18959,7 @@ Joshia|M|2|modern
 Joshiah|M|2|modern
 Joshlyn|F|4|modern
 Joshlynn|F|3|modern
-Joshua|M|11|modern
+Joshua|M|11|biblical,modern
 Joshuah|M|4|modern
 Joshual|M|2|modern
 Joshuan|M|2|modern
@@ -18969,7 +18969,7 @@ Joshuwa|M|2|modern
 Joshwa|M|2|modern
 Josi|F|4|modern
 Josia|M|2|modern
-Josiah|M|8|modern
+Josiah|M|8|biblical,modern
 Josian|M|2|modern
 Josiane|F|2|
 Josias|M|4|modern
@@ -19006,7 +19006,7 @@ Josue|M|7|modern
 Josuel|M|2|modern
 Josuha|M|2|modern
 Josyah|M|2|modern
-Jotham|M|3|modern
+Jotham|M|3|biblical,modern
 Joud|U|3|modern
 Jourdain|M?|2|modern
 Jourdan|U|4|modern
@@ -19136,16 +19136,16 @@ Juanmiguel|M|2|modern
 Juanna|F|2|modern
 Juanpablo|M|4|modern
 Juaquin|M|4|modern
-Jubal|M|3|
+Jubal|M|3|biblical
 Jubilee|F|4|modern
 Jud|M|3|
 Juda|U|3|modern
 Judaea|F|2|modern
-Judah|M|6|modern
+Judah|M|6|biblical,modern
 Judas|M|3|modern
 Judd|M|5|
 Juddson|M|2|
-Jude|U|7|modern
+Jude|U|7|biblical,modern
 Judea|F?|3|modern
 Judee|F|3|
 Judene|F|2|
@@ -19270,7 +19270,7 @@ Junetta|F|2|vintage
 Junette|F|2|
 Jung|U|2|modern
 Juni|F?|2|
-Junia|F|4|
+Junia|F|4|biblical
 Junice|F|2|vintage
 Junie|F?|4|
 Juniel|M|2|modern
@@ -20098,7 +20098,7 @@ Karmine|M|2|modern
 Karmon|F|2|
 Karmyn|F|4|modern
 Karn|F|2|
-Karna|F|3|
+Karna|F|3|mythological
 Karne|F|2|
 Karnell|M|2|modern
 Karo|M|2|modern
@@ -20953,7 +20953,7 @@ Kenadi|F|4|modern
 Kenadie|F|4|modern
 Kenady|F|3|modern
 Kenai|M|4|
-Kenan|M|4|modern
+Kenan|M|4|biblical,modern
 Kenard|M|3|modern
 Kenasia|F|2|modern
 Kenay|M|2|
@@ -21261,7 +21261,7 @@ Ketrina|F|2|
 Ketsia|F|2|modern
 Ketty|F|2|
 Ketura|F|2|modern
-Keturah|F|4|modern
+Keturah|F|4|biblical,modern
 Ketzaly|F|2|
 Ketzia|F|2|modern
 Keundra|F|2|modern
@@ -21373,7 +21373,7 @@ Keyuna|F|2|modern
 Keyunna|F|2|modern
 Keyvon|M|3|modern
 Kezia|F|4|modern
-Keziah|F|4|modern
+Keziah|F|4|biblical,modern
 Keziyah|F|2|modern
 Khaalid|M|2|modern
 Khadeeja|F|2|modern
@@ -22042,7 +22042,7 @@ Konstantinos|M|4|modern
 Kooper|M?|4|modern
 Kopelyn|F?|2|
 Kora|F|5|modern,mythological
-Korah|F|3|modern
+Korah|F|3|biblical,modern
 Koraima|F|2|modern
 Koral|F|3|modern
 Koralee|F|2|modern
@@ -22157,7 +22157,7 @@ Krishawn|M?|2|modern
 Krishay|M|2|modern
 Krishika|F|2|modern
 Krishiv|M|4|
-Krishna|U|4|modern
+Krishna|U|4|modern,mythological
 Krisi|F|2|
 Krislyn|F|4|modern
 Krislynn|F|3|modern
@@ -22502,7 +22502,7 @@ La|F?|4|modern
 Laakea|M|2|modern
 Laasia|F|2|modern
 Laasya|F|2|modern
-Laban|M|3|modern
+Laban|M|3|biblical,modern,mythological
 Labaron|M|2|modern
 Labarron|M|2|modern
 Labella|F|2|modern
@@ -22735,7 +22735,7 @@ Lakota|U|4|modern
 Lakresha|F|2|modern
 Lakrisha|F|2|modern
 Laksh|M|2|modern
-Lakshmi|F|3|modern
+Lakshmi|F|3|modern,mythological
 Lakshya|U|2|modern
 Lakya|F|2|modern
 Lakyla|F|2|modern
@@ -23415,7 +23415,7 @@ Leaann|F|2|
 Leaf|M|2|modern
 Leafy|F|2|vintage
 Leagh|F|1|
-Leah|F|9|modern
+Leah|F|9|biblical,modern
 Leaha|F|3|modern
 Leahanna|F|2|modern
 Leahmarie|F|2|modern
@@ -23526,7 +23526,7 @@ Legna|F|2|modern
 Legrand|M|3|vintage
 Legrande|M|2|vintage
 Legynd|M|2|
-Lehi|M|2|modern
+Lehi|M|2|modern,mythological
 Lehlani|F|2|
 Lehman|M|3|vintage
 Lehua|F|2|
@@ -23626,7 +23626,7 @@ Lemont|M|3|
 Lemonte|M|2|modern
 Lemoyne|M?|2|vintage
 Lempi|F|2|vintage
-Lemuel|M|5|vintage
+Lemuel|M|5|mythological,vintage
 Len|M|4|
 Lena|F|8|vintage
 Lenae|F|3|modern
@@ -24060,7 +24060,7 @@ Lillyth|F|2|modern
 Lilo|F|2|
 Lilou|F|2|modern
 Lilton|M|2|
-Lilu|F|2|modern
+Lilu|F|2|modern,mythological
 Lily|F|8|modern
 Lilya|F|3|modern
 Lilyahna|F|2|modern
@@ -24314,7 +24314,7 @@ Lois|F|9|vintage
 Loisann|F|2|
 Loise|F|3|vintage
 Lokelani|F|2|modern
-Loki|M|4|modern
+Loki|M|4|modern,mythological
 Lola|F|7|vintage
 Lolah|F|2|modern
 Loleta|F|4|vintage
@@ -24625,7 +24625,7 @@ Lucita|F|2|
 Lucius|M|5|modern
 Lucky|M?|4|modern
 Lucrecia|F|4|
-Lucretia|F|6|
+Lucretia|F|6|mythological
 Lucrezia|F|2|modern
 Lucus|M|4|modern,mythological
 Lucy|F|8|modern
@@ -24718,7 +24718,7 @@ Lunn|M|1|
 Lunna|F|2|
 Lupe|F?|6|
 Lupita|F|5|modern
-Luqman|M|4|modern
+Luqman|M|4|modern,mythological
 Lura|F|5|vintage
 Lurdes|F|2|
 Luree|F|2|vintage
@@ -25017,7 +25017,7 @@ Macsen|M|2|modern
 Macy|F|6|modern
 Macyn|F?|4|modern
 Mada|F|3|vintage
-Madai|F|3|modern
+Madai|F|3|biblical,modern
 Madailein|F|2|modern
 Madalee|F|2|modern
 Madaleine|F|2|modern
@@ -25240,7 +25240,7 @@ Mahlet|F|2|modern
 Mahli|F|2|modern
 Mahlia|F|3|modern
 Mahlik|M|2|modern
-Mahlon|M|5|vintage
+Mahlon|M|5|biblical,vintage
 Mahmood|M|2|modern
 Mahmoud|M|4|modern
 Mahmud|M|2|modern
@@ -25253,7 +25253,7 @@ Mahsa|F|2|
 Mahum|F|2|modern
 Mahzi|M|2|
 Mai|F?|5|modern
-Maia|F|6|modern
+Maia|F|6|modern,mythological
 Maiah|F|4|modern
 Maiana|F|2|modern
 Maicee|F|2|modern
@@ -25645,10 +25645,10 @@ Manami|F|2|modern
 Manan|M|2|modern
 Manar|F|3|modern
 Manas|M|2|modern
-Manasa|F|2|modern
+Manasa|F|2|modern,mythological
 Manases|M|2|modern
 Manasi|F|2|modern
-Manasseh|M|3|modern
+Manasseh|M|3|biblical,modern
 Manasvi|F|2|modern
 Manav|M|3|modern
 Mance|M|2|vintage
@@ -25698,7 +25698,7 @@ Mannie|U|4|vintage
 Manning|M|4|modern
 Mannix|M|3|modern
 Manny|M?|4|modern
-Manoah|M|2|modern
+Manoah|M|2|biblical,modern
 Manoj|M|2|modern
 Manolito|M|2|
 Manolo|M|4|modern
@@ -26024,7 +26024,7 @@ Marilynn|F|6|
 Marilynne|F|3|
 Marimar|F|2|modern
 Marin|F?|5|modern
-Marina|F|6|modern
+Marina|F|6|modern,mythological
 Marinda|F|4|modern
 Marine|F|3|vintage
 Marinell|F|2|vintage
@@ -26307,7 +26307,7 @@ Martell|M|4|modern
 Marten|M|3|
 Martese|M|2|modern
 Martez|M|4|modern
-Martha|F|10|
+Martha|F|10|biblical
 Marthe|F|2|vintage
 Marthella|F|2|vintage
 Marti|F?|4|
@@ -26363,7 +26363,7 @@ Marwah|F|2|modern
 Marwan|M|4|modern
 Marwin|M|2|
 Marx|M|2|modern
-Mary|F|13|vintage
+Mary|F|13|biblical,vintage
 Marya|F|4|
 Maryah|F|4|modern
 Maryalice|F|4|
@@ -26929,7 +26929,7 @@ Meila|F|3|modern
 Meilah|F|2|modern
 Meilani|F|4|modern
 Meilech|M|2|modern
-Meili|F|2|modern
+Meili|F|2|modern,mythological
 Meilin|F|2|modern
 Meiling|F|2|modern
 Meily|F|2|modern
@@ -27100,7 +27100,7 @@ Meosha|F|2|modern
 Mera|F|3|modern
 Meral|F|2|modern
 Meranda|F|4|modern
-Merari|F|4|modern
+Merari|F|4|biblical,modern
 Merary|F|3|modern
 Mercades|F|3|modern
 Mercadez|F|2|modern
@@ -27163,7 +27163,7 @@ Merleen|F|2|
 Merlene|F|4|vintage
 Merliah|F|2|modern
 Merlie|F|2|vintage
-Merlin|M|6|vintage
+Merlin|M|6|mythological,vintage
 Merlina|F|2|modern
 Merlinda|F|3|
 Merline|F|4|vintage
@@ -27276,10 +27276,10 @@ Mica|U|4|
 Micael|M|3|modern
 Micaela|F|6|modern
 Micaella|F|2|modern
-Micah|M?|8|modern
+Micah|M?|8|biblical,modern
 Micahel|M|4|modern
 Micai|M|2|modern
-Micaiah|U|4|modern
+Micaiah|U|4|biblical,modern
 Micaila|F|2|modern
 Mical|U|3|modern
 Micala|F|2|modern
@@ -27313,7 +27313,7 @@ Michai|M|2|modern
 Michaiah|F?|3|modern
 Michail|M|3|
 Michaila|F|2|modern
-Michal|U|5|modern
+Michal|U|5|biblical,modern
 Michala|F|4|modern
 Michale|M?|4|
 Michalene|F|2|
@@ -27496,7 +27496,7 @@ Milayna|F|2|modern
 Milbert|M|2|vintage
 Milburn|M|4|vintage
 Milca|F|3|modern
-Milcah|F|2|modern
+Milcah|F|2|biblical,modern
 Milda|F|3|vintage
 Milderd|F|2|
 Mildred|F|9|vintage
@@ -27633,7 +27633,7 @@ Mirha|F|3|
 Miri|F|3|modern
 Miria|F|2|modern
 Miriah|F|4|modern
-Miriam|F|8|vintage
+Miriam|F|8|biblical,vintage
 Mirian|F|4|modern
 Miriana|F|2|modern
 Mirielle|F|3|modern
@@ -27726,7 +27726,7 @@ Miyoshi|F|2|
 Miyu|F|2|modern
 Miyuki|F|2|modern
 Mizael|M|3|modern
-Mizraim|M|2|modern
+Mizraim|M|2|biblical,modern
 Mizuki|F|2|modern
 Mj|M?|2|modern
 Mkayla|F|2|modern
@@ -27897,7 +27897,7 @@ Moray|M|1|
 Morayma|F|2|
 Morayo|F|2|modern
 Mordche|M|2|modern
-Mordecai|M|4|modern
+Mordecai|M|4|biblical,modern
 Mordechai|M|5|modern
 Moreen|F|2|
 Morelia|F|3|modern
@@ -27920,7 +27920,7 @@ Morgin|F|2|modern
 Morgon|U|2|modern
 Morgyn|F|3|modern
 Mori|U|2|
-Moria|F|3|
+Moria|F|3|mythological
 Moriah|F|6|modern
 Morine|F|2|vintage
 Morio|M|1|modern
@@ -27934,7 +27934,7 @@ Morna|F|2|
 Morning|F|2|
 Morningstar|F|2|modern
 Morocco|M|2|
-Moroni|M|2|modern
+Moroni|M|2|modern,mythological
 Morrell|M|3|vintage
 Morrie|M|2|
 Morrigan|F|4|modern
@@ -27955,7 +27955,7 @@ Mory|M|2|
 Mose|M|5|vintage
 Mosella|F|2|vintage
 Moselle|F|2|vintage
-Moses|M|6|modern
+Moses|M|6|biblical,modern
 Moshe|M|6|modern
 Mosi|M?|2|
 Mosiah|M|3|modern
@@ -28211,8 +28211,8 @@ Méabh|F|3|
 Mícheál|M|5|
 Na|F?|2|modern
 Naama|F|2|modern
-Naamah|F|2|modern
-Naaman|M|3|modern
+Naamah|F|2|biblical,modern
+Naaman|M|3|biblical,modern
 Naara|F|2|modern
 Naarah|F|2|modern
 Naasia|F|2|modern
@@ -28290,10 +28290,10 @@ Nahmir|M|2|
 Nahom|M|3|modern
 Nahomi|F|4|modern
 Nahomy|F|4|modern
-Nahshon|M|3|modern
+Nahshon|M|3|biblical,modern
 Nahsir|M|2|modern
 Nahuel|M|2|modern
-Nahum|M|4|modern
+Nahum|M|4|biblical,modern
 Nahun|M|2|modern
 Nahyan|M|2|modern
 Nahzir|M|2|modern
@@ -28385,7 +28385,7 @@ Nakyah|F|2|modern
 Nakyia|F|2|modern
 Nakyla|F|2|modern
 Nakyra|F|2|modern
-Nala|F|5|modern
+Nala|F|5|modern,mythological
 Nalah|F|3|modern
 Nalan|M|2|modern
 Nalani|F|5|modern
@@ -28449,30 +28449,30 @@ Nanetta|F|2|
 Nanette|F|6|
 Nani|F|3|modern
 Nanie|F|3|vintage
-Nanna|F|2|vintage
+Nanna|F|2|mythological,vintage
 Nannette|F|5|
 Nannie|F|6|vintage
 Nansi|F|2|modern
 Nao|F?|2|modern
 Naod|M|2|modern
-Naoise|M|1|
+Naoise|M|1|mythological
 Naoki|M|2|modern
 Naol|M|2|modern
 Naoma|F|4|vintage
 Naome|F|2|modern
-Naomi|F|8|modern
+Naomi|F|8|biblical,modern
 Naomia|F|3|vintage
 Naomie|F|4|modern
 Naomii|F|2|modern
 Naomy|F|4|modern
-Naphtali|M?|2|modern
+Naphtali|M?|2|biblical,modern
 Napolean|M|2|
 Napoleon|M|5|vintage
 Naquan|M|4|modern
 Naquisha|F|2|modern
 Naquita|F|2|modern
 Nara|F|3|modern
-Narada|M|2|modern
+Narada|M|2|modern,mythological
 Naraly|F|2|modern
 Naraya|F|1|modern
 Narayan|M|2|modern
@@ -28611,8 +28611,8 @@ Nathalia|F|5|modern
 Nathalie|F|6|modern
 Nathaly|F|5|modern
 Nathalya|F|2|modern
-Nathan|M|10|modern
-Nathanael|M|6|modern
+Nathan|M|10|biblical,modern
+Nathanael|M|6|biblical,modern
 Nathanal|M|2|modern
 Nathaneal|M|3|modern
 Nathaneil|M|2|modern
@@ -28826,7 +28826,7 @@ Negan|M|2|
 Neha|F|4|modern
 Nehal|U|2|modern
 Nehan|M|2|modern
-Nehemiah|M|6|modern
+Nehemiah|M|6|biblical,modern
 Nehemias|M|4|modern
 Nehemie|F|2|modern
 Nehemyah|M|1|modern
@@ -28899,14 +28899,14 @@ Neoma|F|4|vintage
 Neomi|F|4|modern
 Neomia|F|3|vintage
 Neosha|F|2|modern
-Nephi|M|3|modern
+Nephi|M|3|modern,mythological
 Nephtali|M|2|modern
 Nera|F|2|vintage
 Nerea|F|2|modern
 Nereida|F|4|modern
 Nereyda|F|4|modern
 Neri|U|3|modern
-Neriah|F|4|modern
+Neriah|F|4|biblical,modern
 Nerissa|F|4|modern
 Neriyah|F|2|modern
 Nero|M|3|modern
@@ -29080,7 +29080,7 @@ Nickson|M|2|modern
 Nicky|M|5|
 Nicloe|F|2|modern
 Nico|M|6|
-Nicodemus|M|4|modern
+Nicodemus|M|4|biblical,modern
 Nicol|M?|4|
 Nicola|F|7|
 Nicolaas|M|2|modern
@@ -29221,7 +29221,7 @@ Nimo|F|2|modern
 Nimra|F|2|modern
 Nimrat|F|2|modern
 Nimrit|F|2|modern
-Nimrod|M|2|vintage
+Nimrod|M|2|biblical,vintage
 Nimsi|F|2|modern
 Nimue|F|2|
 Nina|F|8|modern
@@ -29313,7 +29313,7 @@ Nnenna|F|2|modern
 Nneoma|F|2|modern
 Noa|F?|6|
 Noach|M|2|modern
-Noah|M|10|modern
+Noah|M|10|biblical,modern
 Noal|M|2|vintage
 Noam|M?|4|modern
 Noami|F|3|modern
@@ -29614,11 +29614,11 @@ Oaks|M|2|
 Oanh|F|2|modern
 Oasis|F?|2|
 Oather|M|2|vintage
-Obadiah|M|4|modern
+Obadiah|M|4|biblical,modern
 Obaloluwa|M|2|modern
 Obbie|M|2|
 Obdulia|F|2|
-Obed|M|4|modern
+Obed|M|4|biblical,modern
 Obediah|M|2|vintage
 Obera|F|2|vintage
 Oberon|M|2|
@@ -29682,7 +29682,7 @@ Odies|M|2|vintage
 Odile|F|3|vintage
 Odilia|F|4|
 Odilon|M|2|modern
-Odin|M|6|modern
+Odin|M|6|modern,mythological
 Odinn|M|2|modern
 Odis|M|5|vintage
 Odus|M|3|vintage
@@ -29702,7 +29702,7 @@ Ohemaa|F|2|
 Ohm|M|2|modern
 Ohn|M|2|modern
 Oisin|M|2|modern
-Oisín|M|1|
+Oisín|M|1|mythological
 Oiva|M|2|vintage
 Ojani|M|2|modern
 Ojas|M|3|modern
@@ -29824,7 +29824,7 @@ Omah|F|2|vintage
 Omair|M|2|modern
 Omaira|F|2|
 Omani|U|2|
-Omar|M|8|modern
+Omar|M|8|biblical,modern
 Omara|F|2|modern
 Omaree|M|2|modern
 Omari|M|6|modern
@@ -29848,7 +29848,7 @@ Omid|M|3|modern
 Omie|F|4|vintage
 Omir|M|2|modern
 Omkar|M|2|modern
-Omni|F?|2|
+Omni|F?|2|mythological
 Omolara|F|2|modern
 Omolola|F|2|modern
 Omran|M|2|modern
@@ -29987,7 +29987,7 @@ Ormond|M|3|vintage
 Orna|F|1|
 Ornella|F|2|modern
 Oronde|M|2|
-Orpah|F|2|vintage
+Orpah|F|2|biblical,vintage
 Orpha|F|5|vintage
 Orphia|F|2|vintage
 Orra|F?|2|vintage
@@ -30076,7 +30076,7 @@ Othello|M?|3|vintage
 Other|M|2|vintage
 Othman|M|3|modern
 Othmar|M|2|vintage
-Othniel|M|3|modern
+Othniel|M|3|biblical,modern
 Otho|M|4|vintage
 Otie|F?|2|vintage
 Otila|F|3|vintage
@@ -30432,14 +30432,14 @@ Per|M|2|
 Percell|M|4|
 Perceval|M|1|
 Percilla|F|3|
-Percival|M|4|
+Percival|M|4|mythological
 Percy|M|6|vintage
 Peredur|M|1|
 Peregrin|M|2|
 Peregrine|M|2|
 Perel|F|3|modern
 Peretz|M|2|modern
-Perez|M|3|modern
+Perez|M|3|biblical,modern,mythological
 Perfecto|M|3|vintage
 Peri|F|4|modern
 Perl|F?|3|modern
@@ -30539,13 +30539,13 @@ Philomene|F|3|vintage
 Philopateer|M|2|modern
 Philopater|M|2|modern
 Phineas|M|4|modern
-Phinehas|M|3|modern
+Phinehas|M|3|biblical,modern
 Phinley|U|2|modern
 Phinneas|M|2|modern
 Phiona|F|2|modern
-Phoebe|F|6|modern
+Phoebe|F|6|biblical,modern,mythological
 Phoenicia|F|2|modern
-Phoenix|U|6|modern
+Phoenix|U|6|modern,mythological
 Phoenixx|U|2|
 Phoenyx|U|4|modern
 Phong|M|4|modern
@@ -30743,7 +30743,7 @@ Prisha|F|4|modern
 Prisila|F|3|modern
 Prisilla|F|3|modern
 Prisma|F|2|modern
-Prithvi|M|2|modern
+Prithvi|M|2|modern,mythological
 Priti|F|2|modern
 Priya|F|5|modern
 Priyal|F|2|modern
@@ -30964,7 +30964,7 @@ Rachal|F|4|modern
 Rachana|F|2|modern
 Rachard|M|2|modern
 Racheal|F|6|modern
-Rachel|F|10|modern
+Rachel|F|10|biblical,modern
 Rachelann|F|2|modern
 Rachele|F|4|modern
 Rachell|F|4|modern
@@ -30981,7 +30981,7 @@ Radames|M|3|
 Radek|M|2|modern
 Raden|M|2|modern
 Radford|M|4|vintage
-Radha|F|3|modern
+Radha|F|3|modern,mythological
 Radhika|F|4|modern
 Radiah|F|2|
 Radiance|F|2|modern
@@ -31065,7 +31065,7 @@ Raghav|M|4|modern
 Ragina|F|2|
 Ragna|F|2|vintage
 Ragnar|M|3|
-Raguel|F|2|mythological
+Raguel|F|2|biblical,mythological
 Raha|F|2|
 Rahaf|F|3|modern
 Rahcel|F|2|modern
@@ -31108,7 +31108,7 @@ Railey|F?|3|modern
 Railyn|F|3|modern
 Railynn|F|3|modern
 Raima|F|2|modern
-Raimundo|M|2|
+Raimundo|M|2|mythological
 Rain|F?|4|modern
 Raina|F|6|modern
 Rainah|F|2|modern
@@ -31180,7 +31180,7 @@ Ralphie|M|2|
 Ralston|M|3|vintage
 Ralyn|F|2|modern
 Ralynn|F|2|modern
-Ram|M|4|modern
+Ram|M|4|biblical,modern
 Rama|F?|4|modern
 Ramadan|M|2|modern
 Ramah|F?|2|vintage
@@ -31553,7 +31553,7 @@ Rebbeca|F|3|modern
 Rebbecca|F|4|
 Rebeca|F|6|modern
 Rebecah|F|2|modern
-Rebecca|F|10|
+Rebecca|F|10|biblical
 Rebeccah|F|4|modern
 Rebecka|F|4|modern
 Rebeckah|F|3|modern
@@ -31798,7 +31798,7 @@ Retina|F|2|
 Rett|M|2|modern
 Retta|F|4|
 Rettie|F|2|vintage
-Reuben|M|6|vintage
+Reuben|M|6|biblical,vintage
 Reubin|M|3|vintage
 Reuel|M|3|modern
 Reuven|M|4|modern
@@ -31896,7 +31896,7 @@ Rhiley|F?|4|modern
 Rhilynn|F|2|modern
 Rhina|F|2|modern
 Rhisiart|M|1|
-Rhoda|F|6|vintage
+Rhoda|F|6|biblical,vintage
 Rhodes|M?|4|
 Rhodie|F|2|vintage
 Rhodri|M|1|
@@ -32357,7 +32357,7 @@ Romonia|F|2|
 Romuald|M|2|vintage
 Romualdo|M|2|modern
 Romulo|M|3|
-Romulus|M|2|
+Romulus|M|2|mythological
 Romy|F?|4|
 Romyn|M?|2|
 Ron|M|6|
@@ -32765,7 +32765,7 @@ Rustyn|M|2|
 Rut|F|3|modern
 Ruta|F|2|
 Rutger|M|2|modern
-Ruth|F|10|vintage
+Ruth|F|10|biblical,vintage
 Rutha|F|4|vintage
 Ruthann|F|5|
 Ruthanna|F|3|vintage
@@ -33077,7 +33077,7 @@ Sal|M|4|
 Sala|F|2|modern
 Salaar|M|2|
 Saladin|M|2|
-Salah|M?|4|modern
+Salah|M?|4|biblical,modern,mythological
 Salahuddin|M|2|modern
 Salam|U|2|modern
 Salar|M|2|
@@ -33090,7 +33090,7 @@ Saleema|F|2|modern
 Saleemah|F|2|
 Saleen|F|3|modern
 Saleena|F|3|modern
-Saleh|M|4|modern
+Saleh|M|4|modern,mythological
 Saleha|F|2|modern
 Salem|U|6|
 Salena|F|5|modern
@@ -33131,7 +33131,7 @@ Salvator|M|3|vintage
 Salvatore|M|7|vintage
 Salvatrice|F|2|vintage
 Salwa|F|3|modern
-Sam|M?|8|vintage
+Sam|M?|8|mythological,vintage
 Sama|F|4|modern
 Samaa|F|2|modern
 Samaad|M|2|modern
@@ -33222,9 +33222,9 @@ Sampson|M|4|modern
 Samra|F|2|modern
 Samrat|M|2|modern
 Samreen|F|2|modern
-Samson|M|6|modern
+Samson|M|6|biblical,modern
 Samual|M|5|modern
-Samuel|M|10|modern
+Samuel|M|10|biblical,modern
 Samuele|M|2|modern
 Samuell|M|2|modern
 Samuella|F|2|modern
@@ -33352,7 +33352,7 @@ Sapphire|F|4|modern
 Saprina|F|2|
 Saqib|M|2|modern
 Saquan|M|3|modern
-Sara|F|9|modern
+Sara|F|9|biblical,modern
 Saraann|F|2|modern
 Sarabella|F|2|modern
 Sarabelle|F|1|vintage
@@ -33360,7 +33360,7 @@ Sarabeth|F|4|modern
 Sarabi|F|2|modern
 Sarae|F|2|modern
 Sarafina|F|3|modern
-Sarah|F|11|modern
+Sarah|F|11|biblical,modern
 Sarahann|F|3|modern
 Sarahanne|F|2|modern
 Sarahbeth|F|2|modern
@@ -33400,7 +33400,7 @@ Sargun|F|2|modern
 Sarha|F|2|modern
 Sari|F|4|
 Saria|F|4|modern
-Sariah|F|5|modern
+Sariah|F|5|modern,mythological
 Sariel|M|2|
 Sarika|F|3|modern
 Sarim|M|2|modern
@@ -33447,13 +33447,13 @@ Satoshi|M|2|vintage
 Satoya|F|2|modern
 Satrina|F|2|
 Satsuki|F|2|vintage
-Saturn|U|2|
+Saturn|U|2|mythological
 Saturnino|M|3|vintage
 Satvik|M|2|modern
 Satya|U|3|modern
 Saud|M|2|modern
 Saudia|F|2|modern
-Saul|M|6|modern
+Saul|M|6|biblical,modern
 Saulo|M|3|modern
 Saumya|F|2|modern
 Saunders|M|2|vintage
@@ -33716,7 +33716,7 @@ Sera|F|4|modern
 Serafin|M|4|modern
 Serafina|F|4|modern
 Serafino|M|2|vintage
-Serah|F|3|modern
+Serah|F|3|biblical,modern
 Serai|F|2|modern
 Seraiah|F|2|modern
 Serana|F|2|
@@ -33762,7 +33762,7 @@ Seryna|F|2|modern
 Sesar|M|2|modern
 Setareh|F|2|modern
 Setayesh|F|2|
-Seth|M|8|modern
+Seth|M|8|biblical,modern,mythological
 Setsuko|F|2|vintage
 Seumas|M|1|
 Seva|F?|2|modern
@@ -33838,7 +33838,7 @@ Shadman|M|2|modern
 Shadoe|U|2|modern
 Shadonna|F|3|modern
 Shadow|U|4|modern
-Shadrach|M|3|modern
+Shadrach|M|3|biblical,modern
 Shadrack|M|2|modern
 Shadrick|M|3|
 Shady|U|3|modern
@@ -34537,7 +34537,7 @@ Shean|M|2|
 Sheana|F|3|modern
 Sheanna|F|2|modern
 Shearon|F|2|
-Sheba|F|4|
+Sheba|F|4|biblical
 Sheccid|F|2|modern
 Sheddrick|M|2|
 Shedrick|M|4|
@@ -34563,7 +34563,7 @@ Shekira|F|2|modern
 Shekita|F|2|modern
 Shela|F|4|
 Shelagh|F|3|
-Shelah|F|3|
+Shelah|F|3|biblical
 Shelaine|F|2|modern
 Shelanda|F|2|
 Shelba|F|4|vintage
@@ -34612,7 +34612,7 @@ Shelvia|F|2|vintage
 Shelvie|F|2|vintage
 Shelvy|F?|2|vintage
 Shem|M|3|
-Shemaiah|F|2|modern
+Shemaiah|F|2|biblical,modern
 Shemar|M|4|modern
 Shemeika|F|2|modern
 Shemeka|F|4|modern
@@ -34807,7 +34807,7 @@ Shila|F|4|modern
 Shilah|F|3|modern
 Shile|F|1|
 Shilo|U|4|
-Shiloh|F?|6|
+Shiloh|F?|6|biblical
 Shilpa|F|3|modern
 Shilynn|F|2|modern
 Shima|F|2|modern
@@ -35028,7 +35028,7 @@ Sibbie|F|2|vintage
 Sibel|F|2|modern
 Sible|F|2|vintage
 Sibley|F?|2|modern
-Sibyl|F|4|vintage
+Sibyl|F|4|mythological,vintage
 Sibéal|F|1|
 Sicilia|F|2|modern,mythological
 Sicily|F|4|modern
@@ -35072,15 +35072,15 @@ Sighle|F|1|
 Sigifredo|M|3|modern
 Sigismund|M|2|vintage
 Sigmond|M|2|vintage
-Sigmund|M|4|vintage
+Sigmund|M|4|mythological,vintage
 Signa|F|2|mythological,vintage
 Signe|F|4|vintage
 Sigourney|F|2|modern
 Sigrid|F|4|
-Sigurd|M|3|vintage
+Sigurd|M|3|mythological,vintage
 Siham|F|3|modern
 Sila|F|2|modern
-Silas|M|7|modern
+Silas|M|7|modern,mythological
 Silena|F|2|
 Siler|M|2|modern
 Silus|M|2|modern
@@ -35104,7 +35104,7 @@ Simara|F|2|modern
 Simaya|F|2|modern
 Simba|M|2|
 Simcha|M?|4|modern
-Simeon|M|5|modern
+Simeon|M|5|biblical,modern
 Simi|F|3|modern
 Simisola|F|2|modern
 Simmie|M?|4|vintage
@@ -35173,7 +35173,7 @@ Sisira|F|2|
 Sissy|F|3|modern
 Sister|F|3|vintage
 Sisto|M|2|vintage
-Sita|F|2|modern
+Sita|F|2|modern,mythological
 Sitara|F|3|
 Sitlali|F|2|modern
 Sitlaly|F|2|modern
@@ -35190,7 +35190,7 @@ Siyon|M|2|modern
 Siyona|F|2|modern
 Skadi|F|2|
 Skai|F?|4|modern
-Skanda|M|2|modern
+Skanda|M|2|modern,mythological
 Skarlet|F|2|modern
 Skarleth|F|2|modern
 Skarlett|F|4|modern
@@ -35322,7 +35322,7 @@ Solmon|M|2|vintage
 Soloman|M|4|modern
 Solomia|F|2|
 Solomiya|F|2|
-Solomon|M|6|modern
+Solomon|M|6|biblical,modern
 Solon|M|4|vintage
 Solstice|F?|2|
 Solveig|F|4|modern
@@ -35791,7 +35791,7 @@ Susan|F|11|
 Susana|F|6|modern
 Susane|F|2|
 Susann|F|4|
-Susanna|F|6|modern
+Susanna|F|6|biblical,modern
 Susannah|F|5|
 Susanne|F|6|
 Susen|F|2|
@@ -35892,7 +35892,7 @@ Sylvanus|M|2|vintage
 Sylver|F?|2|modern
 Sylvester|M|6|vintage
 Sylvi|F|2|
-Sylvia|F|8|
+Sylvia|F|8|mythological
 Sylvie|F|5|
 Sylvio|M|2|vintage
 Sylwia|F|2|modern
@@ -36048,7 +36048,7 @@ Tahnee|F|3|modern
 Tahra|F|2|modern
 Tahsin|M?|2|modern
 Tahtiana|F|2|modern
-Tai|U|4|modern
+Tai|U|4|modern,mythological
 Taia|F|3|modern
 Taichi|M|2|modern
 Taiden|M|3|modern
@@ -36247,7 +36247,7 @@ Tamalyn|F|2|
 Tamani|F|2|modern
 Tamanna|F|2|modern
 Tamantha|F|2|
-Tamar|F?|5|modern
+Tamar|F?|5|biblical,modern
 Tamara|F|8|
 Tamarah|F|4|modern
 Tamarcus|M|3|modern
@@ -36471,7 +36471,7 @@ Taquilla|F|2|modern
 Taquisha|F|2|modern
 Taquita|F|2|modern
 Taqwa|F|2|
-Tara|F|8|
+Tara|F|8|mythological
 Tarae|F?|2|modern
 Tarah|F|4|modern
 Tarahji|F?|2|modern
@@ -36761,7 +36761,7 @@ Teal|F?|4|modern
 Teala|F|3|modern
 Teale|F|2|modern
 Teana|F|3|modern
-Teancum|M|2|modern
+Teancum|M|2|modern,mythological
 Teandra|F|2|modern
 Teandre|M|2|modern
 Teanna|F|4|modern
@@ -36937,7 +36937,7 @@ Tequila|F|4|modern
 Tequilla|F|3|modern
 Tequita|F|2|modern
 Tera|F|5|
-Terah|F|4|modern
+Terah|F|4|biblical,modern
 Teralyn|F|2|modern
 Teran|U|3|modern
 Terance|M|4|modern
@@ -37100,7 +37100,7 @@ Thailand|M?|2|modern
 Thaily|F|2|modern
 Thaine|M|2|vintage
 Thais|F|4|modern
-Thalia|F|6|modern
+Thalia|F|6|modern,mythological
 Thalya|F|2|modern
 Thamara|F|2|modern
 Thandiwe|F|1|modern
@@ -37152,7 +37152,7 @@ Theona|F|2|vintage
 Theone|F|2|vintage
 Theophil|M|2|vintage
 Theophile|M|2|vintage
-Theophilus|M|4|modern
+Theophilus|M|4|biblical,modern
 Theoplis|M|2|vintage
 Theopolis|M|2|
 Theora|F|3|vintage
@@ -37206,7 +37206,7 @@ Thompson|M|4|modern
 Thoms|M|2|
 Thomson|M|2|modern
 Thong|M|2|modern
-Thor|M|4|modern
+Thor|M|4|modern,mythological
 Thora|F|4|vintage
 Thoren|M|2|modern
 Thorin|M|4|modern
@@ -37418,7 +37418,7 @@ Tippy|U|1|
 Tipton|M|2|modern
 Tiquan|M|2|modern
 Tira|F|3|
-Tiras|M|2|modern
+Tiras|M|2|biblical,modern
 Tiron|M|2|modern
 Tirrell|M|3|
 Tirsa|F|2|modern
@@ -37436,7 +37436,7 @@ Tishia|F|2|
 Tishie|F|2|vintage
 Tison|M|2|modern
 Tita|F|2|
-Titan|M|5|modern
+Titan|M|5|modern,mythological
 Titania|F|3|
 Titiana|F|3|modern
 Titianna|F|2|modern
@@ -37462,7 +37462,7 @@ Tjay|M|2|modern
 Tjuana|F|2|
 Tkai|U|2|modern
 Tkeyah|F|4|modern
-Tlaloc|M|2|modern
+Tlaloc|M|2|modern,mythological
 Tniya|F|2|modern
 Tniyah|F|2|modern
 Toa|M|2|modern
@@ -37476,7 +37476,7 @@ Tobenna|M|2|modern
 Tobey|U|4|
 Tobi|F?|4|
 Tobiah|M|3|modern
-Tobias|M|6|modern
+Tobias|M|6|biblical,modern
 Tobie|U|4|
 Tobin|M|5|modern
 Toby|M?|6|
@@ -37491,7 +37491,7 @@ Toinette|F|3|
 Toivo|M|3|vintage
 Toiya|F|2|
 Tokyo|F?|2|
-Tola|F?|2|vintage
+Tola|F?|2|biblical,vintage
 Tolbert|M|3|vintage
 Toleen|F|2|modern
 Tollie|M?|3|vintage
@@ -37640,7 +37640,7 @@ Toshiko|F|3|vintage
 Toshio|M|3|vintage
 Toshua|U|2|modern
 Totiana|F|2|modern
-Tou|M|4|modern
+Tou|M|4|biblical,modern
 Toua|M|2|modern
 Toula|F|2|vintage
 Toure|M|2|modern
@@ -37935,7 +37935,7 @@ Trishika|F|2|
 Trissa|F|2|
 Trista|F|6|modern
 Tristain|M|2|modern
-Tristan|U|8|modern
+Tristan|U|8|modern,mythological
 Tristen|M|6|modern
 Tristian|M|5|modern
 Tristin|M|6|modern
@@ -37944,7 +37944,7 @@ Tristine|F|2|modern
 Triston|M|6|modern
 Tristram|M|2|modern
 Tristyn|U|4|modern
-Triton|M|4|modern
+Triton|M|4|modern,mythological
 Trivia|F|2|modern
 Trixie|F|4|
 Trixy|F|2|
@@ -38189,7 +38189,7 @@ Tyquarius|M|2|modern
 Tyquavious|M|2|modern
 Tyquez|M|2|modern
 Tyquon|M|2|modern
-Tyr|M|2|
+Tyr|M|2|mythological
 Tyra|F|6|modern
 Tyrae|M?|2|modern
 Tyrah|F|3|modern
@@ -38363,7 +38363,7 @@ Urian|M|2|modern
 Urias|M|2|modern
 Urie|M|2|modern
 Uriel|M|6|modern,mythological
-Urijah|M|4|modern
+Urijah|M|4|biblical,modern
 Uriyah|U|3|modern
 Ursula|F|6|
 Urvi|F|2|modern
@@ -38383,7 +38383,7 @@ Uziah|M|2|modern
 Uziel|M|4|modern
 Uzma|F|2|modern
 Uzoma|M?|2|modern
-Uzziah|M|4|modern
+Uzziah|M|4|biblical,modern
 Uzziel|M|3|modern
 Vaani|F|3|
 Vaanya|F|2|modern
@@ -38539,7 +38539,7 @@ Vash|M|2|modern
 Vashaun|M|2|modern
 Vashawn|M?|3|modern
 Vashon|M?|3|
-Vashti|F|4|modern
+Vashti|F|4|biblical,modern
 Vasili|M|2|modern
 Vasilia|F|2|modern
 Vasiliki|F|4|
@@ -38669,7 +38669,7 @@ Vergene|F|2|vintage
 Vergia|F|2|vintage
 Vergie|F|4|vintage
 Vergil|M|4|vintage
-Verginia|F|2|vintage
+Verginia|F|2|mythological,vintage
 Veria|F|2|vintage
 Verina|F|2|vintage
 Verita|F|2|
@@ -39535,7 +39535,7 @@ Yadir|M|2|modern
 Yadira|F|6|modern
 Yadriel|M|2|modern
 Yaeko|F|2|vintage
-Yael|U|5|modern
+Yael|U|5|biblical,modern
 Yaeli|F|2|modern
 Yaelis|F|2|modern
 Yafa|F|2|
@@ -40025,7 +40025,7 @@ Yunior|M|2|modern
 Yunique|F|2|modern
 Yunis|M|2|modern
 Yunuen|F?|2|modern
-Yunus|M|4|
+Yunus|M|4|mythological
 Yurani|F|2|modern
 Yurem|M|3|modern
 Yuri|U|5|modern
@@ -40125,7 +40125,7 @@ Zadia|F|2|modern
 Zadie|F|4|modern
 Zadiel|M|2|modern
 Zadkiel|M|2|modern
-Zadok|M|3|modern
+Zadok|M|3|biblical,modern
 Zadrian|M|2|modern
 Zadyn|M|2|modern
 Zae|M|2|
@@ -40446,15 +40446,15 @@ Zeba|F|2|modern
 Zebadiah|M|4|modern
 Zebastian|M|2|modern
 Zebbie|M?|2|
-Zebedee|M|4|
+Zebedee|M|4|biblical
 Zebediah|M|3|modern
 Zebulan|M|2|
 Zebulon|M|4|modern
-Zebulun|M|3|modern
-Zechariah|M|6|modern
+Zebulun|M|3|biblical,modern
+Zechariah|M|6|biblical,modern
 Zed|M|2|modern
 Zeda|F|2|vintage
-Zedekiah|M|3|modern
+Zedekiah|M|3|biblical,modern
 Zedric|M|2|modern
 Zedrick|M|2|modern
 Zee|U|2|modern
@@ -40522,7 +40522,7 @@ Zenya|F|2|modern
 Zeola|F|3|vintage
 Zeph|M|2|modern
 Zephan|M|3|modern
-Zephaniah|M?|4|modern
+Zephaniah|M?|4|biblical,modern
 Zephyr|M?|4|modern
 Zephyra|F|2|modern
 Zeplin|M|2|modern
@@ -40530,7 +40530,7 @@ Zeplyn|F?|2|modern
 Zeppelin|M?|4|
 Zepplin|M|2|modern
 Zera|F|3|vintage
-Zerah|F|2|modern
+Zerah|F|2|biblical,modern
 Zerek|M|2|modern
 Zerenity|F|2|modern
 Zeriah|F|2|modern

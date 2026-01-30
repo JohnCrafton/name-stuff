@@ -35,7 +35,7 @@ Jyoti|F|6|6
 Kanagaratnam|M|6|6
 Kavita|F|6|6
 Kiran|F?|6|6
-Krishna|U|6|6
+Krishna|U|6|mythological
 Kumari|F|6|6
 Manjit|M?|6|6
 Manju|F?|6|6
@@ -44,7 +44,7 @@ Mohan|M|6|6
 Poonam|F|6|6
 Rajesh|M|6|6
 Rajinder|M?|6|6
-Ram|M|6|6
+Ram|M|6|biblical
 Ramesh|M|6|6
 Rashmi|F|6|6
 Rasiah|M|6|6
@@ -98,7 +98,7 @@ Jatinder|M?|5|5
 Jaya|F|5|5
 Jeyakumar|M|5|5
 Joginder|M?|5|5
-Joseph|M|5|5
+Joseph|M|5|biblical,mythological
 Kalpana|F|5|5
 Kamal|M?|5|5
 Kanagasabai|M|5|5
@@ -110,7 +110,7 @@ Kuldeep|M?|5|5
 Kuldip|M?|5|5
 Kulwant|M?|5|5
 Kusum|F|5|5
-Lakshmi|F|5|5
+Lakshmi|F|5|mythological
 Lalita|F|5|5
 Lata|F|5|5
 Laxmi|F|5|5
@@ -174,7 +174,7 @@ Surjit|M?|5|5
 Sushila|F|5|5
 Thambiah|M|5|5
 Uma|F|5|5
-Urmila|F|5|5
+Urmila|F|5|mythological
 Varsha|F|5|5
 Vijaya|F|5|5
 Vinod|M|5|5
@@ -204,7 +204,7 @@ Bela|M|4|4
 Bhajan|M?|4|4
 Charanjit|M?|4|4
 Chelliah|M|4|4
-Chhaya|F|4|4
+Chhaya|F|4|mythological
 Chitra|F|4|4
 Dalbir|M|4|4
 Daljit|M?|4|4
@@ -233,7 +233,7 @@ Harry|M|4|4
 Harvinder|M?|4|4
 Inderjit|M?|4|4
 Indira|F|4|4
-Indra|M|4|4
+Indra|M|4|mythological
 Jagdish|M|4|4
 Jarnail|M|4|4
 Jasvinder|M?|4|4
@@ -274,7 +274,7 @@ Malkiat|M|4|4
 Manivannan|M|4|4
 Manjeet|M?|4|4
 Manoharan|M|4|4
-Mary|F|4|4
+Mary|F|4|biblical
 Maya|F|4|4
 Meenu|F|4|4
 Megha|F|4|4
@@ -309,7 +309,7 @@ Priyanka|F|4|4
 Promila|F|4|4
 Pushpa|F|4|4
 Rachna|F|4|4
-Radha|F|4|4
+Radha|F|4|mythological
 Radhika|F|4|4
 Rajaratnam|M|4|4
 Rajeev|M|4|4
@@ -325,7 +325,7 @@ Ratnam|M|4|4
 Ravindran|M|4|4
 Reema|F|4|4
 Reena|F|4|4
-Renuka|F|4|4
+Renuka|F|4|mythological
 Richa|F|4|4
 Rupinder|M?|4|4
 Sadhna|F|4|4
@@ -398,7 +398,7 @@ Vinay|M|4|4
 Vinita|F|4|4
 Yogarajah|M|4|4
 Abhay|M|3|3
-Aditi|F|3|3
+Aditi|F|3|mythological
 Ajmer|M|3|3
 Aloke|M|3|3
 Amarjeet|M?|3|3

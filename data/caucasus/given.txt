@@ -90,7 +90,7 @@ Ana|F|8|
 Anahit|F|9|
 Anaida|F|6|
 Anar|M|8|
-Anastasia|F|2|
+Anastasia|F|2|mythological
 Anastasiya|F|2|
 Anatoli|M|4|
 Anatoly|M|3|
@@ -105,7 +105,7 @@ Angelina|F|2|
 Ani|F|4|
 Anjela|F|6|
 Ann|F|3|
-Anna|F|9|mythological
+Anna|F|9|biblical,mythological
 Annie|F|5|
 Anoush|F|1|
 Anri|M|4|
@@ -120,7 +120,7 @@ Aqil|M|2|
 Ara|M|7|mythological
 Arakel|M|1|
 Araksya|F|5|
-Aram|M|8|
+Aram|M|8|biblical
 Aramais|M|5|
 Ararat|M|5|
 Arax|F|2|
@@ -241,12 +241,12 @@ Christine|F|1|
 Dadash|M|1|
 Dako|M|1|
 Dali|F|6|
-Daniel|M|4|
+Daniel|M|4|biblical
 Darejan|F|5|
 Darinka|F|1|
 Darya|F|2|
 Dato|M|5|
-David|M|10|
+David|M|10|biblical
 Davit|M|8|
 Daviti|M|1|
 Davud|M|3|
@@ -487,7 +487,7 @@ Haykaz|M|5|
 Henrietta|F|1|
 Henrik|M|6|
 Henrikh|M|6|
-Henry|M|4|
+Henry|M|4|mythological
 Henryetta|F|1|
 Herald|M|1|
 Herbert|M|3|
@@ -515,8 +515,8 @@ Huseyn|M|4|
 Husik|M|1|
 Hussein|M|2|
 Ia|F|7|mythological
-Ibrahim|M|2|
-Ida|F|4|
+Ibrahim|M|2|mythological
+Ida|F|4|mythological
 Igbal|M|1|
 Igor|M|6|
 Ilaha|F|4|
@@ -559,7 +559,7 @@ Iskander|M|2|
 Iskender|M|2|
 Islam|M|4|
 Ismael|M|2|
-Ismail|M|3|
+Ismail|M|3|mythological
 Ismayil|M|3|
 Iuza|M|3|
 Ivan|M|5|
@@ -629,7 +629,7 @@ Katerina|F|3|
 Katia|F|2|
 Katya|F|2|
 Kazbek|M|2|
-Kenan|M|6|
+Kenan|M|6|biblical
 Kenul|F|5|
 Kerim|M|2|
 Ketevan|F|9|
@@ -664,7 +664,7 @@ Lado|M|4|
 Lala|F|8|mythological
 Lale|F|2|
 Lali|F|7|
-Laman|F|5|
+Laman|F|5|mythological
 Lamara|F|1|
 Lamiya|F|3|
 Lana|F|2|
@@ -742,7 +742,7 @@ Magomed|M|2|
 Mahir|M|6|
 Mahira|F|1|
 Mahmud|M|2|
-Maia|F|9|
+Maia|F|9|mythological
 Maiko|F|1|
 Mais|M|3|
 Maja|F|4|
@@ -778,7 +778,7 @@ Marianna|F|2|
 Marieta|F|5|
 Marietta|F|6|
 Marika|F|5|
-Marina|F|9|
+Marina|F|9|mythological
 Marine|F|7|
 Mariya|F|5|
 Mark|M|4|
@@ -986,7 +986,7 @@ Oleg|M|7|
 Olga|F|8|
 Olia|F|1|
 Olya|F|4|
-Omar|M|3|
+Omar|M|3|biblical
 Omid|M?|2|
 Onik|M|5|
 Ori|M|1|
@@ -1037,7 +1037,7 @@ Rashid|M|5|
 Rashida|F|1|
 Rasim|M|6|
 Rasima|F|2|
-Rati|M|3|
+Rati|M|3|mythological
 Rauf|M|8|
 Raul|M|2|
 Raya|F|5|
@@ -1114,11 +1114,11 @@ Salmi|M|1|
 Salome|F|7|
 Samir|M|8|
 Samira|F|7|
-Samson|M|3|
+Samson|M|3|biblical
 Samvel|M|8|
 Sandro|M|3|
 Saniya|F|2|
-Sara|F|5|
+Sara|F|5|biblical
 Sargis|M|6|
 Saribek|M|3|
 Sarkis|M|6|
@@ -1168,7 +1168,7 @@ Shiraz|M|3|
 Shmavon|M|1|
 Shorena|F|6|
 Shota|M|7|
-Shushan|F|3|
+Shushan|F|3|mythological
 Silva|F|7|
 Sima|F|3|
 Simon|M|3|mythological
@@ -1204,7 +1204,7 @@ Sunay|M|2|
 Suraya|F|3|
 Suren|M|8|
 Susana|F|2|
-Susanna|F|9|
+Susanna|F|9|biblical
 Suzanna|F|5|
 Sveta|F|3|
 Svetlana|F|8|
@@ -1212,7 +1212,7 @@ Tahir|M|6|
 Tair|M|3|
 Talat|M|2|
 Talib|M|2|
-Tamar|F|10|
+Tamar|F|10|biblical
 Tamara|F|7|
 Tamas|M|3|
 Tamaz|M|8|
@@ -1406,7 +1406,7 @@ Zeynab|F|1|
 Zeynal|F|2|
 Zhanna|F|5|
 Zhirayr|M|1|
-Ziba|F|3|
+Ziba|F|3|biblical
 Zina|F|2|
 Zinaida|F|4|
 Ziya|M|2|

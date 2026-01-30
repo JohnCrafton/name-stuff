@@ -1,7 +1,7 @@
 # name-stuff given names
 # format: name|gender|frequency|tags
 #
-Anna|F|10|mythological
+Anna|F|10|biblical,mythological
 Erik|M|10|10
 Guðrún|F|10|10
 Juhani|M|10|10

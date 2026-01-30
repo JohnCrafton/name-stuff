@@ -29,7 +29,7 @@ Alfonsas|M|8|8
 Algimantas|M|8|8
 Andres|M|8|8
 Anita|F|8|8
-Anna|F|8|mythological
+Anna|F|8|biblical,mythological
 Anne|F|8|8
 Anu|F|8|8
 Baiba|F|8|8
@@ -135,7 +135,7 @@ Gediminas|M|7|7
 Gintautas|M|7|7
 Gražina|F|7|7
 Guntars|M|7|7
-Heli|F|7|7
+Heli|F|7|biblical
 Igors|M|7|7
 Ilga|F|7|7
 Ilmārs|M|7|7
@@ -174,7 +174,7 @@ Mare|F|7|mythological
 Marek|M|7|7
 Mari|F|7|7
 Marika|F|7|7
-Marina|F|7|7
+Marina|F|7|mythological
 Marko|M|7|7
 Mart|M|7|7
 Mati|M|7|7
@@ -296,7 +296,7 @@ Epp|F|6|6
 Eugenija|F|6|6
 Eugenijus|M|6|6
 Eva|F|6|6
-Eve|F|6|6
+Eve|F|6|biblical,mythological
 Galina|F|6|6
 Gaļina|F|6|6
 Gen<e°>|F|6|6
@@ -414,7 +414,7 @@ Robertas|M|6|6
 Rolandas|M|6|6
 Rolands|M|6|6
 Romas|M|6|6
-Ruth|F|6|6
+Ruth|F|6|biblical
 Sander|M|6|6
 Sanita|F|6|6
 Signe|F|6|6
@@ -550,7 +550,7 @@ Ignas|M|5|5
 Ilgvars|M|5|5
 Ilme|F|5|5
 Imre|M|5|5
-Indra|F|5|5
+Indra|F|5|mythological
 Inguna|F|5|5
 Ingūna|F|5|5
 Inita|F|5|5
@@ -711,7 +711,7 @@ Zinaida|F|5|5
 Aarne|M|4|4
 Aavo|M|4|4
 Adolfas|M|4|4
-Agne|F|4|4
+Agne|F|4|mythological
 Agnija|F|4|4
 Agnis|M|4|4
 Ago|M|4|4

@@ -6,7 +6,7 @@ Abha|F|4|4
 Abhay|M|3|3
 Abhilasha|F|4|4
 Adarsh|U|2|2
-Aditi|F|3|3
+Aditi|F|3|mythological
 Aditya|M|1|1
 Ahilan|M|2|2
 Ajay|M|5|5
@@ -164,7 +164,7 @@ Bharati|F|2|2
 Bharti|F|5|5
 Bhaskar|M|2|2
 Bhavana|F|1|1
-Bhavani|F|2|2
+Bhavani|F|2|mythological
 Bhavna|F|2|2
 Bhopinder|M?|3|3
 Bhupinder|M?|5|5
@@ -197,7 +197,7 @@ Charu|F|3|3
 Chellapah|M|2|2
 Chelliah|M|4|4
 Chhanda|F|2|2
-Chhaya|F|4|4
+Chhaya|F|4|mythological
 Chitra|F|4|4
 Chitralekha|F|2|2
 Dalbir|M|4|4
@@ -256,7 +256,7 @@ Frida|F|1|1
 Ganesalingam|M|3|3
 Ganesh|M|3|3
 Ganeshan|M|3|3
-Ganga|F|2|2
+Ganga|F|2|mythological
 Garima|F|2|2
 Gaurangi|F|1|1
 Gauri|F|3|3
@@ -354,11 +354,11 @@ Huma|F|1|1
 Humam|M|1|1
 Humpy|F?|1|1
 Igbal|M|2|2
-Ila|F|2|2
+Ila|F|2|mythological
 Impress|M|2|2
 Inderjit|M?|4|4
 Indira|F|4|4
-Indra|M|4|4
+Indra|M|4|mythological
 Indrakumar|M|2|2
 Indrani|F|2|2
 Indu|F|6|6
@@ -424,9 +424,9 @@ Joginder|M?|5|5
 John|M|2|2
 Johny|M|1|1
 Jora|F|1|1
-Joseph|M|5|5
+Joseph|M|5|biblical,mythological
 Joy|M|1|1
-Jude|M?|2|2
+Jude|M?|2|biblical
 Juhi|F|2|2
 Jyoti|F|6|6
 Jyotika|F|1|1
@@ -515,7 +515,7 @@ Kishan|M|4|4
 Kokila|F|3|3
 Konika|F|1|1
 Krishan|M|3|3
-Krishna|U|6|6
+Krishna|U|6|mythological
 Krishnakumar|M|3|3
 Krishnamoorthy|M|2|2
 Krishnan|M|2|2
@@ -547,7 +547,7 @@ Kusum|F|5|5
 Lakhbir|M|4|4
 Lakhvir|M|2|2
 Lakhwinder|M?|4|4
-Lakshmi|F|5|5
+Lakshmi|F|5|mythological
 Lal|M|4|4
 Lalita|F|5|5
 Lalitha|F|1|1
@@ -628,7 +628,7 @@ Manuelpillai|M|2|2
 Manya|F|1|1
 Marimuthu|M|3|3
 Markandu|M|5|5
-Mary|F|4|4
+Mary|F|4|biblical
 Maryada|F|1|1
 Mathivannan|M|2|2
 Matisha|F|1|1
@@ -715,7 +715,7 @@ Naresh|M?|4|4
 Nargis|F|2|2
 Narinder|M?|5|5
 Nashreen|F|1|1
-Nathan|M|1|1
+Nathan|M|1|biblical
 Navaratnam|M|5|5
 Navdeep|M|2|2
 Naveen|M?|3|3
@@ -787,7 +787,7 @@ Parmjeet|M?|3|3
 Parmjit|M?|4|4
 Parmod|M|2|2
 Parul|F|3|3
-Parvati|F|2|2
+Parvati|F|2|mythological
 Parveen|M?|4|4
 Parvinder|M?|2|2
 Pasupathy|M?|3|3
@@ -845,7 +845,7 @@ Rabindra|M|2|2
 Rachhapal|M|1|1
 Rachhpal|M|1|1
 Rachna|F|4|4
-Radha|F|4|4
+Radha|F|4|mythological
 Radhika|F|4|4
 Ragavan|M|2|2
 Ragbir|M|3|3
@@ -883,7 +883,7 @@ Rajwinder|M?|2|2
 Rakesh|M|5|5
 Rakhee|F|2|2
 Rakhi|F|4|4
-Ram|M|6|6
+Ram|M|6|biblical
 Rama|M?|4|4
 Ramalingam|M|3|3
 Raman|M?|4|4
@@ -923,7 +923,7 @@ Rasiah|M|6|6
 Rasu|M|3|3
 Ratan|M|4|4
 Rathy|M?|2|2
-Rati|F?|1|1
+Rati|F?|1|mythological
 Ratna|F|4|4
 Ratnabali|F|2|2
 Ratnam|M|4|4
@@ -937,14 +937,14 @@ Ravinder|M?|6|6
 Ravindera|M|1|1
 Ravindran|M|4|4
 Rawail|M|2|2
-Rebecca|F|2|2
+Rebecca|F|2|biblical
 Reema|F|4|4
 Reena|F|4|4
 Reeta|F|3|3
 Rehana|F|2|2
 Rekha|F|6|6
 Renu|F|6|6
-Renuka|F|4|4
+Renuka|F|4|mythological
 Resham|M|3|3
 Reshma|F|3|3
 Richa|F|4|4
@@ -1015,7 +1015,7 @@ Santoshi|F|2|2
 Sapna|F|4|4
 Sarabjit|M?|3|3
 Sarai|F|1|1
-Saraswati|F|2|2
+Saraswati|F|2|mythological
 Saravanabavan|M|2|2
 Saravanamuthu|M|4|4
 Sarbjit|M?|3|3
@@ -1154,7 +1154,7 @@ Sinnathurai|M|5|5
 Sinniah|M|5|5
 Siri|M|2|2
 Sisira|F|1|1
-Sita|F|2|2
+Sita|F|2|mythological
 Sitanath|M|2|2
 Sithamparapillai|M|2|2
 Sittampalam|M|2|2
@@ -1309,7 +1309,7 @@ Tapas|M|4|4
 Tapash|M|2|2
 Tapasi|F|2|2
 Tapati|F|2|2
-Tara|F|3|3
+Tara|F|3|mythological
 Taran|M|1|1
 Tarlochan|M|2|2
 Tarsem|F|4|4
@@ -1367,7 +1367,7 @@ Umesh|M|2|2
 Upinder|M?|2|2
 Urmi|F|2|2
 Urmil|F|2|2
-Urmila|F|5|5
+Urmila|F|5|mythological
 Urvashi|F|2|2
 Usha|F|7|7
 Uthayakumar|M|4|4

@@ -21,12 +21,12 @@ Aatami|M|1|
 Aatos|M|4|
 Aatto|M|4|
 Aatu|M|1|
-Abel|M|1|
+Abel|M|1|biblical
 Abram|M|1|
 Acke|M|1|
 Ada|F|1|
 Adalmiina|F|1|
-Adam|M|3|
+Adam|M|3|biblical,mythological
 Adda|F|4|
 Addi|F|1|
 Addie|F|1|
@@ -43,7 +43,7 @@ Agda|F|1|
 Agla|F|4|
 Agna|F|1|
 Agnar|M|6|
-Agne|M|4|
+Agne|M|4|mythological
 Agner|M|2|
 Agnes|F|6|
 Agneta|F|7|
@@ -86,7 +86,7 @@ Alex|M|5|
 Alexander|M|6|
 Alexandra|F|5|mythological
 Alexía|F|2|
-Alf|M|6|
+Alf|M|6|mythological
 Alfa|F|2|
 Alfhild|F|1|
 Alfred|M|4|
@@ -152,7 +152,7 @@ Anker|M|5|
 Anki|F|1|
 Anlaug|F|1|
 Ann|F|9|
-Anna|F|10|mythological
+Anna|F|10|biblical,mythological
 Annaleena|F|1|
 Annaliisa|F|1|
 Annalise|F|4|
@@ -272,7 +272,7 @@ Asger|M|5|
 Asko|M|5|
 Asla|F|3|
 Aslak|M|1|
-Aslaug|F|5|
+Aslaug|F|5|mythological
 Asle|M|4|
 Aslög|F|1|
 Asmunn|M|1|
@@ -297,7 +297,7 @@ Auli|F|5|
 Aulikki|F|5|
 Aulis|M|6|mythological
 Aulo|M|1|
-Aun|M|1|
+Aun|M|1|mythological
 Aune|F|6|
 Aura|F|2|mythological
 Auri|F|2|
@@ -318,7 +318,7 @@ Aðalheiður|F|7|
 Aðalsteinn|M|6|
 Aþena|F|3|
 Baard|M|3|
-Baldur|M|7|
+Baldur|M|7|mythological
 Baldvin|M|6|
 Baldvina|F|1|
 Barbara|F|3|
@@ -341,7 +341,7 @@ Benedikte|F|4|
 Bengt|M|9|
 Bengta|F|1|
 Benjam|M|2|
-Benjamin|M|4|
+Benjamin|M|4|biblical
 Benjamín|M|4|
 Benni|M|1|
 Bennie|M|1|
@@ -352,7 +352,7 @@ Bente|F|8|
 Benthe|F|3|
 Bentína|F|1|
 Benóný|M|2|
-Bera|F|1|
+Bera|F|1|biblical
 Bergdís|F|4|
 Berghildur|F|2|
 Berglind|F|8|
@@ -474,7 +474,7 @@ Bottolf|M|1|
 Boye|M|4|
 Boði|M|1|
 Braga|F|1|
-Bragi|M|6|
+Bragi|M|6|mythological
 Branddís|F|1|
 Brandur|M|2|
 Breki|M|4|
@@ -604,17 +604,17 @@ Dagur|M|6|
 Dalla|F|1|
 Dalmann|M|1|
 Dalrós|F|1|
-Dan|M|6|
+Dan|M|6|biblical,mythological
 Danfríður|F|1|
 Dani|M|1|
-Daniel|M|7|
+Daniel|M|7|biblical
 Daniela|F|1|
 Danni|M|2|
 Dannie|M|1|
 Danny|M|3|
 Daníel|M|7|
 Darri|M|4|
-David|M|6|
+David|M|6|biblical
 Davida|F|1|
 Davíð|M|8|
 Daðey|F|1|
@@ -674,7 +674,7 @@ Edit|F|4|
 Edith|F|6|
 Edle|F|2|
 Edmund|M|2|
-Edna|F|1|
+Edna|F|1|biblical
 Edny|F|1|
 Edvard|M|4|
 Edvin|M|3|
@@ -722,7 +722,7 @@ Einir|M|1|
 Eino|M|7|
 Einvarður|M|1|
 Einy|F|1|
-Eir|F|5|
+Eir|F|5|mythological
 Eira|F|5|
 Eirik|M|6|
 Eirin|F|2|
@@ -755,7 +755,7 @@ Elfi|F|2|
 Elfrida|F|3|
 Elfride|F|1|
 Elfur|F|1|
-Eli|U|5|
+Eli|U|5|biblical
 Elias|M|5|
 Elida|F|1|
 Eliel|M|1|
@@ -823,7 +823,7 @@ Elís|M|4|
 Elísa|F|5|
 Elísabet|F|8|
 Emanuel|M|2|
-Embla|F|4|
+Embla|F|4|mythological
 Emelie|F|5|
 Emely|F|1|
 Emelía|F|3|
@@ -845,7 +845,7 @@ Ensi|M|1|
 Ensio|M|7|
 Erhard|M|1|
 Erhardt|M|2|
-Eric|M|5|
+Eric|M|5|mythological
 Erica|F|3|
 Eriika|F|1|
 Erik|M|10|
@@ -882,7 +882,7 @@ Espen|M|7|
 Essi|F|4|
 Ester|F|5|
 Esteri|F|4|
-Esther|F|5|
+Esther|F|5|biblical
 Estrid|F|1|
 Ethel|F|3|
 Etly|F|1|
@@ -893,7 +893,7 @@ Evald|M|4|
 Eveliina|F|4|
 Evelina|F|4|
 Evelyn|F|5|
-Even|M|3|
+Even|M|3|mythological
 Evert|M|6|
 Evor|F|1|
 Evy|F|5|
@@ -944,7 +944,7 @@ Finni|F|1|
 Finnur|M|6|
 Fjalar|M|2|
 Fjóla|F|6|
-Fjölnir|M|3|
+Fjölnir|M|3|mythological
 Flemming|M|8|
 Flosi|M|3|
 Flóki|M|2|
@@ -972,8 +972,8 @@ Frej|M|1|
 Freja|F|2|
 Freydís|F|3|
 Freygerður|F|1|
-Freyja|F|5|
-Freyr|M|8|
+Freyja|F|5|mythological
+Freyr|M|8|mythological
 Freysteinn|M|2|
 Frid|F|2|
 Frida|F|5|
@@ -1007,7 +1007,7 @@ Frosti|M|3|
 Frímann|M|4|
 Fríða|F|5|
 Fríður|F|3|
-Fróði|M|2|
+Fróði|M|2|mythological
 Frøydis|F|3|
 Fáfnir|M|1|
 Fífa|F|1|
@@ -1041,7 +1041,7 @@ Gerða|F|3|
 Gerður|F|6|
 Gestur|M|5|
 Ghita|F|3|
-Gideon|M|1|
+Gideon|M|1|biblical,mythological
 Gilbert|M|2|
 Gillis|M|2|
 Gils|M|1|
@@ -1060,7 +1060,7 @@ Glenn|M|4|
 Glennie|F|1|
 Glenny|F|1|
 Glódís|F|2|
-Gná|F|1|
+Gná|F|1|mythological
 Godtfred|M|1|
 Gordon|M|2|
 Gorm|M|4|
@@ -1090,7 +1090,7 @@ Gudbjørg|F|1|
 Gudbrand|M|2|
 Gudlaug|F|1|
 Gudmund|M|4|
-Gudrun|F|6|
+Gudrun|F|6|mythological
 Gudveig|F|1|
 Gulborg|F|1|
 Gull|F|4|
@@ -1187,7 +1187,7 @@ Göran|M|9|
 Görel|F|2|
 Gösta|M|6|
 Göta|F|2|
-Göte|M|6|
+Göte|M|6|mythological
 Götha|F|1|
 Göthe|M|1|
 Gøran|M|1|
@@ -1236,7 +1236,7 @@ Halvard|M|3|
 Halvor|M|3|
 Hampus|M|4|
 Hanna|F|7|
-Hannah|F|3|
+Hannah|F|3|biblical
 Hannakaisa|F|1|
 Hanne|F|9|
 Hannele|F|8|
@@ -1295,7 +1295,7 @@ Helfrid|M|1|
 Helga|F|9|
 Helge|M|7|
 Helgi|M|9|
-Heli|F|6|
+Heli|F|6|biblical
 Helinä|F|5|
 Helja|F|1|
 Heljä|F|3|
@@ -1331,7 +1331,7 @@ Henriette|F|7|
 Henriikka|F|1|
 Henrik|M|9|
 Henrikki|M|4|
-Henry|M|6|
+Henry|M|6|mythological
 Hera|F|4|mythological
 Herbert|M|3|
 Herbjørn|M|1|
@@ -1345,7 +1345,7 @@ Herman|M|4|
 Hermann|M|6|
 Hermanni|M|3|
 Hermine|F|1|
-Hermod|M|2|
+Hermod|M|2|mythological
 Hermund|M|1|
 Hermundur|M|1|
 Hermína|F|2|
@@ -1360,7 +1360,7 @@ Herulf|M|1|
 Hervör|F|1|
 Heta|F|2|
 Hilbjørg|F|1|
-Hilda|F|3|
+Hilda|F|3|mythological
 Hilde|F|6|
 Hildegard|F|2|
 Hildegun|F|1|
@@ -1396,7 +1396,7 @@ Hlynur|M|6|
 Hlédís|F|1|
 Hlíf|F|4|
 Hlífar|M|1|
-Hlín|F|6|
+Hlín|F|6|mythological
 Hlíðar|M|3|
 Hlöðver|M|3|
 Hogne|M|1|
@@ -1452,7 +1452,7 @@ Höskuldur|M|5|
 Húni|M|1|
 Ib|M|7|
 Iben|F|5|
-Ida|F|6|
+Ida|F|6|mythological
 Idar|M|3|
 Idun|F|1|
 Iida|F|3|
@@ -1477,7 +1477,7 @@ Ilpo|M|5|
 Ilppo|M|1|
 Ilse|F|4|
 Ilta|F|1|
-Immanuel|M|3|
+Immanuel|M|3|biblical
 Immo|M|2|
 Impi|F|1|
 Ina|F|5|
@@ -1527,7 +1527,7 @@ Ingund|F|1|
 Ingunn|F|6|
 Ingvald|M|3|
 Ingvaldur|M|2|
-Ingvar|M|7|
+Ingvar|M|7|mythological
 Ingvard|M|2|
 Ingvarda|F|1|
 Ingveldur|F|5|
@@ -1561,7 +1561,7 @@ Ivan|M|6|
 Ivar|M|8|
 Iver|M|3|
 Iða|F|1|
-Iðunn|F|4|
+Iðunn|F|4|mythological
 Jaak|M|1|
 Jaakko|M|8|
 Jaakob|M|1|
@@ -1569,7 +1569,7 @@ Jaakoppi|M|1|
 Jaana|F|6|
 Jac|M|1|
 Jack|M|5|
-Jacob|M|7|
+Jacob|M|7|biblical,mythological
 Jafet|M|1|
 Jahn|M|3|
 Jakko|M|1|
@@ -1633,7 +1633,7 @@ Jerry|M|4|
 Jes|M|5|
 Jesper|M|8|
 Jess|M|4|
-Jesse|M|1|
+Jesse|M|1|biblical
 Jessi|F|1|
 Jessica|F|6|
 Jessika|F|3|
@@ -1646,7 +1646,7 @@ Jimmi|M|4|
 Jimmie|M|1|
 Jimmy|M|6|
 Jo|M|4|
-Joachim|M|4|
+Joachim|M|4|biblical
 Joacim|M|3|
 Joakim|M|6|
 Joan|F|6|
@@ -1666,7 +1666,7 @@ Johny|M|1|
 Johs|M|1|
 Jon|M|6|
 Jonas|M|8|
-Jonathan|M|3|
+Jonathan|M|3|biblical
 Joni|M|4|
 Jonn|M|1|
 Jonna|F|6|
@@ -1803,7 +1803,7 @@ Karlotta|F|3|
 Karly|F|1|
 Karlyn|F|1|
 Karlína|F|1|
-Karna|F|3|
+Karna|F|3|mythological
 Karoliina|F|4|
 Karolin|F|2|
 Karolina|F|4|
@@ -1953,7 +1953,7 @@ Kustaa|M|5|
 Kyllikki|F|7|
 Kyrre|M|2|
 Kyösti|M|5|
-Kári|M|7|
+Kári|M|7|mythological
 Kärstin|F|1|
 Käte|F|2|
 Kåre|M|7|
@@ -1964,13 +1964,13 @@ Laila|F|6|
 Laina|F|4|
 Laine|F|1|
 Lajla|F|2|
-Lalli|M|1|
+Lalli|M|1|mythological
 Lari|M|3|
 Lars|M|10|
 Lasse|M|6|
 Lassi|M|4|
 Lau|M|3|
-Laufey|F|6|
+Laufey|F|6|mythological
 Lauha|F|1|
 Laura|F|6|
 Lauri|M|7|
@@ -1979,7 +1979,7 @@ Laurits|M|4|
 Lauritz|M|1|
 Laurs|M|1|
 Lea|F|6|
-Leah|F|1|
+Leah|F|1|biblical
 Leena|F|9|
 Leeni|F|1|
 Leevi|M|3|
@@ -2130,7 +2130,7 @@ Magnea|F|5|
 Magnfríður|F|1|
 Magnhild|F|4|
 Magnhildur|F|2|
-Magni|M|4|
+Magni|M|4|mythological
 Magnus|M|8|
 Magny|F|1|
 Magnús|M|8|
@@ -2205,7 +2205,7 @@ Mariitta|F|3|
 Marika|F|5|
 Marikka|F|1|
 Marikukka|F|1|
-Marina|F|5|
+Marina|F|5|mythological
 Marinette|F|1|
 Marinus|M|3|
 Marinó|M|4|
@@ -2246,14 +2246,14 @@ Marta|F|6|
 Marte|F|3|
 Marteinn|M|5|
 Marten|M|2|
-Martha|F|4|
+Martha|F|4|biblical
 Marthe|F|3|
 Martin|M|8|
 Martina|F|4|
 Martta|F|3|
 Martti|M|8|
 Marvel|M|1|
-Mary|F|6|
+Mary|F|6|biblical
 María|F|9|
 Maríanna|F|3|
 Marías|M|1|
@@ -2343,7 +2343,7 @@ Minna|F|7|
 Minttu|F|1|
 Mio|M|1|
 Mira|F|2|
-Miriam|F|3|
+Miriam|F|3|biblical
 Mirja|F|7|
 Mirjam|F|5|
 Mirjami|F|5|
@@ -2387,7 +2387,7 @@ Naemi|F|1|
 Naja|F|3|
 Nana|F|3|mythological
 Nancy|F|4|
-Nanna|F|5|
+Nanna|F|5|mythological
 Nanne|F|1|
 Nanny|F|2|
 Narfi|M|1|
@@ -2575,7 +2575,7 @@ Pirketta|F|1|
 Pirkko|F|8|
 Pjetur|M|1|
 Pollý|F|1|
-Pontus|M|4|
+Pontus|M|4|mythological
 Poul|M|9|
 Poula|F|2|
 Pouline|F|1|
@@ -2628,7 +2628,7 @@ Ranan|F|1|
 Randi|F|7|
 Randolf|M|1|
 Randveig|F|1|
-Randver|M|2|
+Randver|M|2|mythological
 Randy|F|1|
 Randí|F|1|
 Ranheid|F|1|
@@ -2644,7 +2644,7 @@ Rauni|F|5|
 Rauno|M|5|
 Raymond|M|3|
 Rea|F|3|
-Rebecca|F|4|
+Rebecca|F|4|biblical
 Rebecka|F|4|
 Rebekka|F|6|
 Reeta|F|2|
@@ -2732,9 +2732,9 @@ Rune|M|7|
 Runólfur|M|4|
 Rut|F|8|
 Rutger|M|2|
-Ruth|F|7|
+Ruth|F|7|biblical
 Ryno|M|1|
-Rán|F|5|
+Rán|F|5|mythological
 Ráðhildur|F|1|
 Ríkarður|M|3|
 Ríkey|F|3|
@@ -2784,13 +2784,13 @@ Salvar|M|1|
 Salvör|F|3|
 Salóme|F|4|
 Salómon|M|1|
-Sam|M|2|
+Sam|M|2|mythological
 Sami|M|6|
 Sampo|M|3|
 Sampsa|M|3|
-Samson|M|1|
+Samson|M|1|biblical
 Samu|M|2|
-Samuel|M|4|
+Samuel|M|4|biblical
 Samuli|M|5|
 Samúel|M|4|
 Sander|M|3|
@@ -2806,8 +2806,8 @@ Sannie|F|1|
 Sanny|F|1|
 Santeri|M|3|
 Santtu|M|1|
-Sara|F|7|
-Sarah|F|5|
+Sara|F|7|biblical
+Sarah|F|5|biblical
 Sari|F|7|
 Sarianna|F|1|
 Sarina|F|1|
@@ -2850,7 +2850,7 @@ Siggeir|M|2|
 Siggerður|F|1|
 Sighvatur|M|3|
 Sigmar|M|5|
-Sigmund|M|4|
+Sigmund|M|4|mythological
 Sigmundur|M|5|
 Signe|F|6|
 Signhild|F|1|
@@ -2870,7 +2870,7 @@ Sigurbjartur|M|2|
 Sigurbjörg|F|7|
 Sigurbjörn|M|6|
 Sigurborg|F|5|
-Sigurd|M|5|
+Sigurd|M|5|mythological
 Sigurdís|F|3|
 Sigurdór|M|2|
 Sigurey|F|1|
@@ -2907,7 +2907,7 @@ Sigvald|M|1|
 Sigvaldi|M|4|
 Sigvard|M|4|
 Sigvor|F|1|
-Sigyn|F|1|
+Sigyn|F|1|mythological
 Sigþrúður|F|4|
 Sigþór|M|4|
 Sigþóra|F|2|
@@ -2918,7 +2918,7 @@ Silja|F|5|
 Silje|F|3|
 Sille|F|2|
 Simen|M|3|
-Simeon|M|1|
+Simeon|M|1|biblical
 Simo|M|6|
 Simon|M|5|mythological
 Simone|F|3|
@@ -2950,7 +2950,7 @@ Siviä|F|3|
 Siw|F|5|
 Sixten|M|4|
 Sjur|M|1|
-Sjöfn|F|6|
+Sjöfn|F|6|mythological
 Skafti|M|3|
 Skapti|M|2|
 Skarphéðinn|M|4|
@@ -3060,7 +3060,7 @@ Sunniva|F|1|
 Suoma|F|2|
 Susan|F|6|
 Susann|F|3|
-Susanna|F|6|
+Susanna|F|6|biblical
 Susanne|F|9|
 Susi|F|1|
 Susie|F|3|
@@ -3115,7 +3115,7 @@ Sverre|M|7|
 Sverrir|M|7|
 Sváfnir|M|1|
 Sylvi|F|4|
-Sylvia|F|4|
+Sylvia|F|4|mythological
 Sylvie|F|1|
 Sylvía|F|5|
 Synne|F|1|
@@ -3223,7 +3223,7 @@ Theódóra|F|4|
 Thilde|F|2|
 Thomas|M|8|
 Thommy|M|3|
-Thor|M|6|
+Thor|M|6|mythological
 Thora|F|3|
 Thoralf|M|1|
 Thorben|M|1|
@@ -3263,7 +3263,7 @@ Tinus|M|1|
 Titta|F|2|
 Titti|F|3|
 Tjörvi|M|2|
-Tobias|M|6|
+Tobias|M|6|biblical
 Toimi|M|2|
 Toini|F|4|
 Toivo|M|7|
@@ -3366,7 +3366,7 @@ Uffe|M|5|
 Uggi|M|1|
 Ulf|M|8|
 Uljas|M|1|
-Ulla|F|8|
+Ulla|F|8|biblical
 Ulrica|F|3|
 Ulrich|M|4|
 Ulrik|M|6|
@@ -3502,7 +3502,7 @@ Vilhelmina|F|2|
 Vilhelmína|F|3|
 Vilhjálmur|M|6|
 Vilho|M|6|
-Vili|M|2|
+Vili|M|2|mythological
 Vilja|F|2|
 Viljam|M|3|
 Viljami|M|5|
@@ -3584,7 +3584,7 @@ Ylfa|F|4|
 Ylva|F|4|
 Yngvar|M|4|
 Yngve|M|5|
-Yngvi|M|4|
+Yngvi|M|4|mythological
 Yngvild|F|1|
 Yrjö|M|6|
 Yrsa|F|3|
@@ -3657,7 +3657,7 @@ Zophonías|M|2|
 Åslaug|F|1|
 Åsmund|M|2|
 Åste|F|1|
-Ægir|M|6|
+Ægir|M|6|mythological
 Æsa|F|1|
 Ævar|M|5|
 Ævarr|M|4|

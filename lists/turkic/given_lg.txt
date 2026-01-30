@@ -53,7 +53,7 @@ Alexandr|M|7|7
 Alija|F|7|7
 Alisher|M|7|7
 Aliya|F|7|7
-Anna|F|7|mythological
+Anna|F|7|biblical,mythological
 Arman|M|7|7
 Arzu|F|7|7
 Askar|M|7|7
@@ -96,7 +96,7 @@ Madina|F|7|7
 Mahmut|M|7|7
 Maria|F|7|7
 Marija|F|7|7
-Marina|F|7|7
+Marina|F|7|mythological
 Mariya|F|7|7
 Merve|F|7|7
 Meryem|F|7|7
@@ -207,7 +207,7 @@ Jevgenija|F|6|6
 Kadir|M|6|6
 Kadriye|F|6|6
 Kamil|M|6|6
-Kenan|M|6|6
+Kenan|M|6|biblical
 Konstantin|M|6|6
 Larisa|F|6|6
 Laura|F|6|6
@@ -289,7 +289,7 @@ Yevgenia|F|6|6
 Yevgeniy|M|6|6
 Yevgeniya|F|6|6
 Yeşim|F|6|6
-Yunus|M|6|6
+Yunus|M|6|mythological
 Yuri|M|6|6
 Yuriy|M|6|6
 Yüksel|M?|6|6
@@ -337,7 +337,7 @@ Almaz|M|5|5
 Almira|F|5|5
 Alper|M|5|5
 Anar|F|5|5
-Anastasia|F|5|5
+Anastasia|F|5|mythological
 Anastassia|F|5|5
 Anastassija|F|5|5
 Anastassiya|F|5|5
@@ -458,7 +458,7 @@ Hamdi|M|5|5
 Hamide|F|5|5
 Hamza|M|5|5
 Hanım|F|5|5
-Harun|M|5|5
+Harun|M|5|mythological
 Havasxon|F|5|5
 Haydar|M|5|5
 Hayriye|F|5|5

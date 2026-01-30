@@ -222,6 +222,11 @@ name-stuff/
    - 7,600+ mythological names from Greek, Roman, Celtic, Norse, Egyptian, and other traditions
    - Provides `mythological` tagging for matching names across all cultures
 
+6. **Wikidata:** [Wikidata Query Service](https://query.wikidata.org/)
+   - CC0 (Public Domain)
+   - Supplemental mythology, biblical, and historical name tagging
+   - Queries for Greek/Roman/Norse/Egyptian deities, biblical figures, etc.
+
 ## Building
 
 Requires Ruby 2.7+.
@@ -231,6 +236,7 @@ Requires Ruby 2.7+.
 ruby scripts/parse_given_names.rb           # International given names
 ruby scripts/parse_ssa_names.rb             # US SSA baby names (merges with en/given.txt)
 ruby scripts/parse_roscher_mythology.rb     # Mythology tagging from Roscher's Lexicon
+ruby scripts/fetch_wikidata_names.rb        # Wikidata mythology/biblical tagging
 ruby scripts/parse_census_surnames.rb       # US Census surnames
 ruby scripts/parse_international_surnames.rb # International surnames
 

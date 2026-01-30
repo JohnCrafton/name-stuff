@@ -1,7 +1,7 @@
 # name-stuff given names
 # format: name|gender|frequency|tags
 #
-Anna|F|11|mythological
+Anna|F|11|biblical,mythological
 Andrzej|M|10|10
 Barbara|F|10|10
 El<z°>bieta|F|10|10
@@ -28,7 +28,7 @@ Stanisław|M|9|9
 Teresa|F|9|9
 Tomasz|M|9|9
 Wojciech|M|9|9
-Adam|M|8|8
+Adam|M|8|biblical,mythological
 Aleksandra|F|8|8
 Beata|F|8|8
 Bo<z°>ena|F|8|8

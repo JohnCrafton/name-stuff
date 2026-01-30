@@ -9,7 +9,7 @@ Ioannis|M|10|10
 Konstantinos|M|10|10
 Nikolaos|M|10|10
 Aikaterini|F|9|9
-Anna|F|9|mythological
+Anna|F|9|biblical,mythological
 Christos|M|9|9
 Eirini|F|9|9
 Georgia|F|9|9
@@ -20,7 +20,7 @@ Vasileios|M|9|9
 Vasiliki|F|9|9
 Vasilios|M|9|9
 Alexandros|M|8|mythological
-Anastasia|F|8|8
+Anastasia|F|8|mythological
 Andreas|M|8|8
 Angeliki|F|8|8
 Antonios|M|8|8
@@ -44,7 +44,7 @@ Athanasia|F|7|7
 Athina|F|7|7
 Charalampos|M|7|7
 Despina|F|7|7
-Despoina|F|7|7
+Despoina|F|7|mythological
 Dionysios|M|7|7
 Eleftheria|F|7|7
 Evgenia|F|7|7
@@ -53,7 +53,7 @@ Fotini|F|7|7
 Ilias|M|7|mythological
 Kalliopi|F|7|7
 Kyriaki|F|7|7
-Marina|F|7|7
+Marina|F|7|mythological
 Olga|F|7|7
 Panayiotis|M|7|7
 Paraskevi|F|7|7
@@ -97,7 +97,7 @@ Stefanos|M|6|6
 Thomas|M|6|6
 Zoi|F|6|6
 Achilleas|M|5|5
-Aglaia|F|5|5
+Aglaia|F|5|mythological
 Aimilia|F|5|5
 Aliki|F|5|5
 Amalia|F|5|5

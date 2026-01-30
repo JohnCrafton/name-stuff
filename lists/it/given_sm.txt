@@ -1,14 +1,14 @@
 # name-stuff given names
 # format: name|gender|frequency|tags
 #
-Joseph|M|11|11
+Joseph|M|11|biblical,mythological
 Maria|F|11|11
-Anna|F|10|mythological
+Anna|F|10|biblical,mythological
 Anthony|M|10|10
 Antonio|M|10|10
 Giuseppe|M|10|10
 John|M|10|10
-Mary|F|10|10
+Mary|F|10|biblical
 Carmel|M|9|9
 Carmen|F|9|9
 Emanuel|M|9|9
@@ -29,7 +29,7 @@ Carlo|M|8|8
 Carmela|F|8|8
 Carmelo|M|8|8
 Charles|M|8|8
-David|M|8|8
+David|M|8|biblical
 Domenico|M|8|8
 Francesca|F|8|8
 Francis|M|8|8

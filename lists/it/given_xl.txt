@@ -1,7 +1,7 @@
 # name-stuff given names
 # format: name|gender|frequency|tags
 #
-Aaron|M|4|4
+Aaron|M|4|biblical,mythological
 Abbondanza|F|1|1
 Abbondanzio|M|1|1
 Abbondio|M|1|1
@@ -212,7 +212,7 @@ Anacleta|F|1|1
 Anacleto|M|2|2
 Anania|M|1|1
 Ananio|F|1|1
-Anastasia|F|2|2
+Anastasia|F|2|mythological
 Anastasio|M|1|1
 Anatolia|F|1|1
 Anatolio|M|1|1
@@ -247,7 +247,7 @@ Aniello|M|4|4
 Anita|F|4|4
 Anito|M|1|1
 Ann|F|6|6
-Anna|F|10|mythological
+Anna|F|10|biblical,mythological
 Annabella|F|1|1
 Annachiara|F|1|1
 Annalisa|F|5|5
@@ -475,7 +475,7 @@ Benilde|F|1|1
 Benildo|M|1|1
 Benita|F|1|1
 Benito|M|5|5
-Benjamin|M|3|3
+Benjamin|M|3|biblical
 Benjamina|F|1|1
 Benny|M|3|3
 Benvenuta|F|1|1
@@ -561,7 +561,7 @@ Calcedonio|M|1|1
 Calcidon|M|2|2
 Calliope|F|1|1
 Callista|F|1|1
-Callisto|M|1|1
+Callisto|M|1|mythological
 Calogera|F|3|3
 Calogero|M|5|5
 Calvino|M|1|1
@@ -815,7 +815,7 @@ Damiana|F|2|2
 Damiano|M|4|4
 Dana|F|1|1
 Dania|F|1|1
-Daniel|M|4|4
+Daniel|M|4|biblical
 Daniela|F|7|7
 Daniele|M|6|6
 Daniella|F|1|1
@@ -828,14 +828,14 @@ Daren|M|2|2
 Daria|F|3|3
 Dario|M|6|6
 Darren|M|4|4
-David|M|8|8
+David|M|8|biblical
 Davida|F|1|1
 Davide|M|6|6
 Davina|F|1|1
 Davino|M|1|1
 Dea|F|1|1
 Debora|F|3|3
-Deborah|F|5|5
+Deborah|F|5|biblical
 Decia|F|1|1
 Decima|F|1|1
 Decimo|M|1|1
@@ -1051,7 +1051,7 @@ Enia|F|1|1
 Enio|M|2|2
 Ennia|F|1|1
 Ennio|M|5|5
-Enos|M|1|1
+Enos|M|1|mythological
 Enrica|F|5|5
 Enrichetta|F|3|3
 Enrichetto|M|1|1
@@ -1070,7 +1070,7 @@ Ercolina|F|1|1
 Ercolino|M|1|1
 Eria|F|1|1
 Eriberto|M|1|1
-Eric|M|3|3
+Eric|M|3|mythological
 Erica|F|2|2
 Erico|M|1|1
 Eridano|M|1|1
@@ -1116,7 +1116,7 @@ Este|M|1|1
 Ester|F|4|4
 Esterina|F|3|3
 Esterino|M|1|1
-Esther|F|1|1
+Esther|F|1|biblical
 Etienne|M|4|4
 Etta|F|1|1
 Ettora|F|1|1
@@ -1131,7 +1131,7 @@ Eufrosina|F|1|1
 Eugenia|F|4|4
 Eugenio|M|6|6
 Eulalia|F|1|1
-Eusebia|F|1|1
+Eusebia|F|1|mythological
 Eusebio|M|1|1
 Eustachia|F|1|1
 Eustachio|M|1|1
@@ -1594,7 +1594,7 @@ Hector|M|1|1
 Helen|F|7|7
 Helena|F|1|mythological
 Henri|M|2|2
-Henry|M|6|6
+Henry|M|6|mythological
 Herbert|M|4|4
 Herman|M|1|1
 Horace|M|4|4
@@ -1607,7 +1607,7 @@ Iana|F|1|mythological
 Icaro|M|1|1
 Icilia|F|1|1
 Icilio|M|1|1
-Ida|F|6|6
+Ida|F|6|mythological
 Idalgo|M|1|1
 Idelma|F|1|1
 Idelmo|M|1|1
@@ -1740,12 +1740,12 @@ Jolanda|F|3|3
 Jolando|M|1|1
 Jole|M|2|2
 Jonas|M|1|1
-Jonathan|M|4|4
+Jonathan|M|4|biblical
 Jos|M?|3|3
 Josef|M|4|4
 Josefina|F|1|1
 Joselle|F|1|1
-Joseph|M|11|11
+Joseph|M|11|biblical,mythological
 Joseph-Mary|M|5|5
 Josephine|F|9|9
 Josette|F|7|7
@@ -1985,7 +1985,7 @@ Magda|F|2|2
 Magdalen|F|4|4
 Maggiorina|F|1|1
 Maggiorino|M|1|1
-Maia|F|1|1
+Maia|F|1|mythological
 Maila|F|1|1
 Mainardo|M|1|1
 Malcolm|M|4|4
@@ -2048,7 +2048,7 @@ Marila|F|1|1
 Marilena|F|5|5
 Marilina|F|1|1
 Marilisa|F|1|1
-Marina|F|6|6
+Marina|F|6|mythological
 Marinella|F|4|4
 Marinello|M|1|1
 Marino|M|5|5
@@ -2077,7 +2077,7 @@ Martin|M|6|6
 Martina|F|3|3
 Martinella|F|1|1
 Martino|M|4|4
-Mary|F|10|10
+Mary|F|10|biblical
 Maryrose|F|4|4
 Marzia|F|4|4
 Marziale|M|1|1
@@ -2167,7 +2167,7 @@ Mirello|M|1|1
 Mirena|F|1|1
 Mireno|M|1|1
 Miria|F|2|2
-Miriam|F|7|7
+Miriam|F|7|biblical
 Miriana|F|1|1
 Miriano|M|1|1
 Mirio|M|1|1
@@ -2205,7 +2205,7 @@ Naldo|M|1|1
 Nancy|F|4|4
 Nanda|F|1|1
 Nando|M|2|2
-Nanna|F|1|1
+Nanna|F|1|mythological
 Nanni|M|1|1
 Napoleone|M|1|1
 Nara|F|2|2
@@ -2347,7 +2347,7 @@ Oliviera|F|1|1
 Oliviero|M|3|3
 Olivio|M|1|1
 Olivo|M|2|2
-Omar|M|2|2
+Omar|M|2|biblical
 Ombretta|F|2|2
 Omera|F|1|1
 Omero|M|2|2
@@ -2589,7 +2589,7 @@ Quirico|M|1|1
 Quirina|F|1|1
 Quirino|M|2|2
 Rachael|F|1|1
-Rachel|F|7|7
+Rachel|F|7|biblical
 Rachela|F|1|1
 Rachele|F|4|4
 Raffaela|F|4|4
@@ -2611,7 +2611,7 @@ Raul|M|1|1
 Ray|M?|4|4
 Raymond|M|8|8
 Rea|F|1|1
-Rebecca|F|4|4
+Rebecca|F|4|biblical
 Redenta|F|1|1
 Redento|M|1|1
 Regina|F|4|4
@@ -2636,7 +2636,7 @@ Reno|M|3|3
 Renza|F|3|3
 Renzo|M|6|6
 Restituta|F|1|1
-Reuben|M|4|4
+Reuben|M|4|biblical
 Rica|F|1|1
 Ricca|F|1|1
 Riccarda|F|1|1
@@ -2736,7 +2736,7 @@ Rufo|M|1|1
 Ruggera|F|1|1
 Ruggero|M|4|4
 Ruggiero|M|2|2
-Ruth|F|6|6
+Ruth|F|6|biblical
 Rutilia|F|1|1
 Rutilio|M|1|1
 Ryan|M|3|3
@@ -2759,10 +2759,10 @@ Salvino|M|3|3
 Salvinu|M|1|1
 Salvo|M|2|2
 Salvu|M|5|5
-Sam|M?|1|1
+Sam|M?|1|mythological
 Samanta|F|1|1
 Sammy|M|2|2
-Samuel|M|4|4
+Samuel|M|4|biblical
 Samuela|F|1|1
 Samuele|M|2|2
 Samwel|M|1|1
@@ -2779,15 +2779,15 @@ Santino|M|3|3
 Santo|M|5|5
 Sanzia|F|1|1
 Sanzio|M|1|1
-Sara|F|5|5
-Sarah|F|5|5
+Sara|F|5|biblical
+Sarah|F|5|biblical
 Sarina|F|1|1
 Sarino|M|1|1
 Sarita|F|1|1
 Saro|M|1|1
 Saturna|F|1|1
 Saturno|M|1|1
-Saul|M|1|1
+Saul|M|1|biblical
 Saura|F|1|1
 Sauro|M|3|3
 Saveria|F|3|3
@@ -2908,11 +2908,11 @@ Steve|M|2|2
 Steven|M|3|3
 Sunny|M|3|3
 Susan|F|4|4
-Susanna|F|5|5
+Susanna|F|5|biblical
 Suzannah|F|1|1
 Suzanne|F|4|4
 Sveva|F|1|1
-Sylvia|F|4|4
+Sylvia|F|4|mythological
 Tacito|M|1|1
 Taddea|F|1|1
 Taddeo|M|1|1
@@ -2926,7 +2926,7 @@ Tanino|M|1|1
 Tano|M|1|1
 Tarcisia|F|1|1
 Tarcisio|M|3|3
-Tarquinia|F|1|1
+Tarquinia|F|1|mythological
 Tarquinio|M|1|1
 Tarsilia|F|1|1
 Tarsilio|M|1|1

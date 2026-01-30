@@ -6,7 +6,7 @@ Ivan|M|11|11
 Jiří|M|11|11
 Maria|F|11|11
 Mária|F|11|11
-Anna|F|10|mythological
+Anna|F|10|biblical,mythological
 Constantin|M|10|10
 Dimitar|M|10|10
 Dragan|M|10|10
@@ -158,7 +158,7 @@ Cristina|F|8|8
 Csaba|M|8|8
 Dagmar|F|8|8
 Damir|M|8|8
-Dan|M|8|8
+Dan|M|8|biblical,mythological
 Danica|F|8|8
 Daniela|F|8|8
 Dejan|M|8|8
@@ -249,7 +249,7 @@ Mate|M|8|8
 Matej|M|8|8
 Mateja|F|8|8
 Matjaž|M|8|8
-Michal|M|8|8
+Michal|M|8|biblical
 Mihaela|F|8|8
 Mihail|M|8|8
 Milena|F|8|8
@@ -391,12 +391,12 @@ Csilla|F|7|7
 Cvetanka|F|7|7
 Damjan|M|7|7
 Dana|F|7|7
-Daniel|M|7|7
+Daniel|M|7|biblical
 Darina|F|7|7
 Darinka|F|7|7
 Darja|F|7|7
 Darko|M|7|7
-David|M|7|7
+David|M|7|biblical
 Davor|M|7|7
 Desanka|F|7|7
 Dijana|F|7|7
@@ -444,7 +444,7 @@ Géza|M|7|7
 Haris|M|7|7
 Hasan|M|7|7
 Husein|M|7|7
-Ibrahim|M|7|7
+Ibrahim|M|7|mythological
 Iliana|F|7|7
 Ilie|M|7|7
 Imrich|M|7|7
@@ -509,7 +509,7 @@ Margareta|F|7|7
 Margarita|F|7|7
 Marianna|F|7|7
 Marijana|U|7|7
-Marina|F|7|7
+Marina|F|7|mythological
 Mario|M|7|7
 Marius|M|7|7
 Mariyana|F|7|7
@@ -681,7 +681,7 @@ An<ð>a|F|6|6
 An<ð>ela|F|6|6
 An<ð>elka|F|6|6
 An<ð>elko|M|6|6
-Anastasia|F|6|6
+Anastasia|F|6|mythological
 Anastasija|F|6|6
 Anastasiya|F|6|6
 Andreea|F|6|6
@@ -879,7 +879,7 @@ Jusuf|M|6|6
 Kaltrina|F|6|6
 Kamil|M|6|6
 Kemal|M|6|6
-Kenan|M|6|6
+Kenan|M|6|biblical
 Klemen|M|6|6
 Konstantin|M|6|6
 Kosta|M|6|6
@@ -1060,7 +1060,7 @@ Silva|F|6|6
 Silvija|F|6|6
 Silviu|M|6|6
 Silviya|F|6|6
-Simeon|M|6|6
+Simeon|M|6|biblical
 Sinia|M|6|6
 Siyka|F|6|6
 Skënder|M|6|6
@@ -1380,7 +1380,7 @@ Gvozden|M|5|5
 Gy<ö>z<ö>|M|5|5
 Gáborné|F|5|5
 Hajrije|F|5|5
-Haki|M|5|5
+Haki|M|5|mythological
 Halid|M|5|5
 Halil|M|5|5
 Halit|M|5|5
@@ -1409,7 +1409,7 @@ Ilko|M|5|5
 Ines|F|5|5
 Ionuţ|M|5|5
 Irma|F|5|5
-Ismail|M|5|5
+Ismail|M|5|mythological
 Iulia|F|5|5
 Ivelina|F|5|5
 Iván|M|5|5
@@ -1489,7 +1489,7 @@ Lumír|M|5|5
 Lyubka|F|5|5
 Lyudmil|M|5|5
 Mahir|M|5|5
-Maia|F|5|5
+Maia|F|5|mythological
 Majlinda|F|5|5
 Mariann|F|5|5
 Marigona|F|5|5
@@ -1526,7 +1526,7 @@ Mioara|F|5|5
 Miradije|F|5|5
 Miralem|M|5|5
 Mirha|M|5|5
-Miriam|F|5|5
+Miriam|F|5|biblical
 Miroljub|M|5|5
 Mirvete|F|5|5
 Mitar|M|5|5
@@ -1610,7 +1610,7 @@ Remzije|F|5|5
 Ridvan|M|5|5
 Rifat|M|5|5
 Romeo|M|5|5
-Romulus|M|5|5
+Romulus|M|5|mythological
 Rosa|F|5|5
 Rostislav|M|5|5
 Roza|F|5|5
@@ -1628,7 +1628,7 @@ Sali|M|5|5
 Samija|F?|5|5
 Sandi|M|5|5
 Sanjin|M|5|5
-Sara|F|5|5
+Sara|F|5|biblical
 Saranda|F|5|5
 Sarolta|F|5|5
 Sascho|M|5|5
@@ -1817,7 +1817,7 @@ Zyrafete|F|5|5
 Abaz|M|4|4
 Abdullah|M|4|4
 Abid|M|4|4
-Adam|M|4|4
+Adam|M|4|biblical,mythological
 Adil|M|4|4
 Adila|F|4|4
 Adriena|F|4|4
@@ -1889,7 +1889,7 @@ Behare|F|4|4
 Behija|F|4|4
 Behudin|M|4|4
 Benedikt|M|4|4
-Benjamin|M|4|4
+Benjamin|M|4|biblical
 Berat|M|4|4
 Berislav|M|4|4
 Bernard|M|4|4
@@ -2070,7 +2070,7 @@ Halime|F|4|4
 Hamdo|M|4|4
 Hamed|M|4|4
 Haralambie|M|4|4
-Harun|M|4|4
+Harun|M|4|mythological
 Hasiba|F|4|4
 Hasime|F|4|4
 Hasnija|F|4|4
@@ -2084,7 +2084,7 @@ Hazim|M|4|4
 Haim|M|4|4
 Hedvika|F|4|4
 Herman|M|4|4
-Hilda|F|4|4
+Hilda|F|4|mythological
 Hilmo|M|4|4
 Himzo|M|4|4
 Horaţiu|M|4|4
@@ -2093,7 +2093,7 @@ Husnija|M|4|4
 Huso|M|4|4
 Hyra|F|4|4
 Iancu|M|4|4
-Ida|F|4|4
+Ida|F|4|mythological
 Igbale|F|4|4
 Ignác|M|4|4
 Ilcho|M|4|4
@@ -2368,7 +2368,7 @@ Said|M|4|4
 Saida|F|4|4
 Saliha|F|4|4
 Samira|F|4|4
-Samuel|M|4|4
+Samuel|M|4|biblical
 Sandu|M|4|4
 Sanel|M|4|4
 Savka|F|4|4

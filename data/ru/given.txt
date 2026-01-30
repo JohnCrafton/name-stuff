@@ -71,7 +71,7 @@ Amalia|F|1|
 Amalija|F|1|
 Amanta|F|1|
 Ana|F|9|
-Anastasia|F|8|
+Anastasia|F|8|mythological
 Anastasiia|F|1|
 Anastasija|F|7|
 Anastasiya|F|7|
@@ -107,7 +107,7 @@ Anghel|M|2|
 Anghelina|F|2|
 Anja|F|4|
 Anjela|F|1|
-Anna|F|9|mythological
+Anna|F|9|biblical,mythological
 Annushka|F|1|
 Anton|M|8|mythological
 Antonia|F|3|
@@ -180,9 +180,9 @@ Cristina|F|7|
 Cyril|M|4|
 Dajana|F|1|
 Damir|M|1|
-Dan|M|6|
+Dan|M|6|biblical,mythological
 Dana|F|2|
-Daniel|M|5|
+Daniel|M|5|biblical
 Daniela|F|4|
 Daniil|M|4|
 Danil|M|3|
@@ -196,7 +196,7 @@ Darja|F|5|
 Darya|F|6|
 Daryia|F|3|
 Daryna|F|1|
-David|M|3|
+David|M|3|biblical
 Davyd|M|1|
 Dayana|F|1|
 Deana|F|1|
@@ -565,7 +565,7 @@ Lyuda|F|1|
 Lyudmila|F|8|
 Lyudmyla|F|8|
 Magomed|M|4|
-Maia|F|4|
+Maia|F|4|mythological
 Maija|F|1|
 Maiya|F|1|
 Maja|F|3|
@@ -590,7 +590,7 @@ Marianna|F|5|
 Maricica|F|2|
 Marija|F|9|
 Marin|M|5|
-Marina|F|9|
+Marina|F|9|mythological
 Maritana|F|1|
 Marius|M|2|
 Mariya|F|9|
@@ -937,7 +937,7 @@ Veniamin|M|2|
 Vera|F|7|
 Veranika|F|5|
 Vergil|M|2|
-Verginia|F|2|
+Verginia|F|2|mythological
 Veronica|F|7|
 Veronika|F|6|
 Viaceslav|M|3|

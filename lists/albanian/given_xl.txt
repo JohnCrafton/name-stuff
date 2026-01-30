@@ -51,7 +51,7 @@ Albert|M|7|7
 Alberta|F|1|1
 Albi|M|4|4
 Albina|F|4|4
-Albion|M|2|2
+Albion|M|2|mythological
 Alda|F|5|5
 Aldi|M|1|1
 Aldona|F|1|1
@@ -84,7 +84,7 @@ Amarilda|F|3|3
 Amarildo|M|4|4
 Ana|F|6|6
 Anastas|M|5|5
-Anastasia|F|1|1
+Anastasia|F|1|mythological
 Andi|M|6|6
 Andis|M|1|1
 Andj|M|1|1
@@ -114,7 +114,7 @@ Apostol|M|4|4
 Aqif|M|4|4
 Aranit|M|3|3
 Aranita|F|1|1
-Arba|F|2|2
+Arba|F|2|biblical
 Arbana|F|3|3
 Arben|M|8|8
 Arber|M|5|5
@@ -299,7 +299,7 @@ Dafina|F|2|2
 Dalip|M|4|4
 Dallëndyshe|F|3|3
 Dane|M|1|1
-Daniel|M|4|4
+Daniel|M|4|biblical
 Daniela|F|5|5
 Danjela|F|4|4
 Dardan|M|3|3
@@ -313,7 +313,7 @@ Dashnor|M|5|5
 Dashuri|F|2|2
 Dashurie|F|2|2
 Daut|M|4|4
-David|M|3|3
+David|M|3|biblical
 Davida|F|1|1
 Dedë|M|2|2
 Delina|F|1|1
@@ -406,7 +406,7 @@ Elerte|F|1|1
 Elez|M|3|3
 Elfrida|F|3|3
 Elham|F|1|1
-Eli|U|3|3
+Eli|U|3|biblical
 Elian|M|1|1
 Eliana|F|4|4
 Elida|F|7|7
@@ -713,7 +713,7 @@ Hajredin|M|4|4
 Hajri|F|7|7
 Hajrie|F|5|5
 Hajrulla|M|3|3
-Haki|M|5|5
+Haki|M|5|mythological
 Hakim|M|1|1
 Halide|F|1|1
 Halil|M|5|5
@@ -734,7 +734,7 @@ Harillaq|M|2|2
 Haris|M|1|1
 Hariz|M|1|1
 Hartina|F|1|1
-Harun|M|1|1
+Harun|M|1|mythological
 Hasan|M|6|6
 Hashim|M|1|1
 Hasim|M|2|2
@@ -757,7 +757,7 @@ Hetem|M|3|3
 Hidajet|M|3|3
 Hidajete|F|3|3
 Hil|M|1|1
-Hilda|F|1|1
+Hilda|F|1|mythological
 Hilmi|M|4|4
 Hiqmet|M|4|4
 Hodo|M|3|3
@@ -772,7 +772,7 @@ Hysen|M|6|6
 Hysni|M|5|5
 Hysnie|F|1|1
 Iakup|M|1|1
-Ibrahim|M|6|6
+Ibrahim|M|6|mythological
 Ibrahimi|M|1|1
 Ibro|M|1|1
 Idajet|M|4|4
@@ -819,7 +819,7 @@ Isak|M|3|3
 Isida|F|3|3
 Isidor|M|1|1
 Islam|M|5|5
-Ismail|M|6|6
+Ismail|M|6|mythological
 Ismed|M?|1|1
 Ismet|M|5|5
 Istref|M|2|2
@@ -888,7 +888,7 @@ Keida|F|2|2
 Keler|M|1|1
 Kelmend|M|1|1
 Kelment|M|1|1
-Kenan|M|1|1
+Kenan|M|1|biblical
 Keti|F|4|4
 Kimet|M|2|2
 Kimete|F|2|2
@@ -1061,7 +1061,7 @@ Marianthi|F|2|2
 Marie|F|3|3
 Mariel|F|1|1
 Marika|F|4|4
-Marina|F|1|1
+Marina|F|1|mythological
 Marinela|F|4|4
 Mario|M|3|3
 Marisa|F|2|2
@@ -1353,7 +1353,7 @@ Rajmond|M|3|3
 Rajmonda|F|6|6
 Rakip|M|4|4
 Rakipe|F|2|2
-Ram|M|1|1
+Ram|M|1|biblical
 Ramadan|M|5|5
 Ramazan|M|5|5
 Rami|M|2|2
@@ -1455,7 +1455,7 @@ Samir|M|2|2
 Sander|M|2|2
 Sanie|F|2|2
 Sanije|F|1|1
-Sara|F|2|2
+Sara|F|2|biblical
 Sazan|M|3|3
 Sebino|M|1|1
 Sedat|M|3|3

@@ -843,7 +843,7 @@ Dai+Lin|U|1|1
 Dai+Rong|U|1|1
 Dai+Wei|U|1|1
 Dai+Yun|U|1|1
-Dan|U|7|7
+Dan|U|7|biblical,mythological
 Dan+Dan|U|2|2
 Dan+Fang|U|1|1
 Dan+Feng|U|1|1
@@ -1083,7 +1083,7 @@ En+Sheng|U|1|1
 En+Yu|U|1|1
 En+Zhong|U|1|1
 En+Zhu|U|1|1
-Er|U|1|1
+Er|U|1|biblical
 Er+Cheng|U|1|1
 Er+Dong|U|1|1
 Er+He|U|1|1
@@ -1958,7 +1958,7 @@ Huan+Zhong|U|1|1
 Huang|U|2|2
 Huei|U|1|1
 Huei+Mei|U|1|1
-Hui|U|8|8
+Hui|U|8|mythological
 Hui+Bin|U|1|1
 Hui+Chang|U|1|1
 Hui+Chen|U|2|2
@@ -2792,7 +2792,7 @@ Kong+Xiang|U|1|1
 Ku+Wen|U|1|1
 Kuan|U|1|1
 Kuang|U|1|1
-Kui|U|5|5
+Kui|U|5|mythological
 Kui+Jun|U|1|1
 Kui+Ru|U|1|1
 Kui+Zhi|U|1|1
@@ -4684,7 +4684,7 @@ Sun|U|3|3
 Sun+A|U|1|1
 Sun+An|U|1|1
 Ta+Fu|U|1|1
-Tai|U|2|2
+Tai|U|2|mythological
 Tai+An|U|1|1
 Tai+Jun|U|1|1
 Tai+Lin|U|1|1

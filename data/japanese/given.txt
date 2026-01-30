@@ -34,7 +34,7 @@ Akitoshi|M|3|
 Akiyo|F|2|
 Akiyoshi|M|1|
 Ami|F|2|
-Anna|F|2|mythological
+Anna|F|2|biblical,mythological
 Anri|F|3|
 Ao|U|1|mythological
 Aoi|F|4|
@@ -43,7 +43,7 @@ Arata|F?|2|
 Arinori|M|1|
 Arisa|F|2|
 Aritomo|M|1|
-Asa|F?|1|
+Asa|F?|1|biblical
 Asako|F|6|
 Asami|F|6|
 Asayo|F|1|
@@ -165,7 +165,7 @@ Goh|M|2|
 Goichi|M|2|
 Goro|M|1|
 Gota|M|1|
-Guy|M|1|
+Guy|M|1|mythological
 Hachiro|M|1|
 Hajime|M|5|
 Hana|F|1|
@@ -558,7 +558,7 @@ Manami|F|5|
 Mari|F|8|
 Marie|F|3|
 Mariko|F|8|
-Marina|F|2|
+Marina|F|2|mythological
 Masaaki|M|6|
 Masaatsu|M|1|
 Masae|F?|5|
@@ -739,7 +739,7 @@ Naohito|M|3|
 Naoji|M|1|
 Naoki|M|7|
 Naoko|F|7|
-Naomi|F|7|
+Naomi|F|7|biblical
 Naotaka|M|1|
 Naoto|M|5|
 Naoya|M|5|
@@ -887,7 +887,7 @@ Sami|F|1|
 Sanae|F?|5|
 Sanami|F|1|
 Saori|F|6|
-Sara|F|2|
+Sara|F|2|biblical
 Sato|F?|4|
 Satoko|F|5|
 Satomi|F|6|

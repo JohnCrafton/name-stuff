@@ -26,8 +26,8 @@ Aart|M|4|
 Aat|M|1|
 Ab|M|4|
 Abe|M|2|
-Abel|M|1|
-Abraham|M|1|
+Abel|M|1|biblical
+Abraham|M|1|biblical
 Ad|M|6|
 Ada|F|4|
 Addie|U|1|
@@ -157,7 +157,7 @@ Ankje|F|1|
 Anko|M|1|
 Anky|F?|2|
 Ann|F|3|
-Anna|F|5|mythological
+Anna|F|5|biblical,mythological
 Annabel|F|1|
 Anne|U|7|
 Anne-Marie|F|4|
@@ -230,7 +230,7 @@ Appie|M?|3|
 Appy|M|1|
 Aranka|F|1|
 Arco|M|2|
-Ard|M|4|
+Ard|M|4|biblical
 Arda|F|1|
 Ardi|F|1|
 Ardie|F?|1|
@@ -335,7 +335,7 @@ Belinda|F|4|
 Bella|F|1|
 Ben|M|7|
 Benine|F|1|
-Benjamin|M|1|
+Benjamin|M|1|biblical
 Benji|M|1|
 Bennie|M|5|
 Benno|M|4|
@@ -415,7 +415,7 @@ Brigit|F|3|
 Brigitta|F|2|
 Brigitte|F|6|
 Brijan|M|1|
-Brisa|F|1|
+Brisa|F|1|mythological
 Broer|M|2|
 Bronno|M|1|
 Bruni|F|1|
@@ -453,7 +453,7 @@ Caroline|F|6|
 Carolus|M|1|
 Carry|F|3|
 Cas|M|2|
-Caspar|M|2|
+Caspar|M|2|biblical
 Casper|M|3|
 Cassandra|F|1|
 Cathalijne|F|1|
@@ -591,9 +591,9 @@ Daam|M|1|
 Daan|M|4|
 Dagmar|F|3|
 Daisy|F|3|
-Dan|M|1|
+Dan|M|1|biblical,mythological
 Dana|F|2|
-Daniel|M|2|
+Daniel|M|2|biblical
 Daniela|F|1|
 Danielle|F|3|
 Daniël|M|4|
@@ -603,7 +603,7 @@ Daniëlle|F|6|
 Danny|M?|5|
 Daphne|F|4|mythological
 Dave|M|4|
-David|M|4|
+David|M|4|biblical
 Davina|F|1|
 Davy|M|1|
 Dax|M|1|
@@ -613,7 +613,7 @@ Dean|U|1|
 Debbie|F|4|
 Debby|F|5|
 Debora|F|2|
-Deborah|F|2|
+Deborah|F|2|biblical
 Dee|F?|1|
 Dees|M|1|
 Delano|M|1|
@@ -774,7 +774,7 @@ Elbertus|M|1|
 Elco|M|1|
 Eleonore|F|1|
 Elga|F|1|
-Eli|M?|1|
+Eli|M?|1|biblical
 Elian|F|1|
 Elianne|F|1|
 Elien|F|1|
@@ -847,8 +847,8 @@ Ep|M|1|
 Epie|U|1|mythological
 Eppie|M|1|
 Eppo|M|1|
-Erasmus|M|1|
-Eric|M|7|
+Erasmus|M|1|mythological
+Eric|M|7|mythological
 Erica|F|5|
 Erick|M|2|
 Erik|M|8|
@@ -868,7 +868,7 @@ Esmée|F|1|
 Esra|F?|1|
 Estelle|F|1|
 Ester|F|4|
-Esther|F|7|
+Esther|F|7|biblical
 Etienne|M|2|
 Eugene|M|2|
 Eugenie|F|3|
@@ -998,7 +998,7 @@ Freke|F?|1|
 Frens|M|1|
 Frieda|F|3|
 Friedus|M|1|
-Friso|M|2|
+Friso|M|2|mythological
 Frits|M|5|
 Frodo|M|1|
 Frouk|F|1|
@@ -1102,7 +1102,7 @@ Geziena|F|1|
 Gezienus|M|1|
 Gezina|F|1|
 Gezinus|M|1|
-Gideon|M|2|
+Gideon|M|2|biblical,mythological
 Gidi|M|1|
 Gido|M|1|
 Giel|M|3|
@@ -1155,7 +1155,7 @@ Guda|F|1|
 Guido|M|4|
 Guurt|M|1|
 Guus|M|5|
-Guy|M|2|
+Guy|M|2|mythological
 Gé|M?|2|
 Géke|F|1|
 Hadewich|F|1|
@@ -1170,7 +1170,7 @@ Hanjo|M|1|
 Hank|M|1|
 Hanke|F?|1|
 Hanna|F|2|
-Hannah|F|1|
+Hannah|F|1|biblical
 Hanne|F?|1|
 Hanneke|F|6|
 Hanni|F|1|
@@ -1263,7 +1263,7 @@ Henriette|F|3|
 Henrike|F|3|
 Henriët|F|3|
 Henriëtte|F|6|
-Henry|M|5|
+Henry|M|5|mythological
 Hens|M|1|
 Herbert|M|4|
 Herberth|M|1|
@@ -1294,7 +1294,7 @@ Hielkje|F|1|
 Hil|F|1|
 Hilbert|M|2|
 Hilbrand|M|2|
-Hilda|F|5|
+Hilda|F|5|mythological
 Hilde|F?|4|
 Hilga|F|1|
 Hilke|F?|1|
@@ -1337,7 +1337,7 @@ Hylke|M?|2|
 Hyltsje|U|1|
 Hélène|F|3|
 Ibo|M|1|
-Ida|F|5|
+Ida|F|5|mythological
 Iddo|M|1|
 Idelette|F|1|
 Ids|M|1|
@@ -1365,7 +1365,7 @@ Imka|F|1|
 Imke|F?|2|
 Immanuël|M|1|
 Ina|F|6|
-Indra|F|1|
+Indra|F|1|mythological
 Ine|F|6|
 Ineke|F|7|
 Ines|F?|1|
@@ -1411,7 +1411,7 @@ Jackelien|F|1|
 Jackeline|F|1|
 Jacky|U|2|
 Jaco|M|3|
-Jacob|M|6|
+Jacob|M|6|biblical,mythological
 Jacoba|F|2|
 Jacobien|F|1|
 Jacobine|F|1|
@@ -1534,7 +1534,7 @@ Jeroen|M|7|
 Jerom|M|1|
 Jerry|U|3|
 Jeske|F|1|
-Jesse|M|2|
+Jesse|M|2|biblical
 Jessica|F|5|
 Jessie|F|1|
 Jessy|F?|1|
@@ -1571,7 +1571,7 @@ Joanne|F|3|
 Joanneke|F|1|
 Joany|F|1|
 Joas|M|1|
-Job|M|3|
+Job|M|3|biblical
 Jobbe|M|1|
 Jochem|M|3|
 Jochum|M|1|
@@ -1645,7 +1645,7 @@ Josca|F|1|
 Jose|F?|3|
 Josee|F|2|
 Josefien|F|2|
-Joseph|M|1|
+Joseph|M|1|biblical,mythological
 Josephien|F|1|
 Josephine|F|2|
 Josephus|M|1|
@@ -1932,7 +1932,7 @@ Lon|F?|1|
 Lonne|F|1|
 Lonneke|F|4|
 Lonnie|F?|1|
-Lot|F|1|
+Lot|F|1|biblical
 Lotje|F|1|
 Lotte|F|3|
 Lottie|F|1|
@@ -2080,7 +2080,7 @@ Mariken|F|1|
 Marileen|F|1|
 Marilijn|F|1|
 Marin|U|1|
-Marina|F|4|
+Marina|F|4|mythological
 Marinda|F|1|
 Marinka|F|2|
 Marinke|F|1|
@@ -2144,7 +2144,7 @@ Marsel|M|1|
 Mart|M|4|
 Marte|U|1|
 Marten|M|4|
-Martha|F|4|
+Martha|F|4|biblical
 Marthijn|M|1|
 Marthinus|M|1|
 Martien|M?|5|
@@ -2158,7 +2158,7 @@ Martinus|M|1|
 Martje|F|3|
 Marty|M?|2|
 Marvin|M|1|
-Mary|F|5|
+Mary|F|5|biblical
 Marye|F|1|
 Mascha|F|3|
 Masja|F|2|
@@ -2203,7 +2203,7 @@ Meinte|M|1|
 Meisje|F|1|
 Melanie|F|4|
 Melany|F|1|
-Melchior|M|1|
+Melchior|M|1|biblical
 Melissa|F|2|mythological
 Mellanie|F|1|
 Melle|M|2|
@@ -2270,7 +2270,7 @@ Miranda|F|7|
 Mirande|F|1|
 Mireille|F|4|
 Mirella|F|3|
-Miriam|F|6|
+Miriam|F|6|biblical
 Mirjam|F|7|
 Mirjan|F?|2|
 Mirna|F|1|
@@ -2311,7 +2311,7 @@ Nanne|M?|2|
 Nannette|F|1|
 Nanning|M|1|
 Nanny|F|2|
-Naomi|F|2|
+Naomi|F|2|biblical
 Nard|M|1|
 Narda|F|1|
 Nastasja|F|1|
@@ -2322,7 +2322,7 @@ Natasja|F|6|
 Nate|F|1|
 Nathalie|F|5|
 Nathaly|F|1|
-Nathan|M|1|
+Nathan|M|1|biblical
 Nathasja|F|1|
 Naut|M|1|
 Neel|F?|1|
@@ -2374,7 +2374,7 @@ Nineke|F|1|
 Nini|F|1|
 Ninja|F|1|
 Nino|M|1|
-Noah|M|1|
+Noah|M|1|biblical
 Nolly|F|1|
 Non|F|1|
 Nona|F|1|mythological
@@ -2489,7 +2489,7 @@ Quirijn|M|1|
 Quirijne|F|1|
 Quirine|F|1|
 Quirinus|M|1|mythological
-Rachel|F|3|
+Rachel|F|3|biblical
 Rachella|F|1|
 Rachelle|F|1|
 Raimond|M|2|
@@ -2503,7 +2503,7 @@ Randy|M|1|
 Raoul|M|1|
 Raymon|M|1|
 Raymond|M|6|
-Rebecca|F|3|
+Rebecca|F|3|biblical
 Rebekka|F|1|
 Redbad|M|1|
 Reggie|F?|1|
@@ -2731,7 +2731,7 @@ Rufus|M|1|
 Rupertus|M|1|
 Rutger|M|3|
 Rutgerus|M|1|
-Ruth|F|3|
+Ruth|F|3|biblical
 Ruthy|F|1|
 Ruud|M|7|
 Ruurd|M|3|
@@ -2750,7 +2750,7 @@ Sake|M|2|
 Sal|M|1|
 Salinda|F|1|
 Sally|F|2|
-Sam|M|3|
+Sam|M|3|mythological
 Samantha|F|2|
 Samuela|F|1|
 Sander|M|6|
@@ -2765,8 +2765,8 @@ Sannie|F|1|
 Sanny|F|1|
 Santine|F|1|
 Sape|M|1|
-Sara|F|2|
-Sarah|F|2|
+Sara|F|2|biblical
+Sarah|F|2|biblical
 Sarienke|F|1|
 Sarith|F|1|
 Sas|M|1|
@@ -2861,7 +2861,7 @@ Sippe|M|1|
 Sippie|F|2|
 Sirp|M|1|
 Siska|F|2|
-Sita|F|3|
+Sita|F|3|mythological
 Sjaak|M|6|
 Sjaan|F?|2|
 Sjack|M|1|
@@ -2915,7 +2915,7 @@ Stijn|M|3|
 Stoffel|M|1|
 Stynke|F|1|
 Susan|F|6|
-Susanna|F|1|
+Susanna|F|1|biblical
 Susanne|F|5|
 Suus|F?|1|
 Suzan|F|4|
@@ -2929,7 +2929,7 @@ Sybrand|M|1|
 Sybren|M|2|
 Syert|M|1|
 Sylvester|M|1|
-Sylvia|F|6|
+Sylvia|F|6|mythological
 Sylvie|F|2|
 Syssel|M|1|
 Sytse|M|2|
@@ -2942,7 +2942,7 @@ Tako|M|1|
 Talea|F|1|
 Talitha|F|1|mythological
 Tallina|F|1|
-Tamar|F|1|
+Tamar|F|1|biblical
 Tamara|F|5|
 Tamme|M|1|
 Tammo|M|1|
@@ -2953,7 +2953,7 @@ Tannie|F|1|
 Tanno|M|1|
 Tanny|F|1|
 Tanya|F|1|
-Tara|F|1|
+Tara|F|1|mythological
 Tarah|F|1|
 Tatiana|F|1|
 Tea|F|3|
@@ -3092,7 +3092,7 @@ Trijnie|F|3|
 Trijnke|F|1|
 Trijntje|F|3|
 Trijntsje|F|1|
-Tristan|M|1|
+Tristan|M|1|mythological
 Trix|F|2|
 Trudi|F|2|
 Trudie|F|3|

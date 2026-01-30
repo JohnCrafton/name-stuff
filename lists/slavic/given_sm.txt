@@ -6,7 +6,7 @@ Ivan|M|11|11
 Jiří|M|11|11
 Maria|F|11|11
 Mária|F|11|11
-Anna|F|10|10
+Anna|F|10|mythological
 Constantin|M|10|10
 Dimitar|M|10|10
 Dragan|M|10|10
@@ -15,7 +15,7 @@ Ferenc|M|10|10
 Frantiek|M|10|10
 Georgi|M|10|10
 Ioan|M|10|10
-Ion|M|10|10
+Ion|M|10|mythological
 István|M|10|10
 Jan|M|10|10
 Jana|F|10|10
@@ -50,7 +50,7 @@ Ana|F|9|9
 Andrea|F|9|9
 Andrej|M|9|9
 Ante|M|9|9
-Anton|M|9|9
+Anton|M|9|mythological
 Attila|M|9|9
 Biljana|F|9|9
 Dumitru|M|9|9
@@ -61,7 +61,7 @@ Franc|M|9|9
 Gordana|F|9|9
 Gábor|M|9|9
 Hana|F|9|9
-Helena|F|9|9
+Helena|F|9|mythological
 Hristo|M|9|9
 Ildikó|F|9|9
 Ilona|F|9|9

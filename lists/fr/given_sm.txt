@@ -20,7 +20,7 @@ Roger|M|9|9
 Alain|M|8|8
 Albert|M|8|8
 Aloyse|U|8|8
-Anna|F|8|8
+Anna|F|8|mythological
 Antoine|M|8|8
 Armand|M|8|8
 Bernard|M|8|8

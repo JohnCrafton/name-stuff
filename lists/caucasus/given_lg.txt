@@ -7,7 +7,7 @@ Giorgi|M|10|10
 Irakli|M|10|10
 Tamar|F|10|10
 Anahit|F|9|9
-Anna|F|9|9
+Anna|F|9|mythological
 Armen|M|9|9
 Ashot|M|9|9
 Ekaterine|F|9|9
@@ -24,7 +24,7 @@ Levon|M|9|9
 Maia|F|9|9
 Mariam|F|9|9
 Marina|F|9|9
-Nana|F|9|9
+Nana|F|9|mythological
 Natia|F|9|9
 Nigar|F|9|9
 Sergey|M|9|9
@@ -55,7 +55,7 @@ Guram|M|8|8
 Julietta|F|8|8
 Kakha|M|8|8
 Karen|M|8|8
-Lala|F|8|8
+Lala|F|8|mythological
 Lasha|M|8|8
 Laura|F|8|8
 Leyla|F|8|8
@@ -98,7 +98,7 @@ Alexander|M|7|7
 Ali|M|7|7
 Alla|F|7|7
 Andranik|M|7|7
-Ara|M|7|7
+Ara|M|7|mythological
 Arman|M|7|7
 Armine|F|7|7
 Arsen|M|7|7
@@ -128,10 +128,10 @@ Hayk|M|7|7
 Hovhannes|M|7|7
 Hrachik|M|7|7
 Hrant|M|7|7
-Ia|F|7|7
+Ia|F|7|mythological
 Ilgar|M|7|7
 Ilham|M|7|7
-Ilia|M|7|7
+Ilia|M|7|mythological
 Inga|F|7|7
 Inna|F|7|7
 Ioseb|M|7|7
@@ -158,7 +158,7 @@ Narmina|F|7|7
 Natalia|F|7|7
 Natela|F|7|7
 Nazim|M|7|7
-Nona|F|7|7
+Nona|F|7|mythological
 Nugzar|M|7|7
 Oleg|M|7|7
 Paata|M|7|7
@@ -317,7 +317,7 @@ Sevinj|F|6|6
 Shahin|M|6|6
 Shorena|F|6|6
 Sona|F|6|6
-Soso|M|6|6
+Soso|M|6|mythological
 Spartak|M|6|6
 Tahir|M|6|6
 Tamilla|F|6|6
@@ -327,7 +327,7 @@ Tengiz|M|6|6
 Teymur|M|6|6
 Tornike|M|6|6
 Tural|M|6|6
-Turan|M|6|6
+Turan|M|6|mythological
 Vadim|M|6|6
 Vagif|M|6|6
 Vahagn|M|6|6
@@ -380,7 +380,7 @@ Aydan|F|5|5
 Aysel|F|5|5
 Aytan|F|5|5
 Ayten|F|5|5
-Aza|F|5|5
+Aza|F|5|mythological
 Azat|M|5|5
 Aziz|M|5|5
 Badri|M|5|5
@@ -391,7 +391,7 @@ Ceyhun|M|5|5
 Darejan|F|5|5
 Dato|M|5|5
 Derenik|M|5|5
-Diana|F|5|5
+Diana|F|5|mythological
 Dima|M|5|5
 Dina|F|5|5
 Dmitri|M|5|5
@@ -402,7 +402,7 @@ Elen|F|5|5
 Elvira|F|5|5
 Elxan|M|5|5
 Elza|F|5|5
-Era|F|5|5
+Era|F|5|mythological
 Ervand|M|5|5
 Etibar|M|5|5
 Farah|F|5|5
@@ -411,7 +411,7 @@ Feliks|M|5|5
 Felix|M|5|5
 Fira|F|5|5
 Firuza|F|5|5
-Flora|F|5|5
+Flora|F|5|mythological
 Frunze|M|5|5
 Garik|M|5|5
 Gegam|M|5|5
@@ -435,7 +435,7 @@ Hripsik|F|5|5
 Hripsime|F|5|5
 Ilhama|F|5|5
 Ilya|M|5|5
-Ira|F|5|5
+Ira|F|5|mythological
 Irana|F|5|5
 Irine|F|5|5
 Isa|M|5|5

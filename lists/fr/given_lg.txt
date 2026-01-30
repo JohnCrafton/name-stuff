@@ -20,7 +20,7 @@ Roger|M|9|9
 Alain|M|8|8
 Albert|M|8|8
 Aloyse|U|8|8
-Anna|F|8|8
+Anna|F|8|mythological
 Antoine|M|8|8
 Armand|M|8|8
 Bernard|M|8|8
@@ -186,7 +186,7 @@ Yves|M|7|7
 Yvette|F|7|7
 Yvonne|F|7|7
 Agnès|F|6|6
-Alexandra|F|6|6
+Alexandra|F|6|mythological
 Alfons|M|6|6
 Aline|F|6|6
 Aly|F|6|6
@@ -248,7 +248,7 @@ Hugo|M|6|6
 Huguette|F|6|6
 Ilse|F|6|6
 Inge|U|6|6
-Irene|F|6|6
+Irene|F|6|mythological
 Isabel|F|6|6
 Jacky|M|6|6
 Jean-Luc|M|6|6
@@ -274,8 +274,8 @@ Kevin|M|6|6
 Koen|M|6|6
 Kris|M?|6|6
 Kurt|M|6|6
-Laetitia|F|6|6
-Laure|F|6|6
+Laetitia|F|6|mythological
+Laure|F|6|mythological
 Lionel|M|6|6
 Loïc|M|6|6
 Lucie|F|6|6
@@ -342,7 +342,7 @@ Adrien|M|5|5
 Agnes|F|5|5
 Albertine|F|5|5
 Alexander|M|5|5
-Alexis|M|5|5
+Alexis|M|5|mythological
 Alfred|M|5|5
 Amandine|F|5|5
 Amélie|F|5|5
@@ -384,9 +384,9 @@ Clément|M|5|5
 Cyrille|U|5|5
 Daniela|F|5|5
 Dany|F|5|5
-Diana|F|5|5
+Diana|F|5|mythological
 Dimitri|M|5|5
-Doris|F|5|5
+Doris|F|5|mythological
 Edith|F|5|5
 Eduard|M|5|5
 Elisa|F?|5|5
@@ -419,7 +419,7 @@ Giovanni|M|5|5
 Géraldine|F|5|5
 Hans|M|5|5
 Heidi|F|5|5
-Helena|F|5|5
+Helena|F|5|mythological
 Helene|F|5|5
 Irma|F|5|5
 Ivan|M|5|5
@@ -501,7 +501,7 @@ Sabrina|F|5|5
 Salvatore|M|5|5
 Samuel|M|5|5
 Sandy|F?|5|5
-Simon|M|5|5
+Simon|M|5|mythological
 Sofie|F|5|5
 Stefaan|M|5|5
 Stefan|M|5|5
@@ -608,7 +608,7 @@ Ida|F|4|4
 Ine|F|4|4
 Ines|F|4|4
 Inès|F|4|4
-Iris|F|4|4
+Iris|F|4|mythological
 Ivo|M|4|4
 Ivonne|F|4|4
 Jaak|M|4|4
@@ -639,7 +639,7 @@ Klaus|M|4|4
 Kristien|F|4|4
 Laëtitia|F|4|4
 Leen|M|4|4
-Leon|M|4|4
+Leon|M|4|mythological
 Leona|F|4|4
 Liesbeth|F|4|4
 Lily|F|4|4
@@ -665,7 +665,7 @@ Matthias|M|4|4
 Maud|F|4|4
 Maurits|M|4|4
 Max|M|4|4
-Melissa|F|4|4
+Melissa|F|4|mythological
 Mia|F|4|4
 Michiel|M|4|4
 Monica|F|4|4
@@ -709,7 +709,7 @@ Stephanie|F|4|4
 Susanne|F|4|4
 Sylvia|F|4|4
 Tamara|F|4|4
-Theo|M|4|4
+Theo|M|4|mythological
 Thibault|M|4|4
 Théodore|M|4|4
 Ursula|F|4|4
@@ -743,7 +743,7 @@ Anneke|F|3|3
 Annemie|F|3|3
 Antonin|M|3|3
 Antonius|M|3|3
-Arne|M|3|3
+Arne|M|3|mythological
 Astride|F|3|3
 Augustin|M|3|3
 Augustine|F|3|3
@@ -772,7 +772,7 @@ Corneille|M|3|3
 Cornelis|M|3|3
 Cécilia|F|3|3
 Daniëlla|F|3|3
-Daphne|F|3|3
+Daphne|F|3|mythological
 Dave|M|3|3
 Dennis|M|3|3
 Desire|F|3|3
@@ -797,7 +797,7 @@ Ernestine|F|3|3
 Evelien|F|3|3
 Femke|F?|3|3
 Firmin|M|3|3
-Flora|F|3|3
+Flora|F|3|mythological
 Floriane|F|3|3
 Francesca|F|3|3
 Francisca|F|3|3

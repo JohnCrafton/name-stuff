@@ -9,7 +9,7 @@ Jian|U|9|9
 Jing|U|9|9
 Jun|U|9|9
 Lei|U|9|9
-Min|U|9|9
+Min|U|9|mythological
 Ping|U|9|9
 Ying|U|9|9
 Bin|U|8|8
@@ -387,7 +387,7 @@ Ai+Jun|U|3|3
 Ai+Ling|U|3|3
 Ai+Qin|U|3|3
 Ai+Xia|U|3|3
-Ao|U|3|3
+Ao|U|3|mythological
 Bai|U|3|3
 Bai+Lin|U|3|3
 Bao+Hong|U|3|3
@@ -604,7 +604,7 @@ Mo|U|3|3
 Nan+Nan|U|3|3
 Ni|U|3|3
 Ou|U|3|3
-Pan|U|3|3
+Pan|U|3|mythological
 Pei+Hua|U|3|3
 Pei+Jun|U|3|3
 Pei+Li|U|3|3
@@ -676,7 +676,7 @@ Su+Ping|U|3|3
 Su+Ying|U|3|3
 Sui|U|3|3
 Sun|U|3|3
-Tan|U|3|3
+Tan|U|3|mythological
 Tang|U|3|3
 Teng|U|3|3
 Tian+Hong|U|3|3

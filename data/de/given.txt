@@ -88,7 +88,7 @@ Ailert|M|1|
 Ailt|M|1|
 Aimé|M|2|
 Aimée|F|1|
-Aino|M|1|
+Aino|M|1|mythological
 Aja|F|1|
 Akke|M|1|
 Alain|M|7|
@@ -131,13 +131,13 @@ Aletta|F|1|
 Alex|U|5|
 Alexa|F|1|
 Alexander|M|8|
-Alexandra|F|6|
+Alexandra|F|6|mythological
 Alexandre|M|5|
 Alexandrina|F|1|
 Alexandrine|F|1|
 Alexandro|M|1|
 Alexia|F|2|
-Alexis|M|2|
+Alexis|M|2|mythological
 Alf|M|1|
 Alfa|F|1|
 Alfhard|M|1|
@@ -167,7 +167,7 @@ Alinde|F|1|
 Aline|F|4|
 Alix|U|1|
 Aljet|U|1|
-Alke|F?|3|
+Alke|F?|3|mythological
 Alkea|F|1|
 Allmar|M|1|
 Alma|F|3|
@@ -214,8 +214,8 @@ Amandine|F|1|
 Amandus|M|1|
 Amaël|M|1|
 Ambros|M|2|
-Ambrosia|F|1|
-Ambrosius|M|1|
+Ambrosia|F|1|mythological
+Ambrosius|M|1|mythological
 Amedeo|M|1|
 Amelia|F|2|
 Amelie|F|2|
@@ -281,7 +281,7 @@ Anke|F|7|
 Ankeus|M|1|
 Anko|M|1|
 Ann|F|3|
-Anna|F|9|
+Anna|F|9|mythological
 Annabell|F|1|
 Annabella|F|1|
 Annabelle|F|1|
@@ -392,7 +392,7 @@ Antkea|F|1|
 Antkeo|M|1|
 Antoine|M|4|
 Antoinette|F|5|
-Anton|M|8|
+Anton|M|8|mythological
 Antonella|F|4|
 Antonello|M|1|
 Antonette|F|1|
@@ -443,7 +443,7 @@ Arnaud|M|2|
 Arnbert|M|1|
 Arnd|M|2|
 Arndt|M|2|
-Arne|M|4|
+Arne|M|4|mythological
 Arnfred|M|1|
 Arnfried|M|1|
 Arnhart|M|1|
@@ -570,7 +570,7 @@ Berend|M|4|
 Berendina|F|1|
 Berendine|F|2|
 Berendje|F|1|
-Berenike|F|2|
+Berenike|F|2|mythological
 Berit|F|2|
 Berlind|F|1|
 Berlinda|F|1|
@@ -762,7 +762,7 @@ Börchert|M|2|
 Börjes|M|1|
 Börries|M|1|
 Cai|M?|1|
-Camilla|F|2|
+Camilla|F|2|mythological
 Camille|F?|3|
 Camillo|M|1|
 Candida|F|1|
@@ -1002,7 +1002,7 @@ Dankward|M|1|
 Dankwart|M|1|
 Danny|U|2|
 Dante|M|2|
-Daphne|F|1|
+Daphne|F|1|mythological
 Daphné|F|1|
 Daria|F|2|
 Dario|M|4|
@@ -1055,7 +1055,7 @@ Detta|F|1|
 Dettmar|M|2|
 Dettmer|M|2|
 Dettmerdine|F|1|
-Diana|F|6|
+Diana|F|6|mythological
 Diane|F|3|
 Diddo|M|1|
 Diderich|M|1|
@@ -1164,7 +1164,7 @@ Doriana|F|1|
 Doriane|F|1|
 Doriano|M|1|
 Dorina|F|1|
-Doris|F|7|
+Doris|F|7|mythological
 Dorit|F|3|
 Dorith|F|1|
 Doritha|F|1|
@@ -1176,7 +1176,7 @@ Dorlies|F|1|
 Dorlinde|F|1|
 Dorlis|F|1|
 Dorly|F|1|
-Doro|F?|1|
+Doro|F?|1|mythological
 Dorotea|F|1|
 Dorothe|F|1|
 Dorothea|F|6|
@@ -1512,7 +1512,7 @@ Erica|F|4|
 Erich|M|8|
 Erik|M|3|
 Erika|F|8|
-Erike|F|1|
+Erike|F|1|mythological
 Erina|F|1|
 Erk|M|1|
 Erkhild|F|1|
@@ -1571,7 +1571,7 @@ Eugenio|M|2|
 Eugène|M|2|
 Eugénie|F|1|
 Eugénio|M|1|
-Eunike|F|1|
+Eunike|F|1|mythological
 Eustachius|M|1|
 Eva|F|8|
 Evalinde|F|1|
@@ -1636,7 +1636,7 @@ Feikobus|M|1|
 Feli|F|1|
 Felice|M|2|
 Felicia|F|1|
-Felicitas|F|3|
+Felicitas|F|3|mythological
 Felipe|M|1|
 Felix|M|6|
 Felizia|F|1|
@@ -1686,7 +1686,7 @@ Firmin|M|1|
 Flavia|F|3|
 Flavien|M|1|
 Flavio|M|3|
-Flora|F|3|
+Flora|F|3|mythological
 Flore|F|1|
 Florence|F|5|
 Florent|M|1|
@@ -2127,7 +2127,7 @@ Giusi|F|1|
 Giusy|F|1|
 Gladys|F|2|
 Glenda|F|1|
-Gloria|F|2|
+Gloria|F|2|mythological
 Godefriedus|M|1|
 Godehard|M|1|
 Godehardt|M|1|
@@ -2486,7 +2486,7 @@ Heitina|F|1|
 Hela|F|3|
 Helbert|M|1|
 Helen|F|5|
-Helena|F|5|
+Helena|F|5|mythological
 Helene|F|7|
 Helfred|M|1|
 Helfrid|M|1|
@@ -2505,8 +2505,8 @@ Heliane|F|1|
 Helke|F?|2|
 Helko|M|1|
 Hella|F|4|
-Helle|U|1|
-Hellen|F|2|
+Helle|U|1|mythological
+Hellen|F|2|mythological
 Hellfried|M|1|
 Hellgard|F|1|
 Hellmut|M|2|
@@ -2601,7 +2601,7 @@ Hermfried|M|1|
 Hermi|F|2|
 Hermina|F|1|
 Hermine|F|7|
-Hero|M|4|
+Hero|M|4|mythological
 Herold|M|1|
 Herribert|M|1|
 Herrmann|M|2|
@@ -2728,7 +2728,7 @@ Hinrik|M|1|
 Hinrika|F|2|
 Hinrike|F|2|
 Hinrikus|M|3|
-Hippe|M|1|
+Hippe|M|1|mythological
 Hippolytus|M|1|
 Hiske|F?|1|
 Hiskea|F|1|
@@ -2873,18 +2873,18 @@ Insken|F|1|
 Inso|M|1|
 Inta|F|1|
 Inès|F|2|
-Iole|F|1|
+Iole|F|1|mythological
 Ipe|U|1|
 Ipke|U|1|
 Ippe|U|2|
-Ira|F|2|
+Ira|F|2|mythological
 Iranka|F|1|
 Irena|F|2|
-Irene|F|6|
+Irene|F|6|mythological
 Ireneus|M|1|
 Irenäus|M|1|
 Iride|F|1|
-Iris|F|6|
+Iris|F|6|mythological
 Irlanda|F|1|
 Irma|F|5|
 Irmchen|F|1|
@@ -2936,11 +2936,11 @@ Ishilde|F|1|
 Isidor|M|1|
 Iska|F|1|
 Iske|U|1|
-Ismene|F|1|
+Ismene|F|1|mythological
 Isolde|F|4|
 Isolina|F|1|
 Italo|M|2|
-Ite|U|1|
+Ite|U|1|mythological
 Ivan|M|4|
 Ivana|F|2|
 Ivano|M|2|
@@ -3178,7 +3178,7 @@ Kaatje|F|1|
 Kai|U|6|
 Kaj|M|1|
 Kajetan|M|1|
-Kampe|M|2|
+Kampe|M|2|mythological
 Kareen|F|1|
 Karelle|F|1|
 Karen|F|4|
@@ -3216,7 +3216,7 @@ Kasimir|M|1|
 Kasjen|M|1|
 Kaspar|M|4|
 Kasper|M|2|
-Kassandra|F|1|
+Kassandra|F|1|mythological
 Kassen|M|1|
 Katalin|F|1|
 Katarina|F|2|
@@ -3296,7 +3296,7 @@ Konradine|F|1|
 Konstantin|M|3|
 Konstantine|F|1|
 Konstanze|F|2|
-Kora|F|1|
+Kora|F|1|mythological
 Korbinian|M|1|
 Kord|M|1|
 Kordelia|F|1|
@@ -3313,7 +3313,7 @@ Kriene|F?|1|
 Krieno|M|1|
 Krimhild|F|1|
 Krimhilde|F|1|
-Krino|M|1|
+Krino|M|1|mythological
 Krischan|M|1|
 Krista|F|2|
 Kristel|F?|1|
@@ -3345,18 +3345,18 @@ Käthy|F|4|
 Köbi|M|1|
 Ladina|F|2|
 Ladislaus|M|1|
-Laetitia|F|3|
+Laetitia|F|3|mythological
 Lambert|M|2|
 Lamberta|F|1|
 Lambertus|M|2|
 Lammers|M|1|
 Lammert|M|2|
 Landolf|M|1|
-Lara|F|3|
-Larissa|F|4|
+Lara|F|3|mythological
+Larissa|F|4|mythological
 Lars|M|5|
 Laura|F|5|
-Laure|F|4|
+Laure|F|4|mythological
 Laureline|F|1|
 Laurence|F|5|
 Laurent|M|5|
@@ -3367,7 +3367,7 @@ Laurette|F|1|
 Laurie|F|1|
 Laurin|M|1|
 Lauro|M|1|
-Lavinia|F|1|
+Lavinia|F|1|mythological
 Lea|F|4|
 Leander|M|1|
 Leandra|F|1|
@@ -3375,7 +3375,7 @@ Leandro|M|1|
 Leane|F|1|
 Leberecht|M|1|
 Lebrecht|M|1|
-Leda|F|1|
+Leda|F|1|mythological
 Leefhard|M|1|
 Leefke|U|1|
 Leena|F|1|
@@ -3391,7 +3391,7 @@ Lenore|F|1|
 Leny|F|1|
 Lenz|M|1|
 Leo|M|5|
-Leon|M|1|
+Leon|M|1|mythological
 Leonard|M|2|
 Leonardo|M|3|
 Leone|M|1|
@@ -3590,7 +3590,7 @@ Luzius|M|1|
 Lydia|F|5|
 Lydie|F|2|
 Lysann|F|1|
-Lyse|F|1|
+Lyse|F|1|mythological
 Lysiane|F|1|
 Léa|F|2|
 Léna|F|1|
@@ -3671,7 +3671,7 @@ Manfried|M|1|
 Manhard|M|1|
 Manhardt|M|1|
 Manhold|M|1|
-Mania|F|1|
+Mania|F|1|mythological
 Manja|F|2|
 Manne|M|1|
 Manno|M|1|
@@ -3924,12 +3924,12 @@ Melchior|M|2|
 Melf|M|2|
 Melinda|F|1|
 Melisande|F|1|
-Melissa|F|1|
+Melissa|F|1|mythological
 Melitta|F|5|
 Melle|M|1|
 Memke|U|1|
-Men|M|1|
-Mena|F|2|
+Men|M|1|mythological
+Mena|F|2|mythological
 Menga|F|1|
 Mengia|F|1|
 Menhard|M|2|
@@ -3949,7 +3949,7 @@ Merlin|F|1|
 Merlind|F|1|
 Merlinde|F|1|
 Merten|M|1|
-Meta|F|4|
+Meta|F|4|mythological
 Metha|F|1|
 Metje|F|1|
 Metta|F|1|
@@ -4045,7 +4045,7 @@ Nadine|F|6|
 Nadja|F|5|
 Nadège|F|2|
 Nahne|U|1|
-Nana|F|1|
+Nana|F|1|mythological
 Nancy|F|3|
 Nando|M|1|
 Nane|M|2|
@@ -4075,7 +4075,7 @@ Neidhardt|M|1|
 Neithard|M|1|
 Neithart|M|1|
 Nela|F|1|
-Nele|F?|2|
+Nele|F?|2|mythological
 Nell|F|1|
 Nella|F|1|
 Nelli|F|3|
@@ -4300,7 +4300,7 @@ Peggy|F|4|
 Peider|M|1|
 Pellegrino|M|1|
 Pepi|M|1|
-Peta|F|2|
+Peta|F|2|mythological
 Peter|M|9|
 Petje|F?|2|
 Petra|F|8|
@@ -4318,7 +4318,7 @@ Phillipp|M|1|
 Phillippe|M|1|
 Phillippus|M|1|
 Pia|F|6|
-Pier|M|1|
+Pier|M|1|mythological
 Piera|F|2|
 Piergiorgio|M|1|
 Pierina|F|2|
@@ -4393,7 +4393,7 @@ Randolf|M|1|
 Randolph|M|1|
 Ranka|F|1|
 Raoul|M|3|
-Raphael|M|4|
+Raphael|M|4|mythological
 Raphaela|F|2|
 Raphaël|M|4|
 Raphaële|F|1|
@@ -4531,7 +4531,7 @@ Rewert|M|1|
 Reyk|M|1|
 Reynald|M|1|
 Rezzo|M|1|
-Rhea|F|1|
+Rhea|F|1|mythological
 Rhiane|F|1|
 Ria|F|2|
 Riana|F|1|
@@ -4797,7 +4797,7 @@ Sebald|M|1|
 Sebastian|M|6|
 Sebastiano|M|2|
 Sebastien|M|1|
-Seben|M|1|
+Seben|M|1|mythological
 Seede|M|1|
 Seeko|M|2|
 Seibold|M|1|
@@ -4830,7 +4830,7 @@ Sibille|F|1|
 Sibo|M|1|
 Sibrand|M|1|
 Sibyl|F|1|
-Sibylla|F|1|
+Sibylla|F|1|mythological
 Sibylle|F|5|
 Sicke|M|1|
 Sido|M|1|
@@ -4925,7 +4925,7 @@ Silvia|F|7|
 Silvie|F|1|
 Silvio|M|4|
 Simeon|M|1|
-Simon|M|6|
+Simon|M|6|mythological
 Simona|F|3|
 Simone|U|7|
 Simonetta|F|1|
@@ -4966,7 +4966,7 @@ Sonnhard|M|1|
 Sonnhardt|M|1|
 Sonnhild|F|1|
 Sonnhilde|F|1|
-Sophia|F|2|
+Sophia|F|2|mythological
 Sophie|F|5|
 Stani|M|1|
 Stanislaus|M|2|
@@ -5129,7 +5129,7 @@ Thado|M|1|
 Thalea|F|1|
 Thankmar|M|1|
 Thassilo|M|1|
-Thea|F|6|
+Thea|F|6|mythological
 Theda|F|5|
 Theddy|M|1|
 Thede|M?|1|
@@ -5139,7 +5139,7 @@ Thees|M|1|
 Theile|M|1|
 Theis|M|1|
 Thekla|F|3|
-Theo|M|5|
+Theo|M|5|mythological
 Theobald|M|1|
 Theobalda|F|1|
 Theobert|M|1|
@@ -5154,7 +5154,7 @@ Theohold|M|1|
 Theolinde|F|1|
 Theophil|M|1|
 Theophilus|M|1|
-Theres|F|6|
+Theres|F|6|mythological
 Theresa|F|3|
 Therese|F|7|
 Theresia|F|8|
@@ -5224,7 +5224,7 @@ Tino|M|4|
 Tinus|M|1|
 Tiny|F|1|
 Titia|F|1|
-Tito|M|1|
+Tito|M|1|mythological
 Titus|M|1|
 Tizian|M|1|
 Tiziana|F|3|
@@ -5383,7 +5383,7 @@ Uschi|F|3|
 Uta|F|5|
 Ute|F|7|
 Utho|M|1|
-Uto|M|1|
+Uto|M|1|mythological
 Utta|F|1|
 Utto|M|1|
 Utz|M|1|
@@ -5394,7 +5394,7 @@ Valentin|M|4|
 Valentina|F|4|
 Valentine|F|2|
 Valentino|M|2|
-Valeria|F|3|
+Valeria|F|3|mythological
 Valerian|M|2|
 Valerie|F|3|
 Valerio|M|2|
@@ -5416,7 +5416,7 @@ Veronika|F|6|
 Veronique|F|1|
 Vesna|F|2|
 Vicky|F|1|
-Victoria|F|3|
+Victoria|F|3|mythological
 Victorine|F|1|
 Viktor|M|5|
 Viktoria|F|5|
@@ -5438,7 +5438,7 @@ Virgilius|M|1|
 Virginia|F|2|
 Virginie|F|3|
 Virginio|M|1|
-Vita|F|1|
+Vita|F|1|mythological
 Vitalis|M|1|
 Vito|M|3|
 Vittoria|F|2|

@@ -63,7 +63,7 @@ Rosario|F?|7|7
 Santiago|M|7|7
 Tomás|M|7|7
 Vicente|M|7|7
-Victoria|F|7|7
+Victoria|F|7|mythological
 Alfredo|M|6|6
 Alicia|F|6|6
 Amparo|F|6|6
@@ -88,7 +88,7 @@ Eva|F|6|6
 Felipe|M|6|6
 Felisa|F|6|6
 Gabriel|M|6|6
-Gloria|F|6|6
+Gloria|F|6|mythological
 Gonzalo|M|6|6
 Gregorio|M|6|6
 Guillermo|M|6|6
@@ -155,7 +155,7 @@ Gregoria|F|5|5
 Guadalupe|F|5|5
 Inmaculada|F|5|5
 Inés|F|5|5
-Irene|F|5|5
+Irene|F|5|mythological
 Isidoro|M|5|5
 Isidro|M|5|5
 Jacinto|M|5|5
@@ -228,7 +228,7 @@ Consolación|F|4|4
 Constantino|M|4|4
 Cristóbal|M|4|4
 Demetrio|M|4|4
-Diana|F|4|4
+Diana|F|4|mythological
 Eladio|M|4|4
 Eloy|M|4|4
 Eloísa|F|4|4
@@ -242,7 +242,7 @@ Felicidad|F|4|4
 Felipa|F|4|4
 Fernanda|F|4|4
 Fidel|M|4|4
-Flora|F|4|4
+Flora|F|4|mythological
 Florencia|F|4|4
 Florentina|F|4|4
 Florentino|M|4|4
@@ -312,14 +312,14 @@ Agapito|M|3|3
 Agustin|M|3|3
 Aitor|M|3|3
 Albert|M|3|3
-Alexandra|F|3|3
+Alexandra|F|3|mythological
 Alfonsa|F|3|3
 Alonso|M|3|3
 Amaya|F|3|3
 Ambrosio|M|3|3
 Anastasia|F|3|3
 Angélica|F|3|3
-Anna|F|3|3
+Anna|F|3|mythological
 Anselmo|M|3|3
 Antolin|M|3|3
 Antoni|M|3|3
@@ -383,7 +383,7 @@ Faustina|F|3|3
 Fausto|M|3|3
 Fe|F|3|3
 Feliciana|F|3|3
-Felicitas|F|3|3
+Felicitas|F|3|mythological
 Fermina|F|3|3
 Filomena|F|3|3
 Flor|F|3|3
@@ -468,9 +468,9 @@ Ruth|F|3|3
 Sabina|F|3|3
 Samuel|M|3|3
 Saturnina|F|3|3
-Simon|M|3|3
+Simon|M|3|mythological
 Sixto|M|3|3
-Sol|F|3|3
+Sol|F|3|mythological
 Sonsoles|F|3|3
 Urbano|M|3|3
 Valeriano|M|3|3

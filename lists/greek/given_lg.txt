@@ -9,7 +9,7 @@ Ioannis|M|10|10
 Konstantinos|M|10|10
 Nikolaos|M|10|10
 Aikaterini|F|9|9
-Anna|F|9|9
+Anna|F|9|mythological
 Christos|M|9|9
 Eirini|F|9|9
 Georgia|F|9|9
@@ -19,7 +19,7 @@ Sofia|F|9|9
 Vasileios|M|9|9
 Vasiliki|F|9|9
 Vasilios|M|9|9
-Alexandros|M|8|8
+Alexandros|M|8|mythological
 Anastasia|F|8|8
 Andreas|M|8|8
 Angeliki|F|8|8
@@ -36,8 +36,8 @@ Michail|M|8|8
 Panagiota|F|8|8
 Spyridon|M|8|8
 Stavroula|F|8|8
-Theodoros|M|8|8
-Alexandra|F|7|7
+Theodoros|M|8|mythological
+Alexandra|F|7|mythological
 Anastasios|M|7|7
 Apostolos|M|7|7
 Athanasia|F|7|7
@@ -50,7 +50,7 @@ Eleftheria|F|7|7
 Evgenia|F|7|7
 Foteini|F|7|7
 Fotini|F|7|7
-Ilias|M|7|7
+Ilias|M|7|mythological
 Kalliopi|F|7|7
 Kyriaki|F|7|7
 Marina|F|7|7
@@ -65,7 +65,7 @@ Stylianos|M|7|7
 Takis|M|7|7
 Theodora|F|7|7
 Afroditi|F|6|6
-Angelos|M|6|6
+Angelos|M|6|mythological
 Antonia|F|6|6
 Argyro|F|6|6
 Aristeidis|M|6|6
@@ -121,7 +121,7 @@ Ioulia|F|5|5
 Kallirroi|F|5|5
 Katerina|F|5|5
 Kyriakos|M|5|5
-Lampros|M|5|5
+Lampros|M|5|mythological
 Leonidas|M|5|5
 Marianna|F|5|5
 Marios|M|5|5
@@ -145,7 +145,7 @@ Adamantia|F|4|4
 Agathi|F|4|4
 Alexia|F|4|4
 Alexios|M|4|4
-Alexis|M|4|4
+Alexis|M|4|mythological
 Andriani|F|4|4
 Androniki|F|4|4
 Anthoula|F|4|4
@@ -191,7 +191,7 @@ Iraklis|M|4|4
 Iro|F|4|4
 Isidoros|M|4|4
 Kanella|F|4|4
-Kleopatra|F|4|4
+Kleopatra|F|4|mythological
 Kosmas|M|4|4
 Kostas|M|4|4
 Lambrini|F|4|4
@@ -208,20 +208,20 @@ Melpomeni|F|4|4
 Meropi|F|4|4
 Miltiadis|M|4|4
 Myrsini|F|4|4
-Myrto|F|4|4
+Myrto|F|4|mythological
 Nektaria|F|4|4
 Nektarios|M|4|4
 Nikiforos|M|4|4
 Nikolitsa|F|4|4
 Nikos|M|4|4
-Olympia|F|4|4
+Olympia|F|4|mythological
 Pagona|F|4|4
 Panagoula|F|4|4
 Panoraia|F|4|4
 Paraskevas|M|4|4
 Paschalis|M|4|4
 Pavlina|F|4|4
-Platon|M|4|4
+Platon|M|4|mythological
 Popi|F|4|4
 Roza|F|4|4
 Sapfo|F|4|4
@@ -255,6 +255,6 @@ Anthi|F|3|3
 Argyrios|M|3|3
 Aristoula|F|3|3
 Artemios|M|3|3
-Artemis|F|3|3
+Artemis|F|3|mythological
 Diamantis|M|3|3
 Dimostenis|M|3|3

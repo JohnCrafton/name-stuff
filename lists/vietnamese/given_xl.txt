@@ -159,15 +159,15 @@ Luc|U|6|6
 Luong|U|7|7
 Luu|U|4|4
 Ly|U|7|7
-Ma|U|1|1
+Ma|U|1|mythological
 Mai|F|9|9
 Man|U|6|6
 Mang|U|1|1
 Manh|M?|9|9
 Mao|M?|3|3
-Men|U|1|1
+Men|U|1|mythological
 Mien|F?|4|4
-Min|U|5|5
+Min|U|5|mythological
 Minh|F?|11|11
 Mong|U|6|6
 Mui|U|4|4
@@ -232,7 +232,7 @@ Suy|U|3|3
 Sy|M?|7|7
 Tai|M?|7|7
 Tam|F|9|9
-Tan|M?|10|10
+Tan|M?|10|mythological
 Tang|U|4|4
 Tao|U|5|5
 Tat|U|6|6

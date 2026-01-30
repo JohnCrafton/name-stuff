@@ -24,7 +24,7 @@ Petra|F|8|8
 René|M|8|8
 Rob|M|8|8
 Sandra|F|8|8
-Theo|M|8|8
+Theo|M|8|mythological
 Wim|M|8|8
 Yvonne|F|8|8
 André|M|7|7
@@ -104,7 +104,7 @@ Annelies|F|6|6
 Annemarie|F|6|6
 Annet|F|6|6
 Annette|F|6|6
-Anton|M|6|6
+Anton|M|6|mythological
 Arie|M|6|6
 Arno|M|6|6
 Bas|M|6|6
@@ -118,7 +118,7 @@ Claudia|F|6|6
 Cor|M?|6|6
 Daniëlle|F|6|6
 Dennis|M|6|6
-Diana|F|6|6
+Diana|F|6|mythological
 Dirk|M|6|6
 Ed|M|6|6
 Els|F?|6|6
@@ -138,7 +138,7 @@ Henriëtte|F|6|6
 Ilse|F|6|6
 Ina|F|6|6
 Ine|F|6|6
-Irene|F|6|6
+Irene|F|6|mythological
 Irma|F|6|6
 Jack|M|6|6
 Jacob|M|6|6
@@ -152,7 +152,7 @@ José|F?|6|6
 Joyce|F|6|6
 Kim|F?|6|6
 Koos|M|6|6
-Leon|M|6|6
+Leon|M|6|mythological
 Lia|F|6|6
 Liesbeth|F|6|6
 Maaike|F|6|6
@@ -186,7 +186,7 @@ Sonja|F|6|6
 Susan|F|6|6
 Suzanne|F|6|6
 Sylvia|F|6|6
-Thea|F|6|6
+Thea|F|6|mythological
 Tiny|F|6|6
 Tom|M|6|6
 Truus|F|6|6
@@ -195,7 +195,7 @@ Willy|U|6|6
 Adrie|U|5|5
 Alice|F|5|5
 Anke|F?|5|5
-Anna|F|5|5
+Anna|F|5|mythological
 Annemiek|F|5|5
 Annemieke|F|5|5
 Ant|M|5|5
@@ -316,7 +316,7 @@ Robin|M?|5|5
 Roelof|M|5|5
 Roland|M|5|5
 Ronnie|M?|5|5
-Simon|M|5|5
+Simon|M|5|mythological
 Sjoerd|M|5|5
 Sjoukje|F|5|5
 Stefan|M|5|5
@@ -347,7 +347,7 @@ Ada|F|4|4
 Adri|U|4|4
 Adriaan|M|4|4
 Alexander|M|4|4
-Alexandra|F|4|4
+Alexandra|F|4|mythological
 Alfons|M|4|4
 Aly|F|4|4
 Andrea|F|4|4
@@ -394,7 +394,7 @@ Corina|F|4|4
 Corry|F|4|4
 Daan|M|4|4
 Daniël|M|4|4
-Daphne|F|4|4
+Daphne|F|4|mythological
 Dave|M|4|4
 David|M|4|4
 Debbie|F|4|4
@@ -420,7 +420,7 @@ Eveline|F|4|4
 Femke|F?|4|4
 Ferry|M|4|4
 Fokke|M|4|4
-Fons|M|4|4
+Fons|M|4|mythological
 Francien|F|4|4
 Francis|F?|4|4
 Freddy|M|4|4
@@ -449,7 +449,7 @@ Hilde|F?|4|4
 Hilly|F|4|4
 Hugo|M|4|4
 Ingeborg|F|4|4
-Iris|F|4|4
+Iris|F|4|mythological
 Ivo|M|4|4
 Iwan|M|4|4
 Jacco|M|4|4
@@ -591,7 +591,7 @@ Ann|F|3|3
 Antoine|M|3|3
 Appie|M?|3|3
 Arn|M|3|3
-Arne|M|3|3
+Arne|M|3|mythological
 Arnoud|M|3|3
 Audrey|F|3|3
 Bastiaan|M|3|3
@@ -631,7 +631,7 @@ Dieuwke|F|3|3
 Dik|M?|3|3
 Dinand|M|3|3
 Dini|F|3|3
-Dion|M|3|3
+Dion|M|3|mythological
 Dolf|M|3|3
 Dominique|U|3|3
 Dorine|F|3|3
@@ -687,9 +687,9 @@ Harmen|M|3|3
 Hay|M|3|3
 Hedwig|F|3|3
 Heidy|F|3|3
-Helena|F|3|3
+Helena|F|3|mythological
 Helene|F|3|3
-Hellen|F|3|3
+Hellen|F|3|mythological
 Hendrika|F|3|3
 Henriette|F|3|3
 Henrike|F|3|3
@@ -807,7 +807,7 @@ Maurits|M|3|3
 May|F|3|3
 Meindert|M|3|3
 Merel|F|3|3
-Meta|F|3|3
+Meta|F|3|mythological
 Michaël|M|3|3
 Michelle|F|3|3
 Mien|F?|3|3
@@ -940,7 +940,7 @@ Arja|F|2|2
 Arjo|M?|2|2
 Armand|M|2|2
 Arnout|M|2|2
-Ate|M|2|2
+Ate|M|2|mythological
 Atie|F|2|2
 Attie|F|2|2
 Axel|M|2|2
@@ -1002,7 +1002,7 @@ Don|M|2|2
 Doortje|F|2|2
 Dora|F|2|2
 Dorie|F|2|2
-Doris|F|2|2
+Doris|F|2|mythological
 Dory|F|2|2
 Durkje|F|2|2
 Edo|M|2|2

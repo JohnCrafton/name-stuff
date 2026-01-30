@@ -21,7 +21,7 @@ Petrit|M|8|8
 Valentina|F|8|8
 Violeta|F|8|8
 Vjollca|F|8|8
-Agron|M|7|7
+Agron|M|7|mythological
 Aida|F|7|7
 Albert|M|7|7
 Alfred|M|7|7
@@ -39,7 +39,7 @@ Blerina|F|7|7
 Brunilda|F|7|7
 Bujar|M|7|7
 Dhurata|F|7|7
-Diana|F|7|7
+Diana|F|7|mythological
 Donika|F|7|7
 Dorina|F|7|7
 Dritan|M|7|7
@@ -54,7 +54,7 @@ Ervin|M|7|7
 Etleva|F|7|7
 Fatbardha|F|7|7
 Fatmira|F|7|7
-Flora|F|7|7
+Flora|F|7|mythological
 Gjergji|M|7|7
 Hajri|F|7|7
 Irena|F|7|7

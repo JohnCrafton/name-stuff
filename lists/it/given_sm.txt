@@ -3,7 +3,7 @@
 #
 Joseph|M|11|11
 Maria|F|11|11
-Anna|F|10|10
+Anna|F|10|mythological
 Anthony|M|10|10
 Antonio|M|10|10
 Giuseppe|M|10|10
@@ -74,7 +74,7 @@ Claudio|M|7|7
 Concetta|F|7|7
 Cristina|F|7|7
 Daniela|F|7|7
-Doris|F|7|7
+Doris|F|7|mythological
 Elena|F|7|7
 Elizabeth|F|7|7
 Emmanuel|M|7|7

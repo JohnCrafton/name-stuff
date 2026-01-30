@@ -59,7 +59,7 @@ Aimo|M|6|
 Aina|F|5|
 Aini|F|4|
 Ainikki|F|1|
-Aino|F|7|
+Aino|F|7|mythological
 Ainoriitta|F|1|
 Aira|F|5|
 Airi|F|5|
@@ -84,7 +84,7 @@ Aleksi|M|5|
 Alette|F|1|
 Alex|M|5|
 Alexander|M|6|
-Alexandra|F|5|
+Alexandra|F|5|mythological
 Alexía|F|2|
 Alf|M|6|
 Alfa|F|2|
@@ -152,7 +152,7 @@ Anker|M|5|
 Anki|F|1|
 Anlaug|F|1|
 Ann|F|9|
-Anna|F|10|
+Anna|F|10|mythological
 Annaleena|F|1|
 Annaliisa|F|1|
 Annalise|F|4|
@@ -201,7 +201,7 @@ Antamo|M|1|
 Antero|M|9|
 Anthony|M|2|
 Antli|M|1|
-Anton|M|6|
+Anton|M|6|mythological
 Antonie|F|1|
 Antonía|F|2|
 Antti|M|8|
@@ -229,7 +229,7 @@ Arnar|M|8|
 Arnbjörg|F|4|
 Arnbjörn|M|2|
 Arndís|F|6|
-Arne|M|9|
+Arne|M|9|mythological
 Arney|F|3|
 Arnfinn|M|3|
 Arnfinnur|M|2|
@@ -295,11 +295,11 @@ Augusta|F|1|
 Aukusti|M|5|
 Auli|F|5|
 Aulikki|F|5|
-Aulis|M|6|
+Aulis|M|6|mythological
 Aulo|M|1|
 Aun|M|1|
 Aune|F|6|
-Aura|F|2|
+Aura|F|2|mythological
 Auri|F|2|
 Auvo|M|3|
 Auðbjörg|F|4|
@@ -524,7 +524,7 @@ Cai|M|1|
 Caisa|F|1|
 Cajsa|F|2|
 Calle|M|1|
-Camilla|F|7|
+Camilla|F|7|mythological
 Carin|F|5|
 Carina|F|7|
 Carine|F|1|
@@ -635,7 +635,7 @@ Ditte|F|6|
 Diðrik|M|2|
 Dofri|M|1|
 Dora|F|3|
-Doris|F|5|
+Doris|F|5|mythological
 Dorit|F|3|
 Dorotea|F|1|
 Dorrit|F|4|
@@ -1289,7 +1289,7 @@ Heiðveig|F|2|
 Hekla|F|5|
 Heleena|F|5|
 Helen|F|6|
-Helena|F|9|
+Helena|F|9|mythological
 Helene|F|6|
 Helfrid|M|1|
 Helga|F|9|
@@ -1301,8 +1301,8 @@ Helja|F|1|
 Heljä|F|3|
 Helka|F|3|
 Helky|F|1|
-Helle|F|9|
-Hellen|F|1|
+Helle|F|9|mythological
+Hellen|F|1|mythological
 Hellevi|F|5|
 Helli|F|2|
 Hellin|F|2|
@@ -1332,7 +1332,7 @@ Henriikka|F|1|
 Henrik|M|9|
 Henrikki|M|4|
 Henry|M|6|
-Hera|F|4|
+Hera|F|4|mythological
 Herbert|M|3|
 Herbjørn|M|1|
 Herborg|F|3|
@@ -1537,12 +1537,12 @@ Ingólfur|M|6|
 Ingþór|M|3|
 Inka|F|3|
 Inkeri|F|7|
-Ira|F|1|
+Ira|F|1|mythological
 Ireene|F|2|
 Iren|F|4|
 Irena|F|2|
-Irene|F|7|
-Iris|F|4|
+Irene|F|7|mythological
+Iris|F|4|mythological
 Irja|F|6|
 Irma|F|6|
 Irmeli|F|7|
@@ -1999,7 +1999,7 @@ Leni|F|2|
 Lennart|M|9|
 Lennarth|M|1|
 Leo|M|6|
-Leon|M|4|
+Leon|M|4|mythological
 Leonara|F|1|
 Leó|M|4|
 Li|F|2|
@@ -2238,7 +2238,7 @@ Marlene|F|5|
 Marly|F|1|
 Marlén|F|1|
 Marna|F|2|
-Maron|M|1|
+Maron|M|1|mythological
 Marry|F|2|
 Marsibil|F|2|
 Mart|M|1|
@@ -2297,7 +2297,7 @@ Merituuli|F|1|
 Merja|F|7|
 Merry|F|1|
 Mervi|F|6|
-Meta|F|3|
+Meta|F|3|mythological
 Metha|F|2|
 Methúsalem|M|1|
 Metta|F|1|
@@ -2337,7 +2337,7 @@ Mille|F|3|
 Milly|F|1|
 Mimi|F|2|
 Mimmi|F|2|
-Minerva|F|1|
+Minerva|F|1|mythological
 Minja|F|1|
 Minna|F|7|
 Minttu|F|1|
@@ -2360,7 +2360,7 @@ Molly|F|1|
 Mona|F|7|
 Monica|F|8|
 Monika|F|5|
-Monna|F|1|
+Monna|F|1|mythological
 Moona|F|1|
 Morgan|M|5|
 Morits|M|1|
@@ -2385,7 +2385,7 @@ Móeiður|F|2|
 Mörður|M|1|
 Naemi|F|1|
 Naja|F|3|
-Nana|F|3|
+Nana|F|3|mythological
 Nancy|F|4|
 Nanna|F|5|
 Nanne|F|1|
@@ -2399,9 +2399,9 @@ Nea|F|1|
 Neel|F|2|
 Nelly|F|2|
 Nels|M|1|
-Nestor|M|3|
+Nestor|M|3|mythological
 Nestori|M|3|
-Nete|F|3|
+Nete|F|3|mythological
 Nette|F|1|
 Nicki|M|2|
 Nicklas|M|5|
@@ -2416,7 +2416,7 @@ Nielsine|F|1|
 Niila|M|1|
 Niilo|M|6|
 Niina|F|5|
-Nike|F?|1|
+Nike|F?|1|mythological
 Niklas|M|7|
 Niko|M|2|
 Nikolai|M|3|
@@ -2496,7 +2496,7 @@ Oras|M|1|
 Orla|M|5|
 Ormar|M|1|
 Ormur|M|1|
-Oron|M|1|
+Oron|M|1|mythological
 Orri|M|7|
 Orvo|M|1|
 Orvokki|F|6|
@@ -2762,7 +2762,7 @@ Saana|F|2|
 Saandra|F|1|
 Saara|F|6|
 Sabine|F|3|
-Saga|F|4|
+Saga|F|4|mythological
 Saija|F|3|
 Saila|F|4|
 Saima|F|1|
@@ -2920,7 +2920,7 @@ Sille|F|2|
 Simen|M|3|
 Simeon|M|1|
 Simo|M|6|
-Simon|M|5|
+Simon|M|5|mythological
 Simone|F|3|
 Sindre|M|2|
 Sindri|M|7|
@@ -3208,13 +3208,13 @@ Terttu|F|7|
 Tessie|F|1|
 Teuvo|M|6|
 Thage|M|1|
-Thea|F|2|
+Thea|F|2|mythological
 Theis|M|3|
 Thelma|F|6|
 Theodor|M|2|
 Theodór|M|3|
 Theodóra|F|4|
-Theres|F|3|
+Theres|F|3|mythological
 Theresa|F|1|
 Therese|F|6|
 Theresia|F|3|
@@ -3470,7 +3470,7 @@ Vicki|F|3|
 Vickie|F|1|
 Vicky|F|3|
 Victor|M|3|
-Victoria|F|4|
+Victoria|F|4|mythological
 Vidar|M|6|
 Vieno|F|4|
 Vig|M|1|
@@ -3522,7 +3522,7 @@ Virpi|F|6|
 Virva|F|2|
 Virve|F|4|
 Visa|M|1|
-Vita|F|4|
+Vita|F|4|mythological
 Vivan|F|3|
 Viveca|F|3|
 Viveka|F|3|

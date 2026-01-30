@@ -96,11 +96,11 @@ Agneta|F|1|
 Agneza|F|2|
 Agni|F|3|
 Ago|M|4|
-Agon|M|5|
+Agon|M|5|mythological
 Agora|F|1|
 Agota|F|1|
 Agripina|F|2|
-Agron|M|7|
+Agron|M|7|mythological
 Agáta|F|6|
 Ahile|M|2|
 Ahmed|M|6|
@@ -165,7 +165,7 @@ Alexa|F|3|
 Alexandar|M|7|
 Alexander|M|7|
 Alexandr|M|4|
-Alexandra|F|7|
+Alexandra|F|7|mythological
 Alexandrina|F|7|
 Alexandru|M|9|
 Alexe|M|2|
@@ -272,7 +272,7 @@ Anastazija|F|2|
 Anastázia|F|4|
 Anasztázia|F|1|
 Anatol|M|1|
-Anatole|M|1|
+Anatole|M|1|mythological
 Anatoli|M|4|
 Anatolia|F|1|
 Anatolie|M|2|
@@ -307,7 +307,7 @@ Andrey|M|6|
 Andrija|M|7|
 Andrijana|F|2|
 Andris|M|1|
-Andro|M|3|
+Andro|M|3|mythological
 András|M|8|
 Andřej|M|1|
 Anel|F|1|
@@ -357,7 +357,7 @@ Anjuta|F|2|
 Anka|F|7|
 Ankica|F|8|
 Anko|M|1|
-Anna|F|10|
+Anna|F|10|mythological
 Annamária|F|6|
 Anostol|M|1|
 Antal|M|7|
@@ -373,7 +373,7 @@ Antoan|M|1|
 Antoanela|F|1|
 Antoanella|F|1|
 Antoaneta|F|6|
-Anton|M|9|
+Anton|M|9|mythological
 Antonache|M|1|
 Antone|M|2|
 Antonel|M|1|
@@ -432,7 +432,7 @@ Ardijan|M|1|
 Ardijana|F|3|
 Ardit|M|3|
 Ardita|F|5|
-Areta|F|1|
+Areta|F|1|mythological
 Aretia|F|1|
 Aretin|M|1|
 Aretina|F|2|
@@ -502,7 +502,7 @@ Arta|F|7|
 Artan|M|3|
 Artana|F|1|
 Artemie|M|1|
-Artemis|F|2|
+Artemis|F|2|mythological
 Artemisia|F|1|
 Artemiza|F|2|
 Artemizia|F|1|
@@ -564,7 +564,7 @@ Augustina|F|3|
 Augustín|M|5|
 Aulona|F|2|
 Auna|F|1|
-Aura|F|3|
+Aura|F|3|mythological
 Aurel|M|8|
 Aurelia|F|7|
 Aurelian|M|6|
@@ -1153,7 +1153,7 @@ Cvyatko|M|3|
 Cyril|M|5|
 D<â>nuţ|M|6|
 D<â>nuţa|F|2|
-Dacia|F|2|
+Dacia|F|2|mythological
 Dacian|M|1|
 Daciana|F|2|
 Dacina|F|1|
@@ -1319,7 +1319,7 @@ Diamandi|M|1|
 Diamanta|F|1|
 Diamantina|F|1|
 Dian|M|5|
-Diana|F|8|
+Diana|F|8|mythological
 Dianka|F|3|
 Dida|F|2|
 Didina|F|4|
@@ -1375,7 +1375,7 @@ Dinu|M|4|
 Dinuca|F|1|
 Dinyo|M|3|
 Dinyu|M|1|
-Dion|M|2|
+Dion|M|2|mythological
 Dionisie|M|3|
 Dionýz|M|3|
 Dita|F|4|
@@ -1451,7 +1451,7 @@ Dorin|M|6|
 Dorina|F|6|
 Dorinel|M|2|
 Dorinela|F|1|
-Doris|F|3|
+Doris|F|3|mythological
 Dorota|F|1|
 Dorotea|F|3|
 Doroteja|F|4|
@@ -1768,7 +1768,7 @@ Emília|F|8|
 Emöke|F|6|
 Ena|F|1|
 Enache|M|2|
-Encho|M|4|
+Encho|M|4|mythological
 Endorina|F|1|
 Endre|M|7|
 Endrit|M|3|
@@ -2062,7 +2062,7 @@ Fllanza|F|3|
 Floare|F|5|
 Floarea|F|7|
 Flokart|M|1|
-Flora|F|5|
+Flora|F|5|mythological
 Floranda|F|1|
 Flore|F|3|
 Florea|F|7|
@@ -2479,7 +2479,7 @@ Hedviga|F|5|
 Hedvika|F|4|
 Hekuran|M|3|
 Hela|F|3|
-Helena|F|9|
+Helena|F|9|mythological
 Helga|F|5|
 Henorel|M|1|
 Henrich|M|3|
@@ -2488,7 +2488,7 @@ Henriett|F|5|
 Henrietta|F|3|
 Henriette|F|2|
 Henrik|M|2|
-Hera|F|1|
+Hera|F|1|mythological
 Herbert|M|1|
 Heriona|F|1|
 Herman|M|4|
@@ -2570,7 +2570,7 @@ Hysnije|F|5|
 Iacob|M|3|
 Iacobina|F|1|
 Iamandi|M|1|
-Iana|F|1|
+Iana|F|1|mythological
 Iancu|M|4|
 Ianos|M|2|
 Ianula|F|1|
@@ -2580,7 +2580,7 @@ Ibolya|F|8|
 Ibrahim|M|7|
 Ibričim|M|1|
 Ibro|M|5|
-Ica|U|1|
+Ica|U|1|mythological
 Ice|M|1|
 Ico|M|1|
 Iconia|F|1|
@@ -2685,7 +2685,7 @@ Ioan|M|10|
 Ioana|F|9|
 Iolan|M|2|
 Iolanda|F|3|
-Ion|M|10|
+Ion|M|10|mythological
 Iona|F|1|
 Ionaş|M|2|
 Ionel|M|7|
@@ -2705,7 +2705,7 @@ Iovanca|F|1|
 Iovica|F|1|
 Iovu|M|1|
 Iqrame|F|1|
-Ira|F|1|
+Ira|F|1|mythological
 Iraida|F|1|
 Irena|F|8|
 Irenej|M|1|
@@ -2717,7 +2717,7 @@ Irina|F|7|
 Irinel|M|3|
 Irinela|F|1|
 Irinka|F|4|
-Iris|F|3|
+Iris|F|3|mythological
 Irma|F|5|
 Irmela|F|1|
 Irodia|F|1|
@@ -2731,7 +2731,7 @@ Isa|M|2|
 Isabela|F|2|
 Isabella|F|2|
 Isac|M|1|
-Isaia|M|2|
+Isaia|M|2|mythological
 Isaiu|M|1|
 Isak|M|4|
 Isidor|M|1|
@@ -3338,9 +3338,9 @@ Lako|M|1|
 Lalka|F|3|
 Lamija|F|5|
 Lana|F|4|
-Lara|F|3|
+Lara|F|3|mythological
 Larisa|F|3|
-Larissa|F|1|
+Larissa|F|1|mythological
 Latchezar|M|5|
 Latif|M|4|
 Latife|F|1|
@@ -3355,7 +3355,7 @@ Laurian|M|2|
 Lavdie|F|3|
 Lavdim|M|2|
 Lavdërim|M|1|
-Lavinia|F|4|
+Lavinia|F|4|mythological
 Laviniu|M|1|
 Laz<â>r|M|3|
 Laz<â>rica|F|1|
@@ -3393,7 +3393,7 @@ Lenke|F|3|
 Lenko|M|2|
 Lenuţa|F|5|
 Leo|M|3|
-Leon|M|5|
+Leon|M|5|mythological
 Leona|F|4|
 Leonard|M|3|
 Leonica|F|1|
@@ -3402,7 +3402,7 @@ Leonida|M|3|
 Leonilia|F|1|
 Leonitë|F|1|
 Leonora|F|6|
-Leonte|M|2|
+Leonte|M|2|mythological
 Leontin|M|3|
 Leontina|F|3|
 Leontína|F|3|
@@ -3641,7 +3641,7 @@ Lumri|M|1|
 Lumturie|F|5|
 Lumturije|F|4|
 Lumír|M|5|
-Lupa|F|2|
+Lupa|F|2|mythological
 Lupu|M|2|
 Lusa|F|1|
 Luta|F|1|
@@ -3710,7 +3710,7 @@ Mahulena|F|1|
 Maia|F|5|
 Maida|F|6|
 Maija|F|2|
-Maira|F|1|
+Maira|F|1|mythological
 Maiya|F|2|
 Maja|F|8|
 Majda|F|7|
@@ -3769,7 +3769,7 @@ Mara|M|6|
 Marcel|M|6|
 Marcela|F|8|
 Marcho|M|3|
-Mare|F|4|
+Mare|F|4|mythological
 Marek|M|6|
 Margareta|F|7|
 Margaretta|F|1|
@@ -3791,7 +3791,7 @@ Mariana|F|9|
 Marianka|F|4|
 Mariann|F|5|
 Marianna|F|7|
-Marica|F|8|
+Marica|F|8|mythological
 Maricel|M|3|
 Maricela|F|2|
 Maricica|F|4|
@@ -3880,7 +3880,7 @@ Matjaž|M|8|
 Matko|M|5|
 Mato|M|7|
 Matroana|F|1|
-Matrona|F|1|
+Matrona|F|1|mythological
 Matú|M|4|
 Maura|F|1|
 Mauriceta|F|1|
@@ -3889,7 +3889,7 @@ Maxim|M|4|
 Maya|F|6|
 Mayram|F|2|
 Maa|F|4|
-Meda|F|1|
+Meda|F|1|mythological
 Medaim|M|1|
 Mediha|F|4|
 Medina|F|4|
@@ -3910,7 +3910,7 @@ Mejreme|F|6|
 Melania|F|5|
 Melanija|F|2|
 Melentina|F|1|
-Melia|F|1|
+Melia|F|1|mythological
 Meliha|F|6|
 Melihate|F|4|
 Melika|F|4|
@@ -3928,15 +3928,15 @@ Melánie|F|1|
 Memet|M|1|
 Memnuna|F|2|
 Memnune|F|1|
-Mena|F|2|
-Mende|M|1|
+Mena|F|2|mythological
+Mende|M|1|mythological
 Mendim|M|1|
 Mendushe|F|1|
 Menhard|M|1|
 Menka|F|4|
 Mensur|M|5|
 Mensura|F|3|
-Mentor|M|5|
+Mentor|M|5|mythological
 Mentore|F|1|
 Menyhért|M|1|
 Mera|F|1|
@@ -3963,7 +3963,7 @@ Mervana|F|1|
 Meschka|F|1|
 Meshka|F|1|
 Mesud|M|3|
-Meta|F|4|
+Meta|F|4|mythological
 Metie|F|1|
 Metije|F|4|
 Metka|F|7|
@@ -4108,7 +4108,7 @@ Mine|F|2|
 Minea|F|1|
 Minel|M|1|
 Minela|F|4|
-Minerva|F|2|
+Minerva|F|2|mythological
 Mineta|F|1|
 Minica|F|1|
 Minir|M|1|
@@ -4195,7 +4195,7 @@ Mitju|M|1|
 Mitka|F|3|
 Mitko|M|8|
 Mito|M|2|
-Mitra|F|2|
+Mitra|F|2|mythological
 Mitre|M|6|
 Mitrea|F|1|
 Mitrita|F|1|
@@ -4327,7 +4327,7 @@ Nako|M|2|
 Namik|M|2|
 Namir|M|1|
 Namira|F|1|
-Nana|F|1|
+Nana|F|1|mythological
 Nane|F|1|
 Nanjo|M|1|
 Nanka|F|3|
@@ -4404,7 +4404,7 @@ Neculai|M|6|
 Neculaiu|M|1|
 Neculina|F|2|
 Neculita|F|1|
-Neda|F|4|
+Neda|F|4|mythological
 Nedea|F|1|
 Nedelcho|M|6|
 Nedelcu|M|2|
@@ -4479,7 +4479,7 @@ Neshka|F|1|
 Nesib|M|1|
 Nesrije|F|1|
 Nesrin|F|1|
-Nestor|M|2|
+Nestor|M|2|mythological
 Neta|F|2|
 Netuta|F|1|
 Neven|M|5|
@@ -4582,7 +4582,7 @@ Njegoslav|M|1|
 Njomza|F|5|
 Njomëza|F|1|
 Noemija|F|1|
-Nona|F|2|
+Nona|F|2|mythological
 Nonka|F|3|
 Nora|F|3|
 Norbert|M|6|
@@ -4692,7 +4692,7 @@ Oprisa|F|1|
 Oprisan|M|1|
 Oprisor|M|1|
 Oprita|F|1|
-Orania|F|1|
+Orania|F|1|mythological
 Oratiu|M|1|
 Orbán|M|1|
 Ordančo|M|3|
@@ -4762,7 +4762,7 @@ Pancho|M|1|
 Pandele|M|2|
 Pandelea|F|1|
 Pandelica|F|2|
-Pandora|F|3|
+Pandora|F|3|mythological
 Panfilia|F|1|
 Pani|M|1|
 Panka|F|1|
@@ -4862,7 +4862,7 @@ Pere|M|2|
 Perica|M|3|
 Peria|M|1|
 Perla|F|1|
-Pero|M|6|
+Pero|M|6|mythological
 Persa|F|4|
 Persefonia|F|1|
 Persida|F|3|
@@ -4932,7 +4932,7 @@ Polonca|F|1|
 Polya|F|1|
 Pompei|M|2|
 Pompeiu|M|1|
-Pompilia|F|2|
+Pompilia|F|2|mythological
 Pompilian|M|1|
 Pompiliana|F|1|
 Pompilie|M|1|
@@ -5131,7 +5131,7 @@ Regina|F|2|
 Rehan|M|1|
 Relina|F|1|
 Relja|M|3|
-Remus|M|4|
+Remus|M|4|mythological
 Remza|F|3|
 Remzi|M|5|
 Remzie|F|4|
@@ -5656,7 +5656,7 @@ Siminica|F|1|
 Simioana|F|1|
 Simion|M|5|
 Simka|F|3|
-Simon|M|7|
+Simon|M|7|mythological
 Simona|F|7|
 Sin<ð>elija|F|1|
 Sina|F|1|
@@ -5956,7 +5956,7 @@ Strako|M|1|
 Strezju|M|1|
 Strezyu|M|1|
 Suad|M|6|
-Suada|F|6|
+Suada|F|6|mythological
 Subi|M|3|
 Subina|F|2|
 Subinka|F|1|
@@ -6179,7 +6179,7 @@ Titi|M|3|
 Titiana|F|2|
 Titie|M|1|
 Titina|F|1|
-Tito|M|3|
+Tito|M|3|mythological
 Titu|M|3|
 Titus|M|4|
 Tivadar|M|5|
@@ -6343,7 +6343,7 @@ Valentino|M|2|
 Valentín|M|4|
 Valer|M|5|
 Valeri|M|5|
-Valeria|F|7|
+Valeria|F|7|mythological
 Valerian|M|3|
 Valeriana|F|1|
 Valerica|F|5|
@@ -6576,7 +6576,7 @@ Vicenţia|F|1|
 Vicenţiu|M|3|
 Vicko|M|5|
 Victor|M|8|
-Victoria|F|7|
+Victoria|F|7|mythological
 Victorita|F|3|
 Victoriya|F|3|
 Vid|M|4|
@@ -6669,7 +6669,7 @@ Visare|F|3|
 Visarion|M|1|
 Vistiana|F|1|
 Vistina|F|1|
-Vita|F|4|
+Vita|F|4|mythological
 Vitalian|M|2|
 Vitalie|M|2|
 Vitalis|M|1|

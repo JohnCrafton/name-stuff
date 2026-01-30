@@ -133,8 +133,8 @@ Alessio|M|4|
 Aletta|F|1|
 Alex|U|4|
 Alexander|M|6|
-Alexandra|F|5|
-Alexis|F?|1|
+Alexandra|F|5|mythological
+Alexis|F?|1|mythological
 Alfa|F|1|
 Alfea|F|1|
 Alfeo|M|1|
@@ -188,7 +188,7 @@ Amalio|M|1|
 Amanda|F|5|
 Amanzia|F|1|
 Amanzio|M|1|
-Amata|F|1|
+Amata|F|1|mythological
 Amato|M|1|
 Ambra|F|1|
 Ambrogia|F|1|
@@ -249,7 +249,7 @@ Aniello|M|4|
 Anita|F|4|
 Anito|M|1|
 Ann|F|6|
-Anna|F|10|
+Anna|F|10|mythological
 Annabella|F|1|
 Annachiara|F|1|
 Annalisa|F|5|
@@ -288,7 +288,7 @@ Antioca|F|1|
 Antioco|M|1|
 Antoine|M|5|
 Antoinette|F|7|
-Anton|M|5|
+Anton|M|5|mythological
 Antonella|F|7|
 Antonello|M|4|
 Antonetta|F|1|
@@ -375,7 +375,7 @@ Ascanio|M|1|
 Ascenza|F|1|
 Ascenzo|M|1|
 Asdrubale|M|1|
-Asia|F|1|
+Asia|F|1|mythological
 Asio|M|1|
 Assunta|F|6|
 Assuntina|F|1|
@@ -386,7 +386,7 @@ Astorre|M|1|
 Astra|F|1|
 Astro|M|1|
 Atanasio|M|1|
-Athos|M|1|
+Athos|M|1|mythological
 Atos|M|1|
 Attila|M|1|
 Attilia|F|3|
@@ -397,7 +397,7 @@ Augustina|F|1|
 Augustino|M|1|
 Augusto|M|5|
 Aulo|M|1|
-Aura|F|1|
+Aura|F|1|mythological
 Aurea|F|1|
 Aurelia|F|4|
 Aureliana|F|1|
@@ -568,7 +568,7 @@ Calogera|F|3|
 Calogero|M|5|
 Calvino|M|1|
 Camelia|F|1|
-Camilla|F|4|
+Camilla|F|4|mythological
 Camillo|M|4|
 Candelora|F|1|
 Candeloro|M|1|
@@ -866,7 +866,7 @@ Desolina|F|1|
 Devis|M|1|
 Diamanta|F|1|
 Diamante|F|1|
-Diana|F|4|
+Diana|F|4|mythological
 Diano|M|1|
 Didima|F|1|
 Didimo|M|1|
@@ -882,7 +882,7 @@ Dino|M|6|
 Diodora|F|1|
 Diodoro|M|1|
 Diogene|M|1|
-Diomede|M|1|
+Diomede|M|1|mythological
 Diomira|F|1|
 Diomiro|M|1|
 Dionigi|M|1|
@@ -926,8 +926,8 @@ Doriana|F|3|
 Doriano|M|2|
 Dorina|F|3|
 Dorino|M|1|
-Doris|F|7|
-Doro|M|1|
+Doris|F|7|mythological
+Doro|M|1|mythological
 Dorotea|F|3|
 Dorothy|F|3|
 Douglas|M|1|
@@ -1103,7 +1103,7 @@ Ernesta|F|4|
 Ernestina|F|3|
 Ernestino|M|1|
 Ernesto|M|6|
-Eros|M|2|
+Eros|M|2|mythological
 Errica|F|1|
 Errico|M|1|
 Ersilia|F|4|
@@ -1139,7 +1139,7 @@ Eustachia|F|1|
 Eustachio|M|1|
 Eutizio|M|1|
 Eva|F|4|
-Evan|M|3|
+Evan|M|3|mythological
 Evandra|F|1|
 Evandro|M|1|
 Evangelista|M|1|
@@ -1260,7 +1260,7 @@ Flaviano|M|2|
 Flavio|M|5|
 Fleur|F|4|
 Flor|F|1|
-Flora|F|5|
+Flora|F|5|mythological
 Florentina|F|1|
 Florenza|F|1|
 Florenzo|M|1|
@@ -1276,7 +1276,7 @@ Floris|M|1|
 Floro|M|1|
 Folco|M|1|
 Fontana|M|1|
-Fortuna|F|2|
+Fortuna|F|2|mythological
 Fortunata|F|3|
 Fortunato|M|4|
 Fosca|F|2|
@@ -1288,7 +1288,7 @@ Franceschino|M|1|
 Francesco|M|9|
 Franchina|F|1|
 Franchino|M|1|
-Francia|F|1|
+Francia|F|1|mythological
 Francis|M|8|
 Franco|M|8|
 Frank|M|6|
@@ -1320,7 +1320,7 @@ Gaetana|F|5|
 Gaetanina|F|1|
 Gaetanino|M|1|
 Gaetano|M|7|
-Gaia|F|1|
+Gaia|F|1|mythological
 Gaio|M|1|
 Galatea|F|1|
 Galdina|F|1|
@@ -1541,7 +1541,7 @@ Glauco|M|2|
 Glenda|F|1|
 Gliceria|F|1|
 Glicerio|M|1|
-Gloria|F|5|
+Gloria|F|5|mythological
 Gloriana|F|1|
 Glorianne|F|1|
 Gloriano|M|1|
@@ -1594,7 +1594,7 @@ Harry|M|2|
 Heather|F|2|
 Hector|M|1|
 Helen|F|7|
-Helena|F|1|
+Helena|F|1|mythological
 Henri|M|2|
 Henry|M|6|
 Herbert|M|4|
@@ -1605,7 +1605,7 @@ Hugh|M|3|
 Iacopo|M|1|
 Iago|M|1|
 Ian|M|5|
-Iana|F|1|
+Iana|F|1|mythological
 Icaro|M|1|
 Icilia|F|1|
 Icilio|M|1|
@@ -1633,7 +1633,7 @@ Ildo|M|1|
 Ileana|F|3|
 Ileano|M|1|
 Ilenia|F|1|
-Ilia|F|2|
+Ilia|F|2|mythological
 Ilio|M|2|
 Ilva|F|2|
 Ilvo|M|1|
@@ -1659,20 +1659,20 @@ Innocenzo|M|2|
 Iola|F|1|
 Iolanda|F|6|
 Iolando|M|1|
-Iole|F|4|
+Iole|F|4|mythological
 Iona|F|1|
-Ione|M|1|
+Ione|M|1|mythological
 Ippazia|F|1|
 Ippazio|M|1|
 Ippolita|F|1|
 Ippolito|M|1|
-Irene|F|5|
+Irene|F|5|mythological
 Irenea|F|1|
 Ireneo|M|1|
 Iria|F|1|
 Iride|F|3|
 Irio|M|1|
-Iris|F|4|
+Iris|F|4|mythological
 Irma|F|5|
 Irmo|M|1|
 Irnerio|M|1|
@@ -1681,7 +1681,7 @@ Isa|F|2|
 Isabella|F|5|
 Isabelle|F|6|
 Isacco|M|1|
-Isaia|M|1|
+Isaia|M|1|mythological
 Isaura|F|1|
 Isida|F|1|
 Iside|F|2|
@@ -1695,7 +1695,7 @@ Isolina|F|2|
 Isolino|M|1|
 Isotta|F|1|
 Itala|F|2|
-Italia|F|4|
+Italia|F|4|mythological
 Italo|M|5|
 Iva|F|2|
 Ivalda|F|1|
@@ -1791,7 +1791,7 @@ Landolfo|M|1|
 Lanfranca|F|1|
 Lanfranco|M|2|
 Lapo|M|1|
-Lara|F|3|
+Lara|F|3|mythological
 Larry|M|2|
 Latina|F|1|
 Latino|M|1|
@@ -1806,7 +1806,7 @@ Laurina|F|1|
 Laurindo|M|1|
 Laurino|M|1|
 Lauro|M|2|
-Lavinia|F|2|
+Lavinia|F|2|mythological
 Lavinio|M|1|
 Lawrence|M|7|
 Lazzara|F|1|
@@ -1816,7 +1816,7 @@ Leandra|F|1|
 Leandro|M|3|
 Leanne|F|1|
 Learco|M|1|
-Leda|F|4|
+Leda|F|4|mythological
 Ledo|M|1|
 Lela|F|1|
 Lele|F|1|
@@ -1866,7 +1866,7 @@ Lewis|M|2|
 Lia|F|4|
 Liana|F|3|
 Liano|M|1|
-Libera|F|3|
+Libera|F|3|mythological
 Liberata|F|2|
 Liberatina|F|1|
 Liberato|M|2|
@@ -1972,7 +1972,7 @@ Luigino|M|4|
 Luisa|F|8|
 Luisella|F|3|
 Luke|M|1|
-Luna|F|1|
+Luna|F|1|mythological
 Lunetta|F|1|
 Lupo|M|1|
 Lydia|F|5|
@@ -2039,7 +2039,7 @@ Marianno|M|1|
 Mariano|M|5|
 Mariantonietta|F|1|
 Mariapia|F|1|
-Marica|F|1|
+Marica|F|1|mythological
 Marico|M|1|
 Marie|F|7|
 Mariella|F|6|
@@ -2117,12 +2117,12 @@ Melchiore|M|1|
 Melchiorre|M|1|
 Melina|F|1|
 Melino|M|1|
-Melissa|F|2|
+Melissa|F|2|mythological
 Melita|F|1|
 Melitta|F|1|
 Melvin|M|2|
 Melvyn|M|1|
-Mena|F|1|
+Mena|F|1|mythological
 Mentore|M|1|
 Mercede|F|1|
 Mercedes|F|2|
@@ -2156,7 +2156,7 @@ Mimma|F|1|
 Mimmo|M|1|
 Mimo|M|1|
 Mina|F|1|
-Minerva|F|1|
+Minerva|F|1|mythological
 Mino|M|1|
 Mira|F|1|
 Miranda|F|3|
@@ -2183,7 +2183,7 @@ Modesta|F|1|
 Modestina|F|1|
 Modestino|M|1|
 Modesto|M|2|
-Moira|F|1|
+Moira|F|1|mythological
 Monalda|F|1|
 Monaldo|M|1|
 Monia|F|3|
@@ -2234,7 +2234,7 @@ Nazzareno|M|6|
 Nazzarenu|M|2|
 Nazzario|M|1|
 Nea|F|1|
-Neda|F|1|
+Neda|F|1|mythological
 Nedda|F|1|
 Neddo|M|1|
 Nedo|M|1|
@@ -2252,7 +2252,7 @@ Neri|M|1|
 Neria|F|1|
 Nerina|F|3|
 Nerino|M|1|
-Nerio|M|1|
+Nerio|M|1|mythological
 Nestore|M|1|
 Neva|F|1|
 Nevia|F|1|
@@ -2468,7 +2468,7 @@ Pauline|F|5|
 Pawlu|M|1|
 Pellegrina|F|1|
 Pellegrino|M|2|
-Penelope|F|1|
+Penelope|F|1|mythological
 Peppina|F|1|
 Peppino|M|2|
 Pericle|M|1|
@@ -2481,7 +2481,7 @@ Philip|M|7|
 Philippe|M|2|
 Pia|F|6|
 Piccarda|F|1|
-Pier|M|5|
+Pier|M|5|mythological
 Piera|F|5|
 Pieralberto|M|1|
 Pieralda|F|1|
@@ -2549,7 +2549,7 @@ Polidoro|M|1|
 Polissena|F|1|
 Pompea|F|1|
 Pompeo|M|2|
-Pompilia|F|1|
+Pompilia|F|1|mythological
 Pompilio|M|1|
 Ponzio|M|1|
 Porfirio|M|1|
@@ -2608,7 +2608,7 @@ Randolph|M|1|
 Raniera|F|1|
 Raniero|M|1|
 Raoul|M|1|
-Raphael|M|3|
+Raphael|M|3|mythological
 Raul|M|1|
 Ray|M?|4|
 Raymond|M|8|
@@ -2670,7 +2670,7 @@ Rodolfo|M|5|
 Roger|M|3|
 Rolanda|F|1|
 Rolando|M|4|
-Roma|F|1|
+Roma|F|1|mythological
 Romana|F|4|
 Romanina|F|1|
 Romanino|M|1|
@@ -2810,7 +2810,7 @@ Secondino|M|1|
 Secondo|M|3|
 Sefora|F|1|
 Selena|F|1|
-Selene|F|1|
+Selene|F|1|mythological
 Selvaggia|F|1|
 Semiramide|F|1|
 Serafina|F|4|
@@ -2854,7 +2854,7 @@ Silvestro|M|3|
 Silvia|F|7|
 Silvio|M|6|
 Simeone|M|1|
-Simon|M|6|
+Simon|M|6|mythological
 Simona|F|5|
 Simone|M|5|
 Simonetta|F|5|
@@ -2986,7 +2986,7 @@ Tindara|F|1|
 Tindaro|M|1|
 Tino|M|1|
 Tita|F|1|
-Tito|M|3|
+Tito|M|3|mythological
 Tiziana|F|6|
 Tiziano|M|5|
 Tizio|M|1|
@@ -3058,7 +3058,7 @@ Umbertino|M|1|
 Umberto|M|6|
 Umbra|F|1|
 Umbro|M|1|
-Urania|F|1|
+Urania|F|1|mythological
 Uranio|M|1|
 Urbana|F|1|
 Urbano|M|2|
@@ -3075,7 +3075,7 @@ Valent|M|1|
 Valente|M|1|
 Valentina|F|5|
 Valentino|M|5|
-Valeria|F|5|
+Valeria|F|5|mythological
 Valeriana|F|1|
 Valeriano|M|2|
 Valerie|F|6|
@@ -3132,8 +3132,8 @@ Vezia|F|1|
 Vezio|M|1|
 Vico|M|1|
 Victor|M|7|
-Victoria|F|6|
-Vienna|F|1|
+Victoria|F|6|mythological
+Vienna|F|1|mythological
 Viera|F|1|
 Vieri|M|1|
 Viero|M|1|
@@ -3166,7 +3166,7 @@ Virgilio|M|4|
 Virginia|F|5|
 Virginio|M|3|
 Virna|F|1|
-Vita|F|4|
+Vita|F|4|mythological
 Vitala|F|1|
 Vitale|M|1|
 Vitalia|F|1|

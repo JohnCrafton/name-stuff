@@ -1,7 +1,7 @@
 # name-stuff given names
 # format: name|gender|frequency|tags
 #
-Anna|F|11|11
+Anna|F|11|mythological
 Andrzej|M|10|10
 Barbara|F|10|10
 El<z°>bieta|F|10|10
@@ -86,7 +86,7 @@ Edyta|F|6|6
 Eugeniusz|M|6|6
 Franciszek|M|6|6
 Genowefa|F|6|6
-Helena|F|6|6
+Helena|F|6|mythological
 Izabela|F|6|6
 Jakub|M|6|6
 Janina|F|6|6

@@ -195,7 +195,7 @@ Anwar|M|6|6
 Aqil|M|3|3
 Aqila|F|2|2
 Aram|M|2|2
-Aras|M|2|2
+Aras|M|2|mythological
 Arasch|M|2|2
 Arash|M|4|4
 Aref|M|3|3
@@ -216,7 +216,7 @@ Aschraf|M?|3|3
 Asghar|M|4|4
 Ashfaq|M|2|2
 Ashraf|M?|5|5
-Asia|F|2|2
+Asia|F|2|mythological
 Asif|M|3|3
 Asifa|F|4|4
 Asiya|F|1|1
@@ -771,7 +771,7 @@ Ismail|M|6|6
 Ismat|M|3|3
 Ismet|M|2|2
 Israr|M|1|1
-Issa|M|5|5
+Issa|M|5|mythological
 Issam|M|6|6
 Iyad|M|4|4
 Izat|F|2|2
@@ -909,13 +909,13 @@ Laleh|F|2|2
 Lalit|M|2|2
 Lalith|M|2|2
 Lama|F|5|5
-Lamia|F|6|6
+Lamia|F|6|mythological
 Lamiaa|F|4|4
 Lamiah|F|4|4
 Lamine|M|2|2
 Lamis|F|2|2
 Lamya|F|4|4
-Lara|F|4|4
+Lara|F|4|mythological
 Larbi|M|1|1
 Latif|M|4|4
 Latifa|F|1|1
@@ -1082,7 +1082,7 @@ Miray|F|1|1
 Miriam|F|7|7
 Mirvat|F|5|5
 Misbah|M|1|1
-Mitra|F|4|4
+Mitra|F|4|mythological
 Mohamad|M|9|9
 Mohamadou|M|2|2
 Mohamed|M|10|10
@@ -1270,7 +1270,7 @@ Naziha|F|2|2
 Nazim|M|3|3
 Nazir|M|4|4
 Nazira|F|1|1
-Neda|F|2|2
+Neda|F|2|mythological
 Nedaa|F|2|2
 Nedal|M|4|4
 Neelofar|F|4|4
@@ -1589,7 +1589,7 @@ Sameh|F|2|2
 Samer|M|7|7
 Samera|F|3|3
 Sami|M|7|7
-Samia|F|5|5
+Samia|F|5|mythological
 Samih|M|4|4
 Samiha|F|3|3
 Samihah|F|1|1

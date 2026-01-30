@@ -29,7 +29,7 @@ Alfonsas|M|8|8
 Algimantas|M|8|8
 Andres|M|8|8
 Anita|F|8|8
-Anna|F|8|8
+Anna|F|8|mythological
 Anne|F|8|8
 Anu|F|8|8
 Baiba|F|8|8
@@ -170,7 +170,7 @@ Ludmila|F|7|7
 Madis|M|7|7
 Maie|F|7|7
 Malle|F|7|7
-Mare|F|7|7
+Mare|F|7|mythological
 Marek|M|7|7
 Mari|F|7|7
 Marika|F|7|7
@@ -240,7 +240,7 @@ Zofija|F|7|7
 Agnese|F|6|6
 Aili|F|6|6
 Ain|M|6|6
-Aino|F|6|6
+Aino|F|6|mythological
 Ainārs|M|6|6
 Aivo|F|6|6
 Albertas|M|6|6
@@ -278,7 +278,7 @@ Dagnija|F|6|6
 Daiga|F|6|6
 Dainius|M|6|6
 Daiva|F|6|6
-Diana|F|6|6
+Diana|F|6|mythological
 Dmitri|M|6|6
 Dmitrijs|M|6|6
 Dzidra|F|6|6
@@ -308,7 +308,7 @@ Harijs|M|6|6
 Heiki|M|6|6
 Heino|M|6|6
 Helen|F|6|6
-Helle|F|6|6
+Helle|F|6|mythological
 Henrikas|M|6|6
 Igor|M|6|6
 Ilmar|M|6|6
@@ -350,7 +350,7 @@ Kristina|F|6|6
 Kristine|F|6|6
 Kristjan|M|6|6
 Laimonis|M|6|6
-Larissa|F|6|6
+Larissa|F|6|mythological
 Laura|F|6|6
 Lauri|M|6|6
 Lidija|F|6|6
@@ -448,7 +448,7 @@ Vidmantas|M|6|6
 Viktor|M|6|6
 Viktoria|F|6|6
 Vilis|M|6|6
-Vita|F|6|6
+Vita|F|6|mythological
 Vitālijs|M|6|6
 Voldemārs|M|6|6
 Zane|F|6|6
@@ -539,7 +539,7 @@ Gita|F|5|5
 Gundega|F|5|5
 Gunita|F|5|5
 Heidi|F|5|5
-Helena|F|5|5
+Helena|F|5|mythological
 Helgi|M|5|5
 Helina|F|5|5
 Helju|F|5|5
@@ -739,10 +739,10 @@ Ann|F|4|4
 Anne-Ly|F|4|4
 Annely|F|4|4
 Ansis|M|4|4
-Anton|M|4|4
+Anton|M|4|mythological
 Antonija|F|4|4
 Are|M|4|4
-Arne|M|4|4
+Arne|M|4|mythological
 Arno|M|4|4
 Arnold|M|4|4
 Arnoldas|M|4|4
@@ -796,7 +796,7 @@ Inesis|M|4|4
 Inge|F|4|4
 Ingus|M|4|4
 Intars|M|4|4
-Ira|F|4|4
+Ira|F|4|mythological
 Irisa|F|4|4
 Ivi|F|4|4
 Iļja|M|4|4

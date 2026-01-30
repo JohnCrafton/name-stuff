@@ -34,7 +34,7 @@ Agetina|F|2|2
 Agim|M|8|8
 Ago|M|2|2
 Agostina|F|1|1
-Agron|M|7|7
+Agron|M|7|mythological
 Ahmet|M|5|5
 Aida|F|7|7
 Aidana|F|1|1
@@ -106,10 +106,10 @@ Anita|F|5|5
 Anjeza|F|4|4
 Anri|M|1|1
 Ansi|M|2|2
-Anton|M|4|4
+Anton|M|4|mythological
 Antoneta|F|6|6
 Anxhela|F|1|1
-Apollon|M|1|1
+Apollon|M|1|mythological
 Apostol|M|4|4
 Aqif|M|4|4
 Aranit|M|3|3
@@ -141,7 +141,7 @@ Arif|M|4|4
 Arife|F|1|1
 Ariol|M|1|1
 Ariola|F|4|4
-Arion|M|1|1
+Arion|M|1|mythological
 Aristidh|M|3|3
 Aristotel|M|3|3
 Arjan|M|7|7
@@ -169,7 +169,7 @@ Arsim|M|3|3
 Arta|F|6|6
 Artan|M|7|7
 Artane|F|1|1
-Artemis|F|1|1
+Artemis|F|1|mythological
 Artian|M|1|1
 Arton|M|1|1
 Artor|M|2|2
@@ -335,7 +335,7 @@ Dhimosten|M|2|2
 Dhiogjen|M|1|1
 Dhori|M|4|4
 Dhurata|F|7|7
-Diana|F|7|7
+Diana|F|7|mythological
 Didar|M|1|1
 Diella|F|1|1
 Dife|F|1|1
@@ -344,7 +344,7 @@ Dila|F|1|1
 Dilaver|M|5|5
 Dile|F|1|1
 Dini|F|1|1
-Dion|M|1|1
+Dion|M|1|mythological
 Ditbardh|M|1|1
 Ditmir|M|1|1
 Dituri|F|1|1
@@ -485,7 +485,7 @@ Entonio|M|1|1
 Enver|M|7|7
 Envere|F|1|1
 Eqerem|M|5|5
-Era|F|1|1
+Era|F|1|mythological
 Erald|M|5|5
 Eralda|F|4|4
 Eraldo|M|1|1
@@ -507,7 +507,7 @@ Erinda|F|4|4
 Eriola|F|5|5
 Erion|M|6|6
 Eriona|F|3|3
-Eris|M|4|4
+Eris|M|4|mythological
 Erisa|F|3|3
 Eriseld|M|2|2
 Eriselda|F|4|4
@@ -624,7 +624,7 @@ Fjorda|F|1|1
 Fjorela|F|1|1
 Fjorentina|F|1|1
 Flamur|M|6|6
-Flora|F|7|7
+Flora|F|7|mythological
 Floran|M|1|1
 Florenc|M|4|4
 Florent|M|2|2
@@ -749,7 +749,7 @@ Hazbi|M|3|3
 Hazir|M|2|2
 Haziz|M|3|3
 Hedie|F|1|1
-Hektor|M|4|4
+Hektor|M|4|mythological
 Hekuran|M|5|5
 Helidon|M|4|4
 Henri|M|3|3
@@ -786,7 +786,7 @@ Ihsan|M|1|1
 Ikbal|F|1|1
 Ikbale|F|4|4
 Ilda|F|6|6
-Ilia|M|5|5
+Ilia|M|5|mythological
 Ilir|M|8|8
 Ilira|F|5|5
 Ilirian|M|1|1
@@ -804,14 +804,14 @@ Ina|F|5|5
 Indrit|M|4|4
 Inesa|F|1|1
 Inis|F|1|1
-Ira|F|2|2
+Ira|F|2|mythological
 Irakli|M|4|4
 Irena|F|7|7
 Irfan|M|4|4
 Irida|F|4|4
 Irina|F|2|2
 Irini|F|3|3
-Iris|F|5|5
+Iris|F|5|mythological
 Irjat|M|2|2
 Irma|F|5|5
 Isa|M|4|4
@@ -1091,10 +1091,10 @@ Mejtan|M|1|1
 Mejte|F|1|1
 Meleqe|F|2|2
 Meliha|F|5|5
-Meline|F|1|1
+Meline|F|1|mythological
 Mensur|M|3|3
 Mentar|M|1|1
-Mentor|M|5|5
+Mentor|M|5|mythological
 Mergim|M|2|2
 Meri|F|5|5
 Merilda|F|1|1
@@ -1171,7 +1171,7 @@ Mynyr|M|3|3
 Myqerem|M|1|1
 Myrte|F|3|3
 Myrteza|M|3|3
-Myrto|M|2|2
+Myrto|M|2|mythological
 Myrvete|F|1|1
 Myslym|M|3|3
 Myzafer|M|4|4
@@ -1227,7 +1227,7 @@ Neset|M|1|1
 Neshet|M|2|2
 Nesim|M|2|2
 Nesti|M|4|4
-Nestor|M|1|1
+Nestor|M|1|mythological
 Nevil|M|1|1
 Nevila|F|5|5
 Nevrie|F|3|3
@@ -1286,7 +1286,7 @@ Omer|M|3|3
 Orest|M|1|1
 Orges|M|4|4
 Orhan|M|2|2
-Orion|M|1|1
+Orion|M|1|mythological
 Oriona|F|1|1
 Orjola|F|3|3
 Orjona|F|1|1
@@ -1318,7 +1318,7 @@ Piro|M|5|5
 Pirro|M|5|5
 Pjeter|M|5|5
 Plarent|M|1|1
-Platon|M|2|2
+Platon|M|2|mythological
 Pleurat|M|1|1
 Polikron|M|2|2
 Portokalle|F|1|1
@@ -1518,7 +1518,7 @@ Silva|F|2|2
 Silvan|M|1|1
 Silvana|F|7|7
 Silver|M|1|1
-Simon|M|4|4
+Simon|M|4|mythological
 Sinan|M|3|3
 Sine|F|1|1
 Skerdian|M|1|1
@@ -1545,7 +1545,7 @@ Stela|F|4|4
 Stilian|M|2|2
 Stiljan|M|1|1
 Suad|M|1|1
-Suada|F|4|4
+Suada|F|4|mythological
 Suat|M|3|3
 Subi|M|1|1
 Suela|F|6|6
@@ -1555,7 +1555,7 @@ Sulltane|F|1|1
 Sulo|M|3|3
 Suzana|F|7|7
 Syle|F|2|2
-Syria|F|1|1
+Syria|F|1|mythological
 Syrja|F|5|5
 Tafil|M|3|3
 Tahir|M|5|5

@@ -6,7 +6,7 @@ Johann|M|10|10
 Josef|M|10|10
 Maria|F|10|10
 Andreas|M|9|9
-Anna|F|9|9
+Anna|F|9|mythological
 Christine|F|9|9
 Elisabeth|F|9|9
 Gerhard|M|9|9
@@ -29,7 +29,7 @@ Andrea|U|8|8
 André|M|8|8
 Angelika|F|8|8
 Anja|F|8|8
-Anton|M|8|8
+Anton|M|8|mythological
 Barbara|F|8|8
 Bernd|M|8|8
 Birgit|F|8|8

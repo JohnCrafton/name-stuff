@@ -15,7 +15,7 @@ Jin|F|10|10
 Jong|U|10|10
 Kyung|F?|10|10
 Mi|U|10|10
-Min|M?|10|10
+Min|M?|10|mythological
 Ok|F?|10|10
 Sang|U|10|10
 Soo|U|10|10
@@ -91,7 +91,7 @@ Hea|U|7|7
 Hi|U|7|7
 Hui|U|7|7
 Hyo|U|7|7
-Hyon|M?|7|7
+Hyon|M?|7|mythological
 Jee|U|7|7
 Joong|U|7|7
 Joung|U|7|7
@@ -172,7 +172,7 @@ Byeong|U|5|5
 Byong|U|5|5
 Cho|U|5|5
 Chol|M?|5|5
-Chon|U|5|5
+Chon|U|5|mythological
 Choon|U|5|5
 Choong|U|5|5
 Chu|U|5|5
@@ -219,7 +219,7 @@ Me|U|5|5
 Mi+Jung|F|5|5
 Mi+Sook|F|5|5
 Mi+Young|F|5|5
-Moo|U|5|5
+Moo|U|5|mythological
 Mu|U|5|5
 Mun|U|5|5
 Myeong|U|5|5
@@ -233,7 +233,7 @@ Ri|U|5|5
 Sa|U|5|5
 San|U|5|5
 Seo|U|5|5
-Sin|U|5|5
+Sin|U|5|mythological
 Soon+Hee|F|5|5
 Soon+Ja|F|5|5
 Soung|U|5|5
@@ -343,7 +343,7 @@ Oak|U|4|4
 Ok+Hee|F|4|4
 On|U|4|4
 Pyung|U|4|4
-Ra|U|4|4
+Ra|U|4|mythological
 Rak|U|4|4
 Rim|U|4|4
 Ro|U|4|4

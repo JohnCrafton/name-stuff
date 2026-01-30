@@ -21,14 +21,14 @@ Ady|F?|4|
 Aharon|M|7|
 Ahuva|F|6|
 Ahuvah|F|1|
-Aia|F|1|
+Aia|F|1|mythological
 Aidel|F|2|
 Aitan|M|1|
 Akiba|M|1|
 Akiva|M|4|
 Alex|U|5|
 Alexander|M|7|
-Alexandra|F|2|
+Alexandra|F|2|mythological
 Alik|M|2|
 Alisa|F|1|
 Aliza|F|4|
@@ -54,7 +54,7 @@ Anan|M|1|
 Anat|F|7|
 Andi|M?|1|
 Andre|M|3|
-Anna|F|7|
+Anna|F|7|mythological
 Arbel|M|1|
 Arella|F|1|
 Ari|M|4|
@@ -189,7 +189,7 @@ Dekel|M|2|
 Devora|F|6|
 Devorah|F|7|
 Dganit|F|2|
-Diana|F|6|
+Diana|F|6|mythological
 Dickla|F|2|
 Didi|M|1|
 Dikla|F|4|
@@ -365,7 +365,7 @@ Hava|F|2|
 Hay|M|1|
 Haya|F|3|
 Hedva|F|1|
-Helena|F|4|
+Helena|F|4|mythological
 Henach|M|2|
 Henia|F|1|
 Henna|F|1|
@@ -394,10 +394,10 @@ Ilya|M|6|
 Immanuel|M|1|
 Inbal|F|6|
 Inbar|F|2|
-Ira|M|2|
+Ira|M|2|mythological
 Irena|F|5|
 Irina|F|6|
-Iris|F|6|
+Iris|F|6|mythological
 Irit|F|6|
 Irith|F|3|
 Irun|M|2|
@@ -407,7 +407,7 @@ Isak|M|1|
 Ishai|M|4|
 Ishay|M|2|
 Israel|M|6|
-Issa|M|2|
+Issa|M|2|mythological
 Issachar|M|1|
 Ita|F|4|
 Itai|M|6|
@@ -478,7 +478,7 @@ Leiba|F|1|
 Leibel|M|2|
 Leiv|M|1|
 Leo|M|2|
-Leon|M|3|
+Leon|M|3|mythological
 Leonid|M|4|
 Leor|M?|1|
 Leora|F|2|
@@ -631,7 +631,7 @@ Neta|F|5|
 Netanel|M|2|
 Netta|F|4|
 Netzach|M|1|
-Nike|M|1|
+Nike|M|1|mythological
 Nili|F|6|
 Nily|F|3|
 Nimrod|M|3|
@@ -676,7 +676,7 @@ Orli|F|5|
 Orlie|F|1|
 Orly|F|7|
 Orna|F|6|
-Oron|M|1|
+Oron|M|1|mythological
 Oshra|F|1|
 Oshrah|F|2|
 Oshri|M|3|
@@ -725,7 +725,7 @@ Rami|M|6|
 Ramy|M|3|
 Ran|M|6|
 Ranit|F|3|
-Raphael|M|5|
+Raphael|M|5|mythological
 Ratza|F|1|
 Ravid|M|1|
 Ravit|F|3|
@@ -866,7 +866,7 @@ Silvi|F|1|
 Sima|F|5|
 Simcha|U|6|
 Simi|M|1|
-Simon|M|3|
+Simon|M|3|mythological
 Simona|F|2|
 Sivan|F|3|
 Smadar|F|6|
@@ -940,7 +940,7 @@ Tzvika|M|1|
 Tzviya|F|3|
 Udi|M|2|
 Uri|M|7|
-Uriel|M|5|
+Uriel|M|5|mythological
 Uzi|M|4|
 Uzy|M|4|
 Varda|F|6|

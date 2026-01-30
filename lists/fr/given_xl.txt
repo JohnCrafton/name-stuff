@@ -66,7 +66,7 @@ Aldric|M|1|1
 Aldéric|M|1|1
 Alex|U|7|7
 Alexander|M|5|5
-Alexandra|F|6|6
+Alexandra|F|6|mythological
 Alexandre|M|7|7
 Alexandrie|F|1|1
 Alexandrine|F|2|2
@@ -76,7 +76,7 @@ Alexia|F|3|3
 Alexiane|F|1|1
 Alexie|F|1|1
 Alexine|F|1|1
-Alexis|M|5|5
+Alexis|M|5|mythological
 Alexy|M|1|1
 Aleyna|F|1|1
 Alfons|M|6|6
@@ -155,7 +155,7 @@ Anaelle|F|2|2
 Anastase|M|1|1
 Anastasie|F|1|1
 Anasthasie|F|1|1
-Anatole|M|1|1
+Anatole|M|1|mythological
 Anatolie|F|1|1
 Anaël|M?|1|1
 Anaële|F|1|1
@@ -189,7 +189,7 @@ Anita|F|6|6
 Anja|F|5|5
 Anke|F?|3|3
 Ann|F|7|7
-Anna|F|8|8
+Anna|F|8|mythological
 Annabel|F|1|1
 Annabelle|F|3|3
 Annaëlle|F|1|1
@@ -221,7 +221,7 @@ Anthony|M|6|6
 Antje|F|1|1
 Antoine|M|8|8
 Antoinette|F|6|6
-Anton|M|2|2
+Anton|M|2|mythological
 Antonie|U|1|1
 Antonin|M|3|3
 Antonine|F|1|1
@@ -263,7 +263,7 @@ Armelle|F|4|4
 Arnaud|M|6|6
 Arnauld|M|1|1
 Arnault|M|1|1
-Arne|M|3|3
+Arne|M|3|mythological
 Arno|M|2|2
 Arnold|M|4|4
 Arnoud|M|1|1
@@ -626,7 +626,7 @@ Daan|M|2|2
 Dagmar|F|2|2
 Daisy|F|4|4
 Damase|M|1|1
-Damia|F|1|1
+Damia|F|1|mythological
 Damien|M|6|6
 Damienne|F|1|1
 Dan|M|4|4
@@ -640,7 +640,7 @@ Danièle|F|6|6
 Daniëlla|F|3|3
 Danny|M?|6|6
 Dany|F|5|5
-Daphne|F|3|3
+Daphne|F|3|mythological
 Daphné|F|1|1
 Daphnée|F|1|1
 Dave|M|3|3
@@ -661,7 +661,7 @@ Denys|M|1|1
 Denyse|F|1|1
 Desire|F|3|3
 Desirée|F|1|1
-Diana|F|5|5
+Diana|F|5|mythological
 Diane|F|6|6
 Dianne|F|1|1
 Dick|M|1|1
@@ -690,7 +690,7 @@ Dorianne|F|1|1
 Dorien|F|3|3
 Dorine|F|4|4
 Dorinne|F|1|1
-Doris|F|5|5
+Doris|F|5|mythological
 Dorothea|F|2|2
 Dorothee|F|1|1
 Dorothée|F|4|4
@@ -872,7 +872,7 @@ Fleurine|F|1|1
 Fleury|M|1|1
 Floor|U|1|1
 Flor|F|1|1
-Flora|F|3|3
+Flora|F|3|mythological
 Floran|M|1|1
 Florane|F|1|1
 Flore|F|2|2
@@ -1115,7 +1115,7 @@ Hein|M|1|1
 Heinz|M|4|4
 Heleen|F?|1|1
 Helen|F|2|2
-Helena|F|5|5
+Helena|F|5|mythological
 Helene|F|5|5
 Helga|F|3|3
 Heliette|F|1|1
@@ -1146,7 +1146,7 @@ Hilarion|M|1|1
 Hilda|F|6|6
 Hilde|F?|7|7
 Hildegarde|F|3|3
-Hippolyte|M|1|1
+Hippolyte|M|1|mythological
 Honorat|U|1|1
 Honorin|M|1|1
 Honorine|F|1|1
@@ -1182,8 +1182,8 @@ Ingeborg|F|3|3
 Ingrid|F|7|7
 Innocent|M|1|1
 Inès|F|4|4
-Irene|F|6|6
-Iris|F|4|4
+Irene|F|6|mythological
+Iris|F|4|mythological
 Irma|F|5|5
 Irmgard|F|1|1
 Irène|F|7|7
@@ -1197,7 +1197,7 @@ Isaure|F|1|1
 Isaïe|M|1|1
 Iseline|F|1|1
 Isidore|M|1|1
-Isis|F|1|1
+Isis|F|1|mythological
 Isoline|F|1|1
 Ivan|M|5|5
 Ivanne|F|1|1
@@ -1400,7 +1400,7 @@ Karl|M|3|3
 Karyne|F|1|1
 Karène|F|1|1
 Kasper|M|1|1
-Kassandra|F|1|1
+Kassandra|F|1|mythological
 Katel|F|1|1
 Kateline|F|1|1
 Katell|F|1|1
@@ -1445,19 +1445,19 @@ Krystelle|F|1|1
 Kurt|M|6|6
 Kylian|M|1|1
 Laeticia|F|1|1
-Laetitia|F|6|6
+Laetitia|F|6|mythological
 Lambert|M|3|3
 Lambertus|M|2|2
 Landry|M?|1|1
-Lara|F|2|2
-Larissa|F|2|2
+Lara|F|2|mythological
+Larissa|F|2|mythological
 Lars|M|2|2
 Laura|F|5|5
 Lauralie|F|1|1
 Laurana|F|1|1
 Laurane|F|1|1
 Lauranne|F|1|1
-Laure|F|6|6
+Laure|F|6|mythological
 Laureen|F|1|1
 Laureline|F|1|1
 Laurence|F|7|7
@@ -1486,7 +1486,7 @@ Lennart|M|1|1
 Lennert|M|1|1
 Lenny|M|1|1
 Leo|M|5|5
-Leon|M|4|4
+Leon|M|4|mythological
 Leona|F|4|4
 Leonard|M|2|2
 Leonardus|M|3|3
@@ -1599,7 +1599,7 @@ Lyne|F|1|1
 Lyonel|M|1|1
 Lysa|F|1|1
 Lysandre|U|1|1
-Lyse|F|1|1
+Lyse|F|1|mythological
 Lysiane|F|3|3
 Léa|F|6|6
 Léandra|F|1|1
@@ -1818,7 +1818,7 @@ Maïwenn|F|1|1
 Melanie|F|3|3
 Melchior|M|1|1
 Melisa|F|1|1
-Melissa|F|4|4
+Melissa|F|4|mythological
 Mendy|U|1|1
 Merel|F|1|1
 Meriam|F|1|1
@@ -2275,7 +2275,7 @@ Silvia|F|3|3
 Silviane|F|1|1
 Silvie|F|2|2
 Silvère|M|1|1
-Simon|M|5|5
+Simon|M|5|mythological
 Simone|F|7|7
 Simonette|F|1|1
 Simonne|F|7|7
@@ -2295,7 +2295,7 @@ Solène|F|3|3
 Sonia|F|6|6
 Sonja|F|6|6
 Sonny|M|1|1
-Sophia|F|3|3
+Sophia|F|3|mythological
 Sophie|F|7|7
 Sosthène|M?|1|1
 Stan|M|1|1
@@ -2369,8 +2369,8 @@ Thaddée|M|1|1
 Thalia|F|1|1
 Thalie|F|1|1
 Thaïs|F|1|1
-Thea|F|1|1
-Theo|M|4|4
+Thea|F|1|mythological
+Theo|M|4|mythological
 Theodoor|M|3|3
 Theodora|F|2|2
 Theodorus|M|2|2
@@ -2436,7 +2436,7 @@ Ulysse|M|1|1
 Uranie|F|1|1
 Urbain|M|3|3
 Urbaine|F|1|1
-Uriel|M|1|1
+Uriel|M|1|mythological
 Urielle|F|1|1
 Ursula|F|4|4
 Ursule|F|1|1
@@ -2464,7 +2464,7 @@ Vianney|M|1|1
 Vicky|F|4|4
 Victoire|F|2|2
 Victor|M|7|7
-Victoria|F|3|3
+Victoria|F|3|mythological
 Victorien|M|1|1
 Victorin|M|1|1
 Victorina|F|2|2

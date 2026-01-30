@@ -6,7 +6,7 @@ Ivan|M|11|11
 Jiří|M|11|11
 Maria|F|11|11
 Mária|F|11|11
-Anna|F|10|10
+Anna|F|10|mythological
 Constantin|M|10|10
 Dimitar|M|10|10
 Dragan|M|10|10
@@ -15,7 +15,7 @@ Ferenc|M|10|10
 Frantiek|M|10|10
 Georgi|M|10|10
 Ioan|M|10|10
-Ion|M|10|10
+Ion|M|10|mythological
 István|M|10|10
 Jan|M|10|10
 Jana|F|10|10
@@ -50,7 +50,7 @@ Ana|F|9|9
 Andrea|F|9|9
 Andrej|M|9|9
 Ante|M|9|9
-Anton|M|9|9
+Anton|M|9|mythological
 Attila|M|9|9
 Biljana|F|9|9
 Dumitru|M|9|9
@@ -61,7 +61,7 @@ Franc|M|9|9
 Gordana|F|9|9
 Gábor|M|9|9
 Hana|F|9|9
-Helena|F|9|9
+Helena|F|9|mythological
 Hristo|M|9|9
 Ildikó|F|9|9
 Ilona|F|9|9
@@ -162,7 +162,7 @@ Dan|M|8|8
 Danica|F|8|8
 Daniela|F|8|8
 Dejan|M|8|8
-Diana|F|8|8
+Diana|F|8|mythological
 Dimitritchka|F|8|8
 Doina|F|8|8
 Donka|F|8|8
@@ -238,7 +238,7 @@ Marcela|F|8|8
 Margit|F|8|8
 Margita|F|8|8
 Marian|M|8|8
-Marica|F|8|8
+Marica|F|8|mythological
 Marijan|M|8|8
 Marin|M|8|8
 Marián|M|8|8
@@ -337,12 +337,12 @@ Admir|M|7|7
 Adriana|F|7|7
 Afrim|M|7|7
 Agim|M|7|7
-Agron|M|7|7
+Agron|M|7|mythological
 Aleksander|M|7|7
 Aleksandra|F|7|7
 Alexandar|M|7|7
 Alexander|M|7|7
-Alexandra|F|7|7
+Alexandra|F|7|mythological
 Alexandrina|F|7|7
 Almir|M|7|7
 Alois|M|7|7
@@ -596,7 +596,7 @@ Shpresa|F|7|7
 Shqipe|F|7|7
 Silvana|F|7|7
 Silvia|F|7|7
-Simon|M|7|7
+Simon|M|7|mythological
 Simona|F|7|7
 Slavko|M|7|7
 Slobodanka|F|7|7
@@ -623,7 +623,7 @@ Tünde|F|7|7
 Uro|M|7|7
 Urka|F|7|7
 Valbona|F|7|7
-Valeria|F|7|7
+Valeria|F|7|mythological
 Valon|M|7|7
 Vančo|M|7|7
 Vasilic<â>|F|7|7
@@ -634,7 +634,7 @@ Verica|F|7|7
 Veronika|F|7|7
 Veselina|F|7|7
 Vesselina|F|7|7
-Victoria|F|7|7
+Victoria|F|7|mythological
 Viliam|M|7|7
 Vinko|M|7|7
 Virgil|M|7|7
@@ -1003,7 +1003,7 @@ Pavle|M|6|6
 Pavlina|F|6|6
 Pavlína|F|6|6
 Pencho|M|6|6
-Pero|M|6|6
+Pero|M|6|mythological
 Piroska|F|6|6
 R<â>zvan|M|6|6
 Rade|M|6|6
@@ -1085,7 +1085,7 @@ Stoitcho|M|6|6
 Stojtcho|M|6|6
 Stoytcho|M|6|6
 Suad|M|6|6
-Suada|F|6|6
+Suada|F|6|mythological
 Sulejman|M|6|6
 Svetislav|M|6|6
 Svetoslav|M|6|6
@@ -1174,7 +1174,7 @@ Adi|M|5|5
 Adina|F|5|5
 Adis|M|5|5
 Agnesa|F|5|5
-Agon|M|5|5
+Agon|M|5|mythological
 Aia|F|5|5
 Ajdin|M|5|5
 Aladár|M|5|5
@@ -1352,7 +1352,7 @@ Filip|M|5|5
 Filofteia|F|5|5
 Fjolla|F|5|5
 Floare|F|5|5
-Flora|F|5|5
+Flora|F|5|mythological
 Florim|M|5|5
 Florina|F|5|5
 France|M|5|5
@@ -1468,7 +1468,7 @@ Lamija|F|5|5
 Latchezar|M|5|5
 Lazar|M|5|5
 Lenuţa|F|5|5
-Leon|M|5|5
+Leon|M|5|mythological
 Leopold|M|5|5
 Leo|M|5|5
 Lepa|F|5|5
@@ -1502,7 +1502,7 @@ Matija|M?|5|5
 Matko|M|5|5
 Melania|F|5|5
 Mensur|M|5|5
-Mentor|M|5|5
+Mentor|M|5|mythological
 Metodi|M|5|5
 Mevlude|F|5|5
 Midhat|M|5|5
@@ -2002,7 +2002,7 @@ Elvedina|F|4|4
 Ema|F|4|4
 Emanoil|M|4|4
 Emanuel|M|4|4
-Encho|M|4|4
+Encho|M|4|mythological
 Enida|F|4|4
 Erich|M|4|4
 Ermina|F|4|4
@@ -2172,7 +2172,7 @@ Labinot|M|4|4
 Lada|F|4|4
 Lana|F|4|4
 Latif|M|4|4
-Lavinia|F|4|4
+Lavinia|F|4|mythological
 Lena|F|4|4
 Lendita|F|4|4
 Leona|F|4|4
@@ -2210,7 +2210,7 @@ Mandica|F|4|4
 Mane|F|4|4
 Manol|M|4|4
 Manuela|F|4|4
-Mare|F|4|4
+Mare|F|4|mythological
 Marianka|F|4|4
 Maricica|F|4|4
 Mariea|F|4|4
@@ -2235,7 +2235,7 @@ Melita|F|4|4
 Melánia|F|4|4
 Menka|F|4|4
 Mercédesz|F|4|4
-Meta|F|4|4
+Meta|F|4|mythological
 Metije|F|4|4
 Metod|M|4|4
 Mevludin|M|4|4
@@ -2290,7 +2290,7 @@ Nazmie|F|4|4
 Ne<ð>eljka|F|4|4
 Ne<ð>elka|F|4|4
 Neculae|M|4|4
-Neda|F|4|4
+Neda|F|4|mythological
 Nediljka|F|4|4
 Nejc|M|4|4
 Nejra|F|4|4
@@ -2341,7 +2341,7 @@ Ramona|F|4|4
 Rasema|F|4|4
 Rasto|M|4|4
 Ratka|F|4|4
-Remus|M|4|4
+Remus|M|4|mythological
 Remzie|F|4|4
 Renato|M|4|4
 René|M|4|4

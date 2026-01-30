@@ -53,7 +53,7 @@ Alexandr|M|7|7
 Alija|F|7|7
 Alisher|M|7|7
 Aliya|F|7|7
-Anna|F|7|7
+Anna|F|7|mythological
 Arman|M|7|7
 Arzu|F|7|7
 Askar|M|7|7

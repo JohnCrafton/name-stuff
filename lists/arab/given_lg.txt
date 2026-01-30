@@ -126,7 +126,7 @@ Kamal|M|6|6
 Karima|F|6|6
 Khadija|F|6|6
 Kobra|F|6|6
-Lamia|F|6|6
+Lamia|F|6|mythological
 Lina|F|6|6
 Maher|M|6|6
 Mahmood|M|6|6
@@ -250,7 +250,7 @@ Hiba|F|5|5
 Husam|M|5|5
 Husayn|M|5|5
 Iftikhar|M|5|5
-Issa|M|5|5
+Issa|M|5|mythological
 Jalal|M|5|5
 Jusra|F|5|5
 Kareem|M|5|5
@@ -326,7 +326,7 @@ Salam|M|5|5
 Salem|M|5|5
 Salima|F|5|5
 Salwa|F|5|5
-Samia|F|5|5
+Samia|F|5|mythological
 Samirah|F|5|5
 Samy|M|5|5
 Sanaa|F|5|5
@@ -515,7 +515,7 @@ Laith|M|4|4
 Lamiaa|F|4|4
 Lamiah|F|4|4
 Lamya|F|4|4
-Lara|F|4|4
+Lara|F|4|mythological
 Latif|M|4|4
 Layth|M|4|4
 Louai|M|4|4
@@ -541,7 +541,7 @@ Mazin|M|4|4
 Mehrdad|M|4|4
 Mina|F|4|4
 Mir|M|4|4
-Mitra|F|4|4
+Mitra|F|4|mythological
 Mohsen|M|4|4
 Mojgan|F|4|4
 Morad|M|4|4

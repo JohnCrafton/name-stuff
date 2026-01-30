@@ -37,7 +37,7 @@ Alesya|F|5|
 Alevtina|F|5|
 Alexander|M|11|
 Alexandr|M|10|
-Alexandra|F|8|
+Alexandra|F|8|mythological
 Alexandrina|F|2|
 Alexandru|M|10|
 Alexei|M|10|
@@ -107,9 +107,9 @@ Anghel|M|2|
 Anghelina|F|2|
 Anja|F|4|
 Anjela|F|1|
-Anna|F|9|
+Anna|F|9|mythological
 Annushka|F|1|
-Anton|M|8|
+Anton|M|8|mythological
 Antonia|F|3|
 Antonina|F|5|
 Anya|F|4|
@@ -134,7 +134,7 @@ Artiom|M|6|
 Artsiom|M|4|
 Artur|M|6|
 Artyom|M|5|
-Asia|F|1|
+Asia|F|1|mythological
 Assia|F|1|
 Assja|F|1|
 Aurel|M|6|
@@ -203,7 +203,7 @@ Deana|F|1|
 Demir|M|1|
 Denis|M|7|
 Denys|M|6|
-Diana|F|7|
+Diana|F|7|mythological
 Didina|F|2|
 Dima|F|4|
 Dimitrii|M|1|
@@ -379,7 +379,7 @@ Hennadzy|M|4|
 Heorhi|M|1|
 Iacob|M|5|
 Iacov|M|1|
-Iana|F|5|
+Iana|F|5|mythological
 Ignat|M|1|
 Igor|M|9|
 Ihar|M|8|
@@ -387,7 +387,7 @@ Ihor|M|7|
 Ilarion|M|3|
 Ildar|M|4|
 Ileana|F|2|
-Ilia|M|5|
+Ilia|M|5|mythological
 Ilie|M|6|
 Ilija|M|4|
 Iliya|M|4|
@@ -405,7 +405,7 @@ Inha|F|4|
 Inna|F|8|
 Ioan|M|2|
 Ioana|F|3|
-Ion|M|10|
+Ion|M|10|mythological
 Ionela|F|2|
 Ionut|M|2|
 Iosif|M|3|
@@ -495,11 +495,11 @@ Ksenja|F|4|
 Ksenya|F|3|
 Kyrylo|M|4|
 Lada|F|2|
-Lala|F|1|
+Lala|F|1|mythological
 Lana|F|2|
-Lara|F|2|
+Lara|F|2|mythological
 Larisa|F|9|
-Larissa|F|7|
+Larissa|F|7|mythological
 Larussia|F|1|
 Larysa|F|7|
 Laurentiu|M|2|
@@ -680,7 +680,7 @@ Nikolai|M|9|
 Nikolaj|M|9|
 Nikolay|M|9|
 Nina|F|8|
-Nona|F|3|
+Nona|F|3|mythological
 Nora|F|1|
 Novel|M|4|
 Oana|F|2|
@@ -731,7 +731,7 @@ Petru|M|9|
 Petya|M|2|
 Piotr|M|5|
 Pjotr|M|5|
-Platon|M|1|
+Platon|M|1|mythological
 Polina|F|5|
 Pyotr|M|5|
 Radu|M|7|
@@ -850,7 +850,7 @@ Tamara|F|8|
 Tania|F|5|
 Tanja|F|5|
 Tanya|F|5|
-Taras|M|6|
+Taras|M|6|mythological
 Tasja|F|1|
 Tatiana|F|11|
 Tatjana|F|11|
@@ -895,7 +895,7 @@ Valentina|F|9|
 Valentyn|M|6|
 Valentyna|F|7|
 Valeri|M|9|
-Valeria|F|6|
+Valeria|F|6|mythological
 Valerian|M|3|
 Valerica|F|2|
 Valerii|M|6|
@@ -946,7 +946,7 @@ Viacheslau|M|5|
 Viacheslav|M|8|
 Viatcheslav|M|6|
 Victor|M|10|
-Victoria|F|9|
+Victoria|F|9|mythological
 Victorija|F|3|
 Victoriya|F|7|
 Vika|F|5|
@@ -967,7 +967,7 @@ Vira|F|5|
 Virgiliu|M|2|
 Virona|F|1|
 Visarion|M|3|
-Vita|F|5|
+Vita|F|5|mythological
 Vital|M|1|
 Vitali|M|9|
 Vitalia|F|1|

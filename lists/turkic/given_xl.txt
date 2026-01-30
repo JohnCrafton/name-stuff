@@ -138,7 +138,7 @@ Alesya|F|3|3
 Alev|F|5|5
 Alexander|M|7|7
 Alexandr|M|7|7
-Alexandra|F|5|5
+Alexandra|F|5|mythological
 Alexei|M|5|5
 Alexej|M|5|5
 Alexey|M|6|6
@@ -220,10 +220,10 @@ Angela|F|2|2
 Angelika|F|2|2
 Angelina|F|3|3
 Anis|M|2|2
-Anna|F|7|7
+Anna|F|7|mythological
 Ansa|F|2|2
 Ansar|M|2|2
-Anton|M|5|5
+Anton|M|5|mythological
 Antonina|F|4|4
 Anuar|M|6|6
 Anvar|M|5|5
@@ -231,7 +231,7 @@ Anzhela|F|2|2
 Anzhelika|F|4|4
 Anıl|M|4|4
 Aral|M|1|1
-Aras|M|2|2
+Aras|M|2|mythological
 Arda|M|4|4
 Ardak|F|5|5
 Arif|M|5|5
@@ -610,8 +610,8 @@ Dervişhan|M|1|1
 Derya|F?|7|7
 Devran|M|1|1
 Devrim|M|4|4
-Diana|F|6|6
-Dias|M|4|4
+Diana|F|6|mythological
+Dias|M|4|mythological
 Dicle|F|2|2
 Didar|M|1|1
 Didem|F|5|5
@@ -1360,7 +1360,7 @@ Lalehan|F|1|1
 Lalizar|F|2|2
 Lana|F|2|2
 Larisa|F|6|6
-Larissa|F|5|5
+Larissa|F|5|mythological
 Latif|M|2|2
 Latife|F|4|4
 Laura|F|6|6
@@ -1420,7 +1420,7 @@ Mahmut|M|7|7
 Maho|M|1|1
 Mahsun|M|1|1
 Mainura|F|1|1
-Maira|F|5|5
+Maira|F|5|mythological
 Maiya|F|2|2
 Makbule|F|5|5
 Makpal|F|3|3
@@ -1481,7 +1481,7 @@ Melihat|F|2|2
 Melihcan|M|1|1
 Melik|M|1|1
 Melike|F|5|5
-Melis|F|2|2
+Melis|F|2|mythological
 Melisa|F|4|4
 Meltem|F|6|6
 Memduh|M|1|1
@@ -2205,7 +2205,7 @@ Talih|M|1|1
 Talip|M|4|4
 Tamara|F|5|5
 Tamer|M|5|5
-Tan|M|3|3
+Tan|M|3|mythological
 Taner|M|5|5
 Tanja|F|3|3
 Tanju|M|3|3
@@ -2262,7 +2262,7 @@ Tunay|M|2|2
 Tuncay|M|6|6
 Tuncer|M|3|3
 Tunç|M|2|2
-Turan|M|5|5
+Turan|M|5|mythological
 Turgay|M|5|5
 Turgut|M|4|4
 Turhan|M|4|4
@@ -2317,7 +2317,7 @@ Vahit|M|2|2
 Valentin|M|2|2
 Valentina|F|4|4
 Valeri|M|5|5
-Valeria|F|5|5
+Valeria|F|5|mythological
 Valerij|M|5|5
 Valerija|F|4|4
 Valeriy|M|5|5
@@ -2348,7 +2348,7 @@ Veysi|M|1|1
 Viacheslav|M|3|3
 Vicdan|F|1|1
 Victor|M|5|5
-Victoria|F|6|6
+Victoria|F|6|mythological
 Victorija|F|2|2
 Victoriya|F|5|5
 Vida|F|2|2

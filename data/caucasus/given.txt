@@ -3,7 +3,7 @@
 # gender: M=male, F=female, U=unisex, M?=mostly male, F?=mostly female
 # frequency: 1-13 (higher = more common)
 #
-Abas|M|1|
+Abas|M|1|mythological
 Abbas|M|4|
 Abdul|M|2|
 Abdulla|M|2|
@@ -97,7 +97,7 @@ Anatoly|M|3|
 Andranik|M|7|
 Andreas|M|3|
 Andrey|M|4|
-Andro|M|3|
+Andro|M|3|mythological
 Aneta|F|1|
 Angela|F|2|
 Angelika|F|2|
@@ -105,7 +105,7 @@ Angelina|F|2|
 Ani|F|4|
 Anjela|F|6|
 Ann|F|3|
-Anna|F|9|
+Anna|F|9|mythological
 Annie|F|5|
 Anoush|F|1|
 Anri|M|4|
@@ -117,7 +117,7 @@ Anzhela|F|4|
 Anzor|M|4|
 Anzori|F|3|
 Aqil|M|2|
-Ara|M|7|
+Ara|M|7|mythological
 Arakel|M|1|
 Araksya|F|5|
 Aram|M|8|
@@ -129,7 +129,7 @@ Araz|M|3|
 Archil|M|5|
 Areg|M|5|
 Aren|M|4|
-Areta|F|1|
+Areta|F|1|mythological
 Arevik|F|5|
 Arif|M|6|
 Arifa|F|3|
@@ -198,7 +198,7 @@ Aysel|F|5|
 Aysha|F|2|
 Aytan|F|5|
 Ayten|F|5|
-Aza|F|5|
+Aza|F|5|mythological
 Azad|M|3|
 Azar|F|3|
 Azat|M|5|
@@ -256,7 +256,7 @@ Denis|M|3|
 Deniz|F?|2|
 Derenik|M|5|
 Devi|F|2|
-Diana|F|5|
+Diana|F|5|mythological
 Dianna|F|1|
 Dilara|F|6|
 Dilber|F|2|
@@ -334,7 +334,7 @@ Emma|F|7|
 Emzar|M|3|
 Enrik|M|1|
 Enver|M|3|
-Era|F|5|
+Era|F|5|mythological
 Erik|M|6|
 Erna|F|1|
 Ernest|M|3|
@@ -383,7 +383,7 @@ Fidan|F|6|
 Fikret|M|4|
 Fira|F|5|
 Firuza|F|5|
-Flora|F|5|
+Flora|F|5|mythological
 Frida|F|1|
 Frunze|M|5|
 Fuad|M|8|
@@ -514,7 +514,7 @@ Hristofer|M|1|
 Huseyn|M|4|
 Husik|M|1|
 Hussein|M|2|
-Ia|F|7|
+Ia|F|7|mythological
 Ibrahim|M|2|
 Ida|F|4|
 Igbal|M|1|
@@ -523,7 +523,7 @@ Ilaha|F|4|
 Ilgar|M|7|
 Ilham|M|7|
 Ilhama|F|5|
-Ilia|M|7|
+Ilia|M|7|mythological
 Ilkin|M|6|
 Ilmar|M|1|
 Ilo|M|1|
@@ -539,12 +539,12 @@ Inga|F|7|
 Inna|F|7|
 Ioseb|M|7|
 Iosif|M|3|
-Ira|F|5|
+Ira|F|5|mythological
 Irada|F|7|
 Irakli|M|10|
 Irana|F|5|
 Iren|F|3|
-Irene|F|3|
+Irene|F|3|mythological
 Irina|F|9|
 Irine|F|5|
 Irma|F|7|
@@ -661,7 +661,7 @@ Kristine|F|6|
 Kukuri|M|1|
 Lada|F|5|
 Lado|M|4|
-Lala|F|8|
+Lala|F|8|mythological
 Lale|F|2|
 Lali|F|7|
 Laman|F|5|
@@ -669,7 +669,7 @@ Lamara|F|1|
 Lamiya|F|3|
 Lana|F|2|
 Larisa|F|7|
-Larissa|F|2|
+Larissa|F|2|mythological
 Lasha|M|8|
 Latifa|F|2|
 Laura|F|8|
@@ -726,8 +726,8 @@ Ludvik|M|1|
 Luisa|F|5|
 Luiza|F|4|
 Luka|M|3|
-Luna|F|1|
-Lusia|F|1|
+Luna|F|1|mythological
+Lusia|F|1|mythological
 Lusine|F|8|
 Lusya|F|1|
 Lyalya|F|1|
@@ -807,8 +807,8 @@ Mein|F|3|
 Melania|F|1|
 Melaniya|F|3|
 Melanya|F|3|
-Meline|F|2|
-Melis|F|1|
+Meline|F|2|mythological
+Melis|F|1|mythological
 Melkon|M|1|
 Mels|M|4|
 Merab|M|8|
@@ -885,7 +885,7 @@ Namig|M|6|
 Namik|M|6|
 Namiq|M|3|
 Namus|M|3|
-Nana|F|9|
+Nana|F|9|mythological
 Nani|F|1|
 Nanuli|F|5|
 Nara|F|4|
@@ -933,7 +933,7 @@ Nelya|F|2|
 Nergiz|F|3|
 Neriman|M|2|
 Nerses|M|5|
-Nestor|M|1|
+Nestor|M|1|mythological
 Neva|F|1|
 Nia|F|1|
 Nicat|M|4|
@@ -956,7 +956,7 @@ Niyamaddin|M|3|
 Niyazi|M|2|
 Nizami|M|5|
 Nodar|M|8|
-Nona|F|7|
+Nona|F|7|mythological
 Nonna|F|5|
 Nora|F|5|
 Norair|M|5|
@@ -1031,7 +1031,7 @@ Ramin|M|6|
 Ramina|F|3|
 Ramiz|M|6|
 Ramzi|M|5|
-Raphael|M|2|
+Raphael|M|2|mythological
 Rashad|M|7|
 Rashid|M|5|
 Rashida|F|1|
@@ -1064,7 +1064,7 @@ Robert|M|8|
 Rodric|M|1|
 Roin|M|4|
 Roland|M|5|
-Roma|M|3|
+Roma|M|3|mythological
 Romal|M|1|
 Roman|M|6|
 Romen|M|5|
@@ -1171,7 +1171,7 @@ Shota|M|7|
 Shushan|F|3|
 Silva|F|7|
 Sima|F|3|
-Simon|M|3|
+Simon|M|3|mythological
 Sirak|M|1|
 Siranoush|F|5|
 Siranush|F|5|
@@ -1188,7 +1188,7 @@ Sonia|F|2|
 Sonya|F|5|
 Sophio|F|7|
 Sopho|F|3|
-Soso|M|6|
+Soso|M|6|mythological
 Souren|M|1|
 Spartak|M|6|
 Stanislav|M|3|
@@ -1196,7 +1196,7 @@ Stas|M|2|
 Stella|F|3|
 Stepan|M|7|
 Suad|F|3|
-Suada|F|1|
+Suada|F|1|mythological
 Sudaba|F|3|
 Suliko|M|3|
 Sultan|M|2|
@@ -1242,7 +1242,7 @@ Teona|F|7|
 Tereza|F|3|
 Tessa|F|1|
 Teymur|M|6|
-Thea|F|1|
+Thea|F|1|mythological
 Tigran|M|8|
 Timka|F|1|
 Timur|M|5|
@@ -1258,7 +1258,7 @@ Toros|M|3|
 Tovmas|M|3|
 Tsolak|M|3|
 Tural|M|6|
-Turan|M|6|
+Turan|M|6|mythological
 Ucha|M|4|
 Ulfat|F|3|
 Ulvi|M|5|
@@ -1317,9 +1317,9 @@ Venera|F|5|
 Vera|F|3|
 Verjine|F|5|
 Veronika|F|5|
-Vesta|F|1|
+Vesta|F|1|mythological
 Victor|M|5|
-Victoria|F|5|
+Victoria|F|5|mythological
 Vidadi|M|4|
 Vigen|M|6|
 Vika|F|2|

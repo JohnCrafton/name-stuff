@@ -102,7 +102,7 @@ Cho|U|5|
 Choi|U|3|
 Chol|M?|5|
 Chol+Soon|F|3|
-Chon|U|5|
+Chon|U|5|mythological
 Chong|U|9|
 Chong+Han|M|1|
 Chong+Ho|M|3|
@@ -384,7 +384,7 @@ Hyo|U|7|
 Hyo+Jin|F|2|
 Hyo+Jung|F|3|
 Hyok|U|2|
-Hyon|M?|7|
+Hyon|M?|7|mythological
 Hyon+Il|M|2|
 Hyon+Ok|F|3|
 Hyon+Suk|F|3|
@@ -780,7 +780,7 @@ Lee|U|5|
 Li|U|1|
 Lim|U|4|
 Lyun|U|3|
-Ma|U|1|
+Ma|U|1|mythological
 Maeng|U|2|
 Mal|U|3|
 Man|U|8|
@@ -814,7 +814,7 @@ Mi+Yong|F|2|
 Mi+Young|F|5|
 Mi+Yun|F|2|
 Mik|M|1|
-Min|M?|10|
+Min|M?|10|mythological
 Min+A|F|3|
 Min+Chul|M|3|
 Min+Chule|M|3|
@@ -839,7 +839,7 @@ Mog+Il|M|2|
 Mok|U|3|
 Mon|U|1|
 Mong|U|1|
-Moo|U|5|
+Moo|U|5|mythological
 Mook|U|2|
 Moon|U|7|
 Moon+Ho|M|2|
@@ -904,14 +904,14 @@ One|F|3|
 Ook+Soo|M|1|
 Pae|U|2|
 Pal|U|1|
-Pan|U|3|
+Pan|U|3|mythological
 Pan+Seok|M|2|
 Pil|U|5|
 Pok|U|5|
 Pok+Ja|F|2|
 Pyo|U|2|
 Pyung|U|4|
-Ra|U|4|
+Ra|U|4|mythological
 Rae|U|5|
 Rai+Jung|M?|2|
 Rak|U|4|
@@ -1008,7 +1008,7 @@ Sie|U|2|
 Sik|M?|9|
 Sil|U|6|
 Sim|U|4|
-Sin|U|5|
+Sin|U|5|mythological
 Sin+Ja|F|2|
 Sin+Young|F|2|
 So|U|8|
@@ -1025,7 +1025,7 @@ So+Youn|F|2|
 So+Young|F|6|
 So+Yun|F|3|
 Sok|U|6|
-Sol|U|2|
+Sol|U|2|mythological
 Son|M?|6|
 Son+Kyung|F|3|
 Song|U|8|

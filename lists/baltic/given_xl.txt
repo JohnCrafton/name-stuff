@@ -63,7 +63,7 @@ Aina|F|7|7
 Ainar|M|4|4
 Ainars|M|4|4
 Ainis|M|3|3
-Aino|F|6|6
+Aino|F|6|mythological
 Ainārs|M|6|6
 Aira|F|4|4
 Aire|F|4|4
@@ -114,7 +114,7 @@ Aleksiejus|M|1|1
 Alena|F|3|3
 Alevtīna|F|2|2
 Alexander|M|3|3
-Alexandra|F|1|1
+Alexandra|F|1|mythological
 Alfons|M|4|4
 Alfonsa|F|2|2
 Alfonsas|M|8|8
@@ -193,7 +193,7 @@ Andrievs|M|1|1
 Andrijs|M|1|1
 Andris|M|10|10
 Andrius|M|6|6
-Andro|M|1|1
+Andro|M|1|mythological
 Andrus|M|7|7
 Andu|M|2|2
 Andzela|F|2|2
@@ -214,7 +214,7 @@ Anika|F|2|2
 Anita|F|8|8
 Anjuta|F|1|1
 Ann|F|4|4
-Anna|F|8|8
+Anna|F|8|mythological
 Anne|F|8|8
 Anne-Ly|F|4|4
 Annela|F|2|2
@@ -232,7 +232,7 @@ Antanas|M|10|10
 Antanina|F|7|7
 Anti|M|6|6
 Anto|M|1|1
-Anton|M|4|4
+Anton|M|4|mythological
 Antoni|M|1|1
 Antonija|F|4|4
 Antonina|F|2|2
@@ -250,14 +250,14 @@ Anželika|F|2|2
 Apolinaras|M|3|3
 Apolonija|F|5|5
 Ar<e°>jas|M|1|1
-Aras|M|1|1
+Aras|M|1|mythological
 Ardi|M|3|3
 Ardis|F|1|1
 Ardo|M|2|2
 Are|M|4|4
 Arenijus|M|1|1
-Ares|M|1|1
-Areta|F|1|1
+Ares|M|1|mythological
+Areta|F|1|mythological
 Argirdas|M|1|1
 Argo|M|6|6
 Aricijana|F|1|1
@@ -278,7 +278,7 @@ Arminas|M|1|1
 Armo|M|1|1
 Armīns|M|2|2
 Arnas|M|1|1
-Arne|M|4|4
+Arne|M|4|mythological
 Arnis|M|7|7
 Arno|M|4|4
 Arnold|M|4|4
@@ -465,7 +465,7 @@ Denis|M|2|2
 Deniss|M|5|5
 Diaana|F|1|1
 Dialita|F|1|1
-Diana|F|6|6
+Diana|F|6|mythological
 Didzis|M|5|5
 Digna|F|1|1
 Dima|F|2|2
@@ -487,7 +487,7 @@ Dominikas|M|2|2
 Domininkas|M|2|2
 Dominykas|M|1|1
 Donatas|M|5|5
-Doris|F|2|2
+Doris|F|2|mythological
 Druvis|M|3|3
 Drąsutis|M|1|1
 Dubava|F|1|1
@@ -826,7 +826,7 @@ Helari|M|1|1
 Heldur|M|3|3
 Hele|F|3|3
 Helen|F|6|6
-Helena|F|5|5
+Helena|F|5|mythological
 Heleri|F|3|3
 Helgi|M|5|5
 Heli|F|7|7
@@ -838,7 +838,7 @@ Heljo|F|3|3
 Helju|F|5|5
 Hellari|M|1|1
 Hellat|M|1|1
-Helle|F|6|6
+Helle|F|6|mythological
 Helma|F|1|1
 Helmut|M|2|2
 Helmuts|M|3|3
@@ -954,12 +954,12 @@ Ints|M|6|6
 Ināra|F|8|8
 Inārs|M|2|2
 Ipolitas|M|2|2
-Ira|F|4|4
+Ira|F|4|mythological
 Iraida|F|1|1
 Ireen|F|1|1
 Iren|F|1|1
 Irena|F|9|9
-Irene|F|1|1
+Irene|F|1|mythological
 Irina|F|8|8
 Irisa|F|4|4
 Irja|F|1|1
@@ -1207,7 +1207,7 @@ Keit|F|2|2
 Keiu|F|1|1
 Kelli|F|2|2
 Kelly|F|4|4
-Kerdo|M|1|1
+Kerdo|M|1|mythological
 Kerle|F|2|2
 Kerli|F|5|5
 Kerly|F|2|2
@@ -1242,7 +1242,7 @@ Kost<e°>|F|1|1
 Kostas|M|5|5
 Kotrina|F|1|1
 Kotryna|F|3|3
-Krete|F|1|1
+Krete|F|1|mythological
 Krista|F|6|6
 Kristaps|M|6|6
 Kristel|F|6|6
@@ -1311,7 +1311,7 @@ Laivi|F|1|1
 Laktut<e°>|F|1|1
 Lalita|F|1|1
 Larisa|F|5|5
-Larissa|F|6|6
+Larissa|F|6|mythological
 Laska|F|1|1
 Lauma|F|5|5
 Laur|M|1|1
@@ -1488,7 +1488,7 @@ Maili|F|2|2
 Mailis|F|1|1
 Maimo|F|2|2
 Maimu|F|4|4
-Maira|F|4|4
+Maira|F|4|mythological
 Maire|F|6|6
 Mairi|F|3|3
 Mairis|M|3|3
@@ -1510,7 +1510,7 @@ Mar<e°>|F|3|3
 Marcel<e°>|F|3|3
 Marcijona|F|2|2
 Marcijonas|M|1|1
-Mare|F|7|7
+Mare|F|7|mythological
 Marek|M|7|7
 Mareks|M|5|5
 Marelle|F|2|2
@@ -1614,7 +1614,7 @@ Merje|F|4|4
 Merle|F|7|7
 Merli|F|3|3
 Merlin|F|1|1
-Meta|F|1|1
+Meta|F|1|mythological
 Mečislavas|M|1|1
 Mečislovas|M|5|5
 Mečys|M|1|1
@@ -1661,7 +1661,7 @@ Monika|F|6|6
 Monta|F|2|2
 Moonika|F|4|4
 Morkus|M|1|1
-Morta|F|3|3
+Morta|F|3|mythological
 Motiejus|M|3|3
 Mudīte|F|4|4
 Mykolas|M|6|6
@@ -1692,7 +1692,7 @@ Natālija|F|7|7
 Nauris|M|4|4
 Neeme|M|3|3
 Nel<e°>|F|3|3
-Nele|F|2|2
+Nele|F|2|mythological
 Nelli|F|2|2
 Nellija|F|4|4
 Neonila|F|1|1
@@ -1929,7 +1929,7 @@ Rokas|M|1|1
 Roland|M|3|3
 Rolandas|M|6|6
 Rolands|M|6|6
-Roma|F|4|4
+Roma|F|4|mythological
 Romaldas|M|2|2
 Roman|M|5|5
 Romanas|M|4|4
@@ -2138,7 +2138,7 @@ Teofilis|M|2|2
 Teres<e°>|F|6|6
 Terje|F|6|6
 Terēzija|F|2|2
-Thea|F|2|2
+Thea|F|2|mythological
 Tiia|F|7|7
 Tiido|M|1|1
 Tiina|F|8|8
@@ -2351,7 +2351,7 @@ Virve|F|5|5
 Vismantas|M|1|1
 Visvaldas|M|1|1
 Visvaldis|M|5|5
-Vita|F|6|6
+Vita|F|6|mythological
 Vitali|M|5|5
 Vitalija|F|5|5
 Vitalijs|M|2|2

@@ -15,7 +15,7 @@ Jin|F|10|10
 Jong|U|10|10
 Kyung|F?|10|10
 Mi|U|10|10
-Min|M?|10|10
+Min|M?|10|mythological
 Ok|F?|10|10
 Sang|U|10|10
 Soo|U|10|10
@@ -91,7 +91,7 @@ Hea|U|7|7
 Hi|U|7|7
 Hui|U|7|7
 Hyo|U|7|7
-Hyon|M?|7|7
+Hyon|M?|7|mythological
 Jee|U|7|7
 Joong|U|7|7
 Joung|U|7|7

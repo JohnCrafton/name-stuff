@@ -21,7 +21,7 @@ Petrit|M|8|8
 Valentina|F|8|8
 Violeta|F|8|8
 Vjollca|F|8|8
-Agron|M|7|7
+Agron|M|7|mythological
 Aida|F|7|7
 Albert|M|7|7
 Alfred|M|7|7
@@ -39,7 +39,7 @@ Blerina|F|7|7
 Brunilda|F|7|7
 Bujar|M|7|7
 Dhurata|F|7|7
-Diana|F|7|7
+Diana|F|7|mythological
 Donika|F|7|7
 Dorina|F|7|7
 Dritan|M|7|7
@@ -54,7 +54,7 @@ Ervin|M|7|7
 Etleva|F|7|7
 Fatbardha|F|7|7
 Fatmira|F|7|7
-Flora|F|7|7
+Flora|F|7|mythological
 Gjergji|M|7|7
 Hajri|F|7|7
 Irena|F|7|7
@@ -262,12 +262,12 @@ Hamdi|M|5|5
 Hekuran|M|5|5
 Hysni|M|5|5
 Idriz|M|5|5
-Ilia|M|5|5
+Ilia|M|5|mythological
 Ilira|F|5|5
 Ilirjana|F|5|5
 Ilmi|M|5|5
 Ina|F|5|5
-Iris|F|5|5
+Iris|F|5|mythological
 Irma|F|5|5
 Islam|M|5|5
 Ismet|M|5|5
@@ -301,7 +301,7 @@ Mark|M|5|5
 Marsela|F|5|5
 Marsida|F|5|5
 Meliha|F|5|5
-Mentor|M|5|5
+Mentor|M|5|mythological
 Meri|F|5|5
 Migena|F|5|5
 Mihal|M|5|5
@@ -384,7 +384,7 @@ Alket|M|4|4
 Alush|M|4|4
 Amarildo|M|4|4
 Anjeza|F|4|4
-Anton|M|4|4
+Anton|M|4|mythological
 Apostol|M|4|4
 Aqif|M|4|4
 Arbër|M|4|4
@@ -438,7 +438,7 @@ Eralda|F|4|4
 Eranda|F|4|4
 Ergys|M|4|4
 Erinda|F|4|4
-Eris|M|4|4
+Eris|M|4|mythological
 Eriselda|F|4|4
 Erjola|F|4|4
 Erjona|F|4|4
@@ -477,7 +477,7 @@ Hajdar|M|4|4
 Hajredin|M|4|4
 Halim|M|4|4
 Hamit|M|4|4
-Hektor|M|4|4
+Hektor|M|4|mythological
 Helidon|M|4|4
 Hilmi|M|4|4
 Hiqmet|M|4|4

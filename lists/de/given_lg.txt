@@ -6,7 +6,7 @@ Johann|M|10|10
 Josef|M|10|10
 Maria|F|10|10
 Andreas|M|9|9
-Anna|F|9|9
+Anna|F|9|mythological
 Christine|F|9|9
 Elisabeth|F|9|9
 Gerhard|M|9|9
@@ -29,7 +29,7 @@ Andrea|U|8|8
 André|M|8|8
 Angelika|F|8|8
 Anja|F|8|8
-Anton|M|8|8
+Anton|M|8|mythological
 Barbara|F|8|8
 Bernd|M|8|8
 Birgit|F|8|8
@@ -119,7 +119,7 @@ Cornelia|F|7|7
 Dagmar|F|7|7
 Daniela|F|7|7
 Dirk|M|7|7
-Doris|F|7|7
+Doris|F|7|mythological
 Edith|F|7|7
 Erna|F|7|7
 Erwin|M|7|7
@@ -216,7 +216,7 @@ Adelheid|F|6|6
 Adolf|M|6|6
 Adrian|M|6|6
 Agnes|F|6|6
-Alexandra|F|6|6
+Alexandra|F|6|mythological
 Aloisia|F|6|6
 Anneliese|F|6|6
 Antje|F|6|6
@@ -242,7 +242,7 @@ Corinne|F|6|6
 David|M|6|6
 Denise|F|6|6
 Detlef|M|6|6
-Diana|F|6|6
+Diana|F|6|mythological
 Dietmar|M|6|6
 Dominique|U|6|6
 Dora|F|6|6
@@ -288,8 +288,8 @@ Ilona|F|6|6
 Ina|F|6|6
 Ines|F|6|6
 Ingo|M|6|6
-Irene|F|6|6
-Iris|F|6|6
+Irene|F|6|mythological
+Iris|F|6|mythological
 Irène|F|6|6
 Isabella|F|6|6
 Jacques|M|6|6
@@ -353,14 +353,14 @@ Rüdiger|M|6|6
 Sarah|F|6|6
 Sebastian|M|6|6
 Sieglinde|F|6|6
-Simon|M|6|6
+Simon|M|6|mythological
 Steffen|M|6|6
 Stephan|M|6|6
 Stephanie|F|6|6
 Sven|M|6|6
-Thea|F|6|6
+Thea|F|6|mythological
 Theodor|M|6|6
-Theres|F|6|6
+Theres|F|6|mythological
 Thorsten|M|6|6
 Tobias|M|6|6
 Torsten|M|6|6
@@ -458,7 +458,7 @@ Heidemarie|F|5|5
 Heiner|M|5|5
 Heino|M|5|5
 Helen|F|5|5
-Helena|F|5|5
+Helena|F|5|mythological
 Helmuth|M|5|5
 Henning|M|5|5
 Henri|M|5|5
@@ -580,7 +580,7 @@ Susi|F|5|5
 Suzanne|F|5|5
 Sylvie|F|5|5
 Theda|F|5|5
-Theo|M|5|5
+Theo|M|5|mythological
 Thierry|M|5|5
 Tim|M|5|5
 Timo|M|5|5
@@ -623,7 +623,7 @@ Antoine|M|4|4
 Antonella|F|4|4
 Ariane|F|4|4
 Arlette|F|4|4
-Arne|M|4|4
+Arne|M|4|mythological
 Artur|M|4|4
 Aurelia|F|4|4
 Benjamin|M|4|4
@@ -729,7 +729,7 @@ Henriette|F|4|4
 Henry|M|4|4
 Heribert|M|4|4
 Herma|F|4|4
-Hero|M|4|4
+Hero|M|4|mythological
 Hilmar|M|4|4
 Hiltrud|F|4|4
 Hinderk|M|4|4
@@ -775,8 +775,8 @@ Kristin|F|4|4
 Kristina|F|4|4
 Käte|F|4|4
 Käthy|F|4|4
-Larissa|F|4|4
-Laure|F|4|4
+Larissa|F|4|mythological
+Laure|F|4|mythological
 Lea|F|4|4
 Leonhard|M|4|4
 Liane|F|4|4
@@ -811,7 +811,7 @@ Mauro|M|4|4
 Mechthild|F|4|4
 Meinhard|M|4|4
 Meinrad|M|4|4
-Meta|F|4|4
+Meta|F|4|mythological
 Micheline|F|4|4
 Michelle|F|4|4
 Mireille|F|4|4
@@ -838,7 +838,7 @@ Pierrette|F|4|4
 Pietro|M|4|4
 Prisca|F|4|4
 Rachel|F|4|4
-Raphael|M|4|4
+Raphael|M|4|mythological
 Raphaël|M|4|4
 Rebecca|F|4|4
 Remmer|M|4|4
@@ -898,7 +898,7 @@ Albine|F|3|3
 Alessandra|F|3|3
 Alfredo|M|3|3
 Alida|F|3|3
-Alke|F?|3|3
+Alke|F?|3|mythological
 Alma|F|3|3
 Alwine|F|3|3
 Amanda|F|3|3
@@ -1014,13 +1014,13 @@ Falk|M|3|3
 Falko|M|3|3
 Fanny|F|3|3
 Fausto|M|3|3
-Felicitas|F|3|3
+Felicitas|F|3|mythological
 Fenna|F|3|3
 Fernanda|F|3|3
 Filippo|M|3|3
 Flavia|F|3|3
 Flavio|M|3|3
-Flora|F|3|3
+Flora|F|3|mythological
 Fokko|M|3|3
 Foline|F|3|3
 Fraukea|F|3|3
@@ -1114,8 +1114,8 @@ Kim|F?|3|3
 Kirstin|F|3|3
 Klemens|M|3|3
 Konstantin|M|3|3
-Laetitia|F|3|3
-Lara|F|3|3
+Laetitia|F|3|mythological
+Lara|F|3|mythological
 Lena|F|3|3
 Leonardo|M|3|3
 Leonie|F|3|3
@@ -1249,9 +1249,9 @@ Urban|M|3|3
 Ursi|F|3|3
 Ursina|F|3|3
 Uschi|F|3|3
-Valeria|F|3|3
+Valeria|F|3|mythological
 Valerie|F|3|3
-Victoria|F|3|3
+Victoria|F|3|mythological
 Violette|F|3|3
 Virginie|F|3|3
 Vito|M|3|3
@@ -1298,7 +1298,7 @@ Albertje|F|2|2
 Alerich|M|2|2
 Alessia|F|2|2
 Alexia|F|2|2
-Alexis|M|2|2
+Alexis|M|2|mythological
 Alfio|M|2|2
 Alfonso|M|2|2
 Alfried|M|2|2
@@ -1365,7 +1365,7 @@ Belinda|F|2|2
 Bendina|F|2|2
 Benito|M|2|2
 Berendine|F|2|2
-Berenike|F|2|2
+Berenike|F|2|mythological
 Berit|F|2|2
 Berna|F|2|2
 Berndt|M|2|2
@@ -1393,7 +1393,7 @@ Burckhard|M|2|2
 Burgi|F|2|2
 Burkhardt|M|2|2
 Börchert|M|2|2
-Camilla|F|2|2
+Camilla|F|2|mythological
 Catia|F|2|2
 Catrin|F|2|2
 Cay|M?|2|2
@@ -1575,7 +1575,7 @@ Giuliana|F|2|2
 Giuliano|M|2|2
 Giulio|M|2|2
 Gladys|F|2|2
-Gloria|F|2|2
+Gloria|F|2|mythological
 Gonda|F|2|2
 Gotthard|M|2|2
 Gregory|M|2|2
@@ -1616,7 +1616,7 @@ Heinke|F?|2|2
 Heio|M|2|2
 Helgard|F|2|2
 Helke|F?|2|2
-Hellen|F|2|2
+Hellen|F|2|mythological
 Hellmut|M|2|2
 Hellmuth|M|2|2
 Helmer|M|2|2
@@ -1662,7 +1662,7 @@ Ingmar|M|2|2
 Inse|F|2|2
 Inès|F|2|2
 Ippe|U|2|2
-Ira|F|2|2
+Ira|F|2|mythological
 Irena|F|2|2
 Irmhild|F|2|2
 Irmtraut|F|2|2
@@ -1709,7 +1709,7 @@ Jörk|M|2|2
 Jürendine|F|2|2
 Jürn|M|2|2
 Jürren|M|2|2
-Kampe|M|2|2
+Kampe|M|2|mythological
 Karolina|F|2|2
 Kasper|M|2|2
 Katarina|F|2|2
@@ -1807,7 +1807,7 @@ Meinhardt|M|2|2
 Meint|M|2|2
 Melchior|M|2|2
 Melf|M|2|2
-Mena|F|2|2
+Mena|F|2|mythological
 Menhard|M|2|2
 Menna|F|2|2
 Menne|M|2|2
@@ -1824,7 +1824,7 @@ Moreno|M|2|2
 Nadège|F|2|2
 Nane|M|2|2
 Nanne|M?|2|2
-Nele|F?|2|2
+Nele|F?|2|mythological
 Niclas|M|2|2
 Nicoletta|F|2|2
 Niko|M|2|2
@@ -1847,7 +1847,7 @@ Ortwin|M|2|2
 Ottilia|F|2|2
 Paule|F|2|2
 Paulina|F|2|2
-Peta|F|2|2
+Peta|F|2|mythological
 Petje|F?|2|2
 Piera|F|2|2
 Pierina|F|2|2

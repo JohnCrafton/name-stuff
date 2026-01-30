@@ -61,7 +61,7 @@ Alda|F|5|5
 Aldina|F|4|4
 Aldino|M|1|1
 Aldónio|M|1|1
-Alexandra|F|6|6
+Alexandra|F|6|mythological
 Alexandre|M|6|6
 Alexandrina|F|2|2
 Alexandrino|M|1|1
@@ -323,7 +323,7 @@ Deolindo|M|1|1
 Desidério|M|1|1
 Diamantina|F|1|1
 Diamantino|M|4|4
-Diana|F|3|3
+Diana|F|3|mythological
 Dimitilde|F|1|1
 Dina|F|3|3
 Dinis|M|2|2
@@ -453,7 +453,7 @@ Filomena|F|5|5
 Filomeno|M|1|1
 Firmino|M|3|3
 Firmo|M|2|2
-Flora|F|2|2
+Flora|F|2|mythological
 Florbela|F|1|1
 Florentino|M|2|2
 Floriana|F|1|1
@@ -525,7 +525,7 @@ Gumercindo|M|1|1
 Gustavo|M|4|4
 Heitor|M|3|3
 Helder|M|5|5
-Helena|F|8|8
+Helena|F|8|mythological
 Heleno|M|2|2
 Helio|M|2|2
 Heliodoro|M|2|2
@@ -537,7 +537,7 @@ Herberto|M|1|1
 Herculano|M|3|3
 Hermenegilda|F|1|1
 Hermenegildo|M|2|2
-Hermes|M|1|1
+Hermes|M|1|mythological
 Hermínia|F|4|4
 Hermínio|M|4|4
 Hernanda|F|1|1
@@ -583,7 +583,7 @@ Inácio|M|4|4
 Inézia|F|1|1
 Inês|F|5|5
 Iracema|F|1|1
-Irene|F|5|5
+Irene|F|5|mythological
 Iria|F|2|2
 Irlinda|F|1|1
 Isa|F|1|1
@@ -646,7 +646,7 @@ Juvenal|M|2|2
 Júlia|F|6|6
 Júlio|M|6|6
 Júnia|F|1|1
-Lara|F|1|1
+Lara|F|1|mythological
 Laura|F|4|4
 Laureano|M|3|3
 Laurentina|F|1|1
@@ -657,7 +657,7 @@ Lavínia|F|1|1
 Leal|M|1|1
 Leandra|F|1|1
 Leandro|M|3|3
-Leda|F|1|1
+Leda|F|1|mythological
 Leliete|F|1|1
 Lenina|F|1|1
 Leocádia|F|1|1
@@ -977,7 +977,7 @@ Tibério|M|2|2
 Tibúrcio|M|1|1
 Tilde|F|1|1
 Timóteo|M|3|3
-Tito|M|4|4
+Tito|M|4|mythological
 Tolentino|M|1|1
 Tomás|M|5|5
 Torcato|M|1|1

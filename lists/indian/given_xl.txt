@@ -794,7 +794,7 @@ Pasupathy|M?|3|3
 Pathmanathan|M|4|4
 Pathmini|M|2|2
 Pawan|M?|4|4
-Phera|U|1|1
+Phera|U|1|mythological
 Pirabakaran|M|2|2
 Po|U|1|1
 Ponnaiah|M|3|3
@@ -957,7 +957,7 @@ Robin|U|3|3
 Rohan|M|1|1
 Rohini|F|3|3
 Roli|F|1|1
-Roma|F|3|3
+Roma|F|3|mythological
 Romesh|M|3|3
 Rosa|F|2|2
 Roshan|M|3|3
@@ -1321,7 +1321,7 @@ Thambiah|M|5|5
 Thambimuthu|M|2|2
 Thambipillai|M|3|3
 Thambirajah|M|4|4
-Thambo|M|2|2
+Thambo|M|2|mythological
 Thambu|M|4|4
 Thamotharampillai|M|3|3
 Thampiah|M|2|2
@@ -1337,7 +1337,7 @@ Thavarasa|M|2|2
 Thavaseelan|M|2|2
 Thayalan|M|3|3
 Thayaparan|M|4|4
-Thea|F|1|1
+Thea|F|1|mythological
 Thevarajah|M|4|4
 Theventhira|F|1|1
 Theventira|F|1|1

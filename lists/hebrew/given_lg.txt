@@ -31,7 +31,7 @@ Alexander|M|7|7
 Alon|M|7|7
 Amir|M|7|7
 Anat|F|7|7
-Anna|F|7|7
+Anna|F|7|mythological
 Ariel|M|7|7
 Aryeh|M|7|7
 Assaf|M|7|7
@@ -102,7 +102,7 @@ Bracha|F|6|6
 Channa|F|6|6
 Dana|F|6|6
 Devora|F|6|6
-Diana|F|6|6
+Diana|F|6|mythological
 Dorit|F|6|6
 Doron|M|6|6
 Dror|M|6|6
@@ -129,7 +129,7 @@ Idit|F|6|6
 Ilya|M|6|6
 Inbal|F|6|6
 Irina|F|6|6
-Iris|F|6|6
+Iris|F|6|mythological
 Irit|F|6|6
 Israel|M|6|6
 Itai|M|6|6
@@ -278,7 +278,7 @@ Peter|M|5|5
 Raanan|M|5|5
 Rafi|M|5|5
 Raizel|F|5|5
-Raphael|M|5|5
+Raphael|M|5|mythological
 Refoel|M|5|5
 Reut|F|5|5
 Rony|M|5|5
@@ -295,7 +295,7 @@ Tatiana|F|5|5
 Tatyana|F|5|5
 Tikva|F|5|5
 Tuvia|M|5|5
-Uriel|M|5|5
+Uriel|M|5|mythological
 Victor|M|5|5
 Yafa|F|5|5
 Yehudis|F|5|5
@@ -347,7 +347,7 @@ Gedalia|M|4|4
 Gita|F|4|4
 Hadassa|F|4|4
 Hagai|M|4|4
-Helena|F|4|4
+Helena|F|4|mythological
 Hillel|M|4|4
 Iftach|M|4|4
 Ishai|M|4|4

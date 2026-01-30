@@ -34,9 +34,9 @@ Akitoshi|M|3|
 Akiyo|F|2|
 Akiyoshi|M|1|
 Ami|F|2|
-Anna|F|2|
+Anna|F|2|mythological
 Anri|F|3|
-Ao|U|1|
+Ao|U|1|mythological
 Aoi|F|4|
 Aoko|F|1|
 Arata|F?|2|
@@ -612,7 +612,7 @@ Megumi|F|8|
 Megumu|M|1|
 Mei|F|1|
 Meiko|F|3|
-Mena|F|1|
+Mena|F|1|mythological
 Michiaki|M|3|
 Michie|F|3|
 Michiharu|M|1|
@@ -727,7 +727,7 @@ Naho|F|4|
 Nahoko|F|5|
 Nami|F|5|
 Namiko|F|2|
-Nana|F|5|
+Nana|F|5|mythological
 Nanae|F|3|
 Nanako|F|3|
 Nanami|F|1|

@@ -9,7 +9,7 @@ Jian|U|9|9
 Jing|U|9|9
 Jun|U|9|9
 Lei|U|9|9
-Min|U|9|9
+Min|U|9|mythological
 Ping|U|9|9
 Ying|U|9|9
 Bin|U|8|8

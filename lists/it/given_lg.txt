@@ -3,7 +3,7 @@
 #
 Joseph|M|11|11
 Maria|F|11|11
-Anna|F|10|10
+Anna|F|10|mythological
 Anthony|M|10|10
 Antonio|M|10|10
 Giuseppe|M|10|10
@@ -74,7 +74,7 @@ Claudio|M|7|7
 Concetta|F|7|7
 Cristina|F|7|7
 Daniela|F|7|7
-Doris|F|7|7
+Doris|F|7|mythological
 Elena|F|7|7
 Elizabeth|F|7|7
 Emmanuel|M|7|7
@@ -241,7 +241,7 @@ Sandra|F|6|6
 Sebastiano|M|6|6
 Silvano|M|6|6
 Silvio|M|6|6
-Simon|M|6|6
+Simon|M|6|mythological
 Stefania|F|6|6
 Stella|F|6|6
 Tiziana|F|6|6
@@ -249,7 +249,7 @@ Tommaso|M|6|6
 Ugo|M|6|6
 Umberto|M|6|6
 Valerie|F|6|6
-Victoria|F|6|6
+Victoria|F|6|mythological
 Vincenza|F|6|6
 Vito|M|6|6
 Vittoria|F|6|6
@@ -257,7 +257,7 @@ Walter|M|6|6
 Agata|F|5|5
 Agnese|F|5|5
 Alba|F|5|5
-Alexandra|F|5|5
+Alexandra|F|5|mythological
 Alfio|M|5|5
 Amalia|F|5|5
 Amanda|F|5|5
@@ -267,7 +267,7 @@ Angelina|F|5|5
 Annalisa|F|5|5
 Annunziata|F|5|5
 Antoine|M|5|5
-Anton|M|5|5
+Anton|M|5|mythological
 Antonina|F|5|5
 Arthur|M|5|5
 Arturo|M|5|5
@@ -318,7 +318,7 @@ Fernando|M|5|5
 Fiona|F|5|5
 Fiorella|F|5|5
 Flavio|M|5|5
-Flora|F|5|5
+Flora|F|5|mythological
 Fulvio|M|5|5
 Gaetana|F|5|5
 Gemma|F|5|5
@@ -326,7 +326,7 @@ Gerardo|M|5|5
 Gianluca|M|5|5
 Gianna|F|5|5
 Gina|F|5|5
-Gloria|F|5|5
+Gloria|F|5|mythological
 Godfrey|M|5|5
 Godwin|M|5|5
 Graziano|M|5|5
@@ -335,7 +335,7 @@ Ian|M|5|5
 Ignazio|M|5|5
 Immacolata|F|5|5
 Ines|F|5|5
-Irene|F|5|5
+Irene|F|5|mythological
 Irma|F|5|5
 Isabella|F|5|5
 Italo|M|5|5
@@ -382,7 +382,7 @@ Ornella|F|5|5
 Osvaldo|M|5|5
 Pasqualina|F|5|5
 Pauline|F|5|5
-Pier|M|5|5
+Pier|M|5|mythological
 Piera|F|5|5
 Pierino|M|5|5
 Pierluigi|M|5|5
@@ -417,7 +417,7 @@ Tiziano|M|5|5
 Tony|M|5|5
 Valentina|F|5|5
 Valentino|M|5|5
-Valeria|F|5|5
+Valeria|F|5|mythological
 Valerio|M|5|5
 Vanessa|F|5|5
 Virginia|F|5|5
@@ -459,7 +459,7 @@ Benedetta|F|4|4
 Benedetto|M|4|4
 Bernard|M|4|4
 Bernardo|M|4|4
-Camilla|F|4|4
+Camilla|F|4|mythological
 Camillo|M|4|4
 Carmelina|F|4|4
 Catia|F|4|4
@@ -477,7 +477,7 @@ Damiano|M|4|4
 Daniel|M|4|4
 Darren|M|4|4
 Delia|F|4|4
-Diana|F|4|4
+Diana|F|4|mythological
 Dolores|F|4|4
 Donata|F|4|4
 Dora|F|4|4
@@ -529,9 +529,9 @@ Herbert|M|4|4
 Horace|M|4|4
 Ilaria|F|4|4
 Ingrid|F|4|4
-Iole|F|4|4
-Iris|F|4|4
-Italia|F|4|4
+Iole|F|4|mythological
+Iris|F|4|mythological
+Italia|F|4|mythological
 Jeffrey|M|4|4
 Jennifer|F|4|4
 Jimmy|M|4|4
@@ -544,7 +544,7 @@ Katia|F|4|4
 Keith|M|4|4
 Kurt|M|4|4
 Lea|F|4|4
-Leda|F|4|4
+Leda|F|4|mythological
 Leli|M|4|4
 Lia|F|4|4
 Licia|F|4|4
@@ -639,7 +639,7 @@ Vilma|F|4|4
 Vince|M|4|4
 Vincenzina|F|4|4
 Virgilio|M|4|4
-Vita|F|4|4
+Vita|F|4|mythological
 Vittorina|F|4|4
 Viviana|F|4|4
 Wanda|F|4|4
@@ -734,7 +734,7 @@ Ermes|M|3|3
 Ernest|M|3|3
 Ernestina|F|3|3
 Esterina|F|3|3
-Evan|M|3|3
+Evan|M|3|mythological
 Fabiana|F|3|3
 Fabiola|F|3|3
 Fabrizia|F|3|3
@@ -792,7 +792,7 @@ Joyce|F|3|3
 Julie|F|3|3
 Kris|M?|3|3
 Lamberto|M|3|3
-Lara|F|3|3
+Lara|F|3|mythological
 Lauretta|F|3|3
 Leandro|M|3|3
 Leo|M|3|3
@@ -801,7 +801,7 @@ Leonarda|F|3|3
 Leone|M|3|3
 Leopoldo|M|3|3
 Liana|F|3|3
-Libera|F|3|3
+Libera|F|3|mythological
 Libero|M|3|3
 Lilia|F|3|3
 Lisa|F|3|3
@@ -851,7 +851,7 @@ Pietrina|F|3|3
 Quinto|M|3|3
 Raffaello|M|3|3
 Ralph|M|3|3
-Raphael|M|3|3
+Raphael|M|3|mythological
 Remigio|M|3|3
 Rennie|M|3|3
 Reno|M|3|3
@@ -887,7 +887,7 @@ Sunny|M|3|3
 Tamara|F|3|3
 Tarcisio|M|3|3
 Teodoro|M|3|3
-Tito|M|3|3
+Tito|M|3|mythological
 Tosca|F|3|3
 Twanny|M|3|3
 Ubaldo|M|3|3
@@ -1004,7 +1004,7 @@ Erasmo|M|2|2
 Erica|F|2|2
 Erina|F|2|2
 Ermenegilda|F|2|2
-Eros|M|2|2
+Eros|M|2|mythological
 Eufemia|F|2|2
 Evaristo|M|2|2
 Fabiano|M|2|2
@@ -1020,7 +1020,7 @@ Flaviano|M|2|2
 Floriano|M|2|2
 Florinda|F|2|2
 Florindo|M|2|2
-Fortuna|F|2|2
+Fortuna|F|2|mythological
 Fosca|F|2|2
 Franceschina|F|2|2
 Franky|M|2|2
@@ -1067,5 +1067,5 @@ Heather|F|2|2
 Henri|M|2|2
 Ilda|F|2|2
 Ilde|F|2|2
-Ilia|F|2|2
+Ilia|F|2|mythological
 Ilio|M|2|2

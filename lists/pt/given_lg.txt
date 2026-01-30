@@ -20,7 +20,7 @@ Augusto|M|8|8
 Conceição|F|8|8
 Filipe|M|8|8
 Francisco|M|8|8
-Helena|F|8|8
+Helena|F|8|mythological
 Miguel|M|8|8
 Mário|M|8|8
 Nuno|M|8|8
@@ -45,7 +45,7 @@ Teresa|F|7|7
 Adelaide|F|6|6
 Adelino|M|6|6
 Afonso|M|6|6
-Alexandra|F|6|6
+Alexandra|F|6|mythological
 Alexandre|M|6|6
 Alfredo|M|6|6
 Alice|F|6|6
@@ -123,7 +123,7 @@ Humberto|M|5|5
 Ilda|F|5|5
 Ilídio|M|5|5
 Inês|F|5|5
-Irene|F|5|5
+Irene|F|5|mythological
 Isaura|F|5|5
 Ivone|F|5|5
 Joaquina|F|5|5
@@ -256,7 +256,7 @@ Silvia|F|4|4
 Silvério|M|4|4
 Telmo|M|4|4
 Teodoro|M|4|4
-Tito|M|4|4
+Tito|M|4|mythological
 Valdemar|M|4|4
 Valentim|M|4|4
 Vera|F|4|4
@@ -291,7 +291,7 @@ Clarisse|F|3|3
 Clemente|M|3|3
 Cristino|M|3|3
 Cândido|M|3|3
-Diana|F|3|3
+Diana|F|3|mythological
 Dina|F|3|3
 Edite|F|3|3
 Emídio|M|3|3

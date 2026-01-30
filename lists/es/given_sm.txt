@@ -63,7 +63,7 @@ Rosario|F?|7|7
 Santiago|M|7|7
 Tomás|M|7|7
 Vicente|M|7|7
-Victoria|F|7|7
+Victoria|F|7|mythological
 Alfredo|M|6|6
 Alicia|F|6|6
 Amparo|F|6|6
@@ -88,7 +88,7 @@ Eva|F|6|6
 Felipe|M|6|6
 Felisa|F|6|6
 Gabriel|M|6|6
-Gloria|F|6|6
+Gloria|F|6|mythological
 Gonzalo|M|6|6
 Gregorio|M|6|6
 Guillermo|M|6|6

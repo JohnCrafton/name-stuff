@@ -31,7 +31,7 @@ Alexander|M|7|7
 Alon|M|7|7
 Amir|M|7|7
 Anat|F|7|7
-Anna|F|7|7
+Anna|F|7|mythological
 Ariel|M|7|7
 Aryeh|M|7|7
 Assaf|M|7|7

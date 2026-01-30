@@ -7,7 +7,7 @@ Giorgi|M|10|10
 Irakli|M|10|10
 Tamar|F|10|10
 Anahit|F|9|9
-Anna|F|9|9
+Anna|F|9|mythological
 Armen|M|9|9
 Ashot|M|9|9
 Ekaterine|F|9|9
@@ -24,7 +24,7 @@ Levon|M|9|9
 Maia|F|9|9
 Mariam|F|9|9
 Marina|F|9|9
-Nana|F|9|9
+Nana|F|9|mythological
 Natia|F|9|9
 Nigar|F|9|9
 Sergey|M|9|9
@@ -55,7 +55,7 @@ Guram|M|8|8
 Julietta|F|8|8
 Kakha|M|8|8
 Karen|M|8|8
-Lala|F|8|8
+Lala|F|8|mythological
 Lasha|M|8|8
 Laura|F|8|8
 Leyla|F|8|8
@@ -98,6 +98,6 @@ Alexander|M|7|7
 Ali|M|7|7
 Alla|F|7|7
 Andranik|M|7|7
-Ara|M|7|7
+Ara|M|7|mythological
 Arman|M|7|7
 Armine|F|7|7

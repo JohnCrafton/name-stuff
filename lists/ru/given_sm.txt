@@ -25,7 +25,7 @@ Andrej|M|10|10
 Andrey|M|10|10
 Dmitri|M|10|10
 Dmitry|M|10|10
-Ion|M|10|10
+Ion|M|10|mythological
 Irina|F|10|10
 Maria|F|10|10
 Natallia|F|10|10
@@ -48,7 +48,7 @@ Ana|F|9|9
 Anatoli|M|9|9
 Anatoliy|M|9|9
 Andriy|M|9|9
-Anna|F|9|9
+Anna|F|9|mythological
 Dmitriy|M|9|9
 Dumitru|M|9|9
 Dzmitry|M|9|9
@@ -92,7 +92,7 @@ Tetyana|F|9|9
 Valentina|F|9|9
 Valeri|M|9|9
 Valeriu|M|9|9
-Victoria|F|9|9
+Victoria|F|9|mythological
 Viktor|M|9|9
 Viktoria|F|9|9
 Vitali|M|9|9

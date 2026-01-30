@@ -25,7 +25,7 @@ Andrej|M|10|10
 Andrey|M|10|10
 Dmitri|M|10|10
 Dmitry|M|10|10
-Ion|M|10|10
+Ion|M|10|mythological
 Irina|F|10|10
 Maria|F|10|10
 Natallia|F|10|10
@@ -48,7 +48,7 @@ Ana|F|9|9
 Anatoli|M|9|9
 Anatoliy|M|9|9
 Andriy|M|9|9
-Anna|F|9|9
+Anna|F|9|mythological
 Dmitriy|M|9|9
 Dumitru|M|9|9
 Dzmitry|M|9|9
@@ -92,7 +92,7 @@ Tetyana|F|9|9
 Valentina|F|9|9
 Valeri|M|9|9
 Valeriu|M|9|9
-Victoria|F|9|9
+Victoria|F|9|mythological
 Viktor|M|9|9
 Viktoria|F|9|9
 Vitali|M|9|9
@@ -104,13 +104,13 @@ Yurij|M|9|9
 Yuriy|M|9|9
 Yury|M|9|9
 Aleksandra|F|8|8
-Alexandra|F|8|8
+Alexandra|F|8|mythological
 Alla|F|8|8
 Anastasia|F|8|8
 Anatolij|M|8|8
 Anatoly|M|8|8
 Andrij|M|8|8
-Anton|M|8|8
+Anton|M|8|mythological
 Boris|M|8|8
 Constantin|M|8|8
 Dmitrij|M|8|8
@@ -185,7 +185,7 @@ Angela|F|7|7
 Aurelia|F|7|7
 Cristina|F|7|7
 Denis|M|7|7
-Diana|F|7|7
+Diana|F|7|mythological
 Evgenia|F|7|7
 Evgenij|M|7|7
 Gennadi|M|7|7
@@ -203,7 +203,7 @@ Katerina|F|7|7
 Kristina|F|7|7
 Krystina|F|7|7
 Krystsina|F|7|7
-Larissa|F|7|7
+Larissa|F|7|mythological
 Larysa|F|7|7
 Lilia|F|7|7
 Ljudmila|F|7|7
@@ -342,10 +342,10 @@ Sofia|F|6|6
 Stanislau|M|6|6
 Stanislaw|M|6|6
 Stela|F|6|6
-Taras|M|6|6
+Taras|M|6|mythological
 Vadzim|M|6|6
 Valentyn|M|6|6
-Valeria|F|6|6
+Valeria|F|6|mythological
 Valerii|M|6|6
 Vasilij|M|6|6
 Vasiliy|M|6|6

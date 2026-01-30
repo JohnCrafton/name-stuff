@@ -25,7 +25,7 @@ Phuong|F?|10|10
 Quang|M?|10|10
 Quoc|M?|10|10
 Son|M?|10|10
-Tan|M?|10|10
+Tan|M?|10|mythological
 Thu|F?|10|10
 Thuy|F?|10|10
 Viet|M|10|10

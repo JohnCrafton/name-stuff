@@ -24,7 +24,7 @@ Petra|F|8|8
 René|M|8|8
 Rob|M|8|8
 Sandra|F|8|8
-Theo|M|8|8
+Theo|M|8|mythological
 Wim|M|8|8
 Yvonne|F|8|8
 André|M|7|7

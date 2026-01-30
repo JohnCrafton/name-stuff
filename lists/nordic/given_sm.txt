@@ -1,7 +1,7 @@
 # name-stuff given names
 # format: name|gender|frequency|tags
 #
-Anna|F|10|10
+Anna|F|10|mythological
 Erik|M|10|10
 Guðrún|F|10|10
 Juhani|M|10|10
@@ -14,7 +14,7 @@ Ann|F|9|9
 Anne|F|9|9
 Anneli|F|9|9
 Antero|M|9|9
-Arne|M|9|9
+Arne|M|9|mythological
 Bengt|M|9|9
 Birgitta|F|9|9
 Björg|F|9|9
@@ -30,10 +30,10 @@ Guðmundur|M|9|9
 Göran|M|9|9
 Hanne|F|9|9
 Hans|M|9|9
-Helena|F|9|9
+Helena|F|9|mythological
 Helga|F|9|9
 Helgi|M|9|9
-Helle|F|9|9
+Helle|F|9|mythological
 Henrik|M|9|9
 Ingi|M|9|9
 Ingibjörg|F|9|9

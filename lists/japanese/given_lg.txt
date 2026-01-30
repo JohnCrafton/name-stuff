@@ -273,7 +273,7 @@ Mitsuyo|F|5|5
 Momoko|F|5|5
 Nahoko|F|5|5
 Nami|F|5|5
-Nana|F|5|5
+Nana|F|5|mythological
 Nao|F|5|5
 Naoto|M|5|5
 Naoya|M|5|5

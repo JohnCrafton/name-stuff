@@ -19,7 +19,7 @@ Aldona|F|3|
 Aleksander|M|7|
 Aleksandra|F|8|
 Aleksy|M|3|
-Alexandra|F|2|
+Alexandra|F|2|mythological
 Alfred|M|4|
 Alfreda|F|1|
 Alicja|F|7|
@@ -33,14 +33,14 @@ Anetta|F|3|
 Ania|F|1|
 Aniela|F|5|
 Anita|F|4|
-Anna|F|11|
+Anna|F|11|mythological
 Annamaria|F|1|
 Antoni|M|4|
 Antonina|F|4|
 Apolonia|F|2|
 Apoloniusz|M|1|
 Arek|M|1|
-Areta|F|1|
+Areta|F|1|mythological
 Arkadiusz|M|5|
 Arkady|M|1|
 Arnold|M|2|
@@ -85,7 +85,7 @@ Daniela|F|3|
 Danuta|F|9|
 Dariusz|M|7|
 Dawid|M|5|
-Diana|F|2|
+Diana|F|2|mythological
 Dominik|M|3|
 Dominika|F|5|
 Dorata|F|2|
@@ -130,7 +130,7 @@ Halina|F|8|
 Halszka|F|3|
 Hanka|F|1|
 Hanna|F|5|
-Helena|F|6|
+Helena|F|6|mythological
 Henryk|M|7|
 Henryka|F|4|
 Hieronim|M|3|
@@ -205,7 +205,7 @@ Krzysztof|M|10|
 Lech|M|5|
 Lechosław|M|1|
 Leokadia|F|5|
-Leon|M|3|
+Leon|M|3|mythological
 Leonard|M|1|
 Leonarda|F|2|
 Leonia|F|1|
@@ -257,7 +257,7 @@ Miłowit|M|1|
 Monika|F|9|
 Narcyz|M|1|
 Natalia|F|4|
-Nestor|M|1|
+Nestor|M|1|mythological
 Nina|F|2|
 Oktawiusz|M|1|
 Olaf|M|2|

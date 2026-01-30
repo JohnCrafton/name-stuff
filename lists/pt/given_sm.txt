@@ -20,7 +20,7 @@ Augusto|M|8|8
 Conceição|F|8|8
 Filipe|M|8|8
 Francisco|M|8|8
-Helena|F|8|8
+Helena|F|8|mythological
 Miguel|M|8|8
 Mário|M|8|8
 Nuno|M|8|8
@@ -45,7 +45,7 @@ Teresa|F|7|7
 Adelaide|F|6|6
 Adelino|M|6|6
 Afonso|M|6|6
-Alexandra|F|6|6
+Alexandra|F|6|mythological
 Alexandre|M|6|6
 Alfredo|M|6|6
 Alice|F|6|6

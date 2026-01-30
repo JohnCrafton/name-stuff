@@ -53,7 +53,7 @@ Alexandr|M|7|7
 Alija|F|7|7
 Alisher|M|7|7
 Aliya|F|7|7
-Anna|F|7|7
+Anna|F|7|mythological
 Arman|M|7|7
 Arzu|F|7|7
 Askar|M|7|7
@@ -165,7 +165,7 @@ Cem|M|6|6
 Cemal|M|6|6
 Cemile|F|6|6
 Dauren|M|6|6
-Diana|F|6|6
+Diana|F|6|mythological
 Dilshod|M|6|6
 Dmitri|M|6|6
 Doğan|M|6|6
@@ -279,7 +279,7 @@ Ufuk|M|6|6
 Ulugbek|M|6|6
 Uğur|M|6|6
 Vadim|M|6|6
-Victoria|F|6|6
+Victoria|F|6|mythological
 Viktoria|F|6|6
 Vitaliy|M|6|6
 Volkan|M|6|6
@@ -323,7 +323,7 @@ Akmal|M|5|5
 Akmaral|F|5|5
 Albina|F|5|5
 Alev|F|5|5
-Alexandra|F|5|5
+Alexandra|F|5|mythological
 Alexei|M|5|5
 Alexej|M|5|5
 Alfija|F|5|5
@@ -343,7 +343,7 @@ Anastassija|F|5|5
 Anastassiya|F|5|5
 Andrei|M|5|5
 Anel|F|5|5
-Anton|M|5|5
+Anton|M|5|mythological
 Anvar|M|5|5
 Ardak|F|5|5
 Arif|M|5|5
@@ -491,7 +491,7 @@ Kuanysh|M|5|5
 Kuralay|F|5|5
 Kübra|F|5|5
 Lale|F|5|5
-Larissa|F|5|5
+Larissa|F|5|mythological
 Layla|F|5|5
 Leila|F|5|5
 Lilia|F|5|5
@@ -507,7 +507,7 @@ Lyubov|F|5|5
 Lyudmila|F|5|5
 Lütfiye|F|5|5
 Magomed|M|5|5
-Maira|F|5|5
+Maira|F|5|mythological
 Makbule|F|5|5
 Maksat|M|5|5
 Malika|F|5|5
@@ -624,14 +624,14 @@ Tekin|M|5|5
 Togzhan|F|5|5
 Tolga|M|5|5
 Tuba|F|5|5
-Turan|M|5|5
+Turan|M|5|mythological
 Turgay|M|5|5
 Tuğçe|F|5|5
 Tülin|F|5|5
 Umida|F|5|5
 Umut|M|5|5
 Valeri|M|5|5
-Valeria|F|5|5
+Valeria|F|5|mythological
 Valerij|M|5|5
 Valeriy|M|5|5
 Vedat|M|5|5
@@ -780,7 +780,7 @@ Darja|F|4|4
 Darya|F|4|4
 Davron|M|4|4
 Devrim|M|4|4
-Dias|M|4|4
+Dias|M|4|mythological
 Dilan|F|4|4
 Dildora|F|4|4
 Dilfuza|F|4|4

@@ -92,7 +92,7 @@ An+You|U|1|
 An+Yu|U|1|
 An+Zhen|U|1|
 Ang|U|2|
-Ao|U|3|
+Ao|U|3|mythological
 Ao+Shuang|U|1|
 Bai|U|3|
 Bai+Cheng|U|1|
@@ -3154,7 +3154,7 @@ Lue|U|1|
 Lun|U|2|
 Luo|U|3|
 Luo+Ping|U|1|
-Ma|U|1|
+Ma|U|1|mythological
 Ma+Li|U|1|
 Mai|U|2|
 Mai+Xian|U|1|
@@ -3290,7 +3290,7 @@ Miao+Ling|U|1|
 Miao+Miao|U|1|
 Miao+Xian|U|1|
 Miao+Zhen|U|1|
-Min|U|9|
+Min|U|9|mythological
 Min+Fang|U|1|
 Min+Feng|U|1|
 Min+Fu|U|1|
@@ -3491,7 +3491,7 @@ Nong|U|2|
 Nu|U|1|
 Nuo|U|2|
 Ou|U|3|
-Pan|U|3|
+Pan|U|3|mythological
 Pei|U|6|
 Pei+Chang|U|1|
 Pei+Chen|U|1|
@@ -4698,7 +4698,7 @@ Tai+Wang|U|1|
 Tai+Yin|U|1|
 Tai+Ying|U|1|
 Tai+Yu|U|1|
-Tan|U|3|
+Tan|U|3|mythological
 Tang|U|3|
 Tang+Bai|U|1|
 Tang+Bin|U|1|

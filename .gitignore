@@ -17,6 +17,10 @@ Thumbs.db
 *.zip
 *.xlsx
 
+# SSA baby names raw data (34MB+ uncompressed, download via sources/ssa-baby-names/README.md)
+sources/ssa-baby-names/*.txt
+sources/ssa-baby-names/*.pdf
+
 # Ruby
 *.gem
 .bundle/

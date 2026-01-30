@@ -89,7 +89,7 @@ This project uses GitHub's raw file hosting. Please use it responsibly:
 
 | Code | Name | Given Names | Family Names |
 |------|------|:-----------:|:------------:|
-| `en` | English | 5,071 | 162,254 |
+| `en` | English | 40,812 | 162,254 |
 | `de` | German | 5,738 | 50 |
 | `es` | Spanish | 1,645 | 153 |
 | `fr` | French | 2,565 | 79 |
@@ -200,17 +200,27 @@ name-stuff/
 
 ## Data Sources
 
-1. **Given Names:** Derived from [gender.c](http://www.heise.de/ct/ftp/07/17/182/) name dictionary
+1. **Given Names (International):** Derived from [gender.c](http://www.heise.de/ct/ftp/07/17/182/) name dictionary
    - Original: GNU Free Documentation License 1.2+
    - ~48,000 names across 54 countries with frequency data
 
-2. **US Surnames:** [US Census Bureau 2010](https://www.census.gov/topics/population/genealogy/data/2010_surnames.html)
+2. **Given Names (US):** [SSA Baby Names](https://www.ssa.gov/oact/babynames/)
+   - CC0 (Public Domain)
+   - 100,000+ names from 1880-present with yearly frequency data
+   - Provides era tagging (vintage/modern) based on peak usage decades
+
+3. **US Surnames:** [US Census Bureau 2010](https://www.census.gov/topics/population/genealogy/data/2010_surnames.html)
    - Public Domain (US Government work)
    - 162,254 surnames with frequency data
 
-3. **International Surnames:** [popular-names-by-country-dataset](https://github.com/sigpwned/popular-names-by-country-dataset)
+4. **International Surnames:** [popular-names-by-country-dataset](https://github.com/sigpwned/popular-names-by-country-dataset)
    - CC0 (Public Domain dedication)
    - 2,278 surnames from 75 countries
+
+5. **Mythology Names:** [Roscher's Lexicon Index](https://zenodo.org/records/11113695)
+   - CC0 (Public Domain)
+   - 7,600+ mythological names from Greek, Roman, Celtic, Norse, Egyptian, and other traditions
+   - Provides `mythological` tagging for matching names across all cultures
 
 ## Building
 
@@ -218,9 +228,11 @@ Requires Ruby 2.7+.
 
 ```bash
 # Parse source data
-ruby scripts/parse_given_names.rb
-ruby scripts/parse_census_surnames.rb
-ruby scripts/parse_international_surnames.rb
+ruby scripts/parse_given_names.rb           # International given names
+ruby scripts/parse_ssa_names.rb             # US SSA baby names (merges with en/given.txt)
+ruby scripts/parse_roscher_mythology.rb     # Mythology tagging from Roscher's Lexicon
+ruby scripts/parse_census_surnames.rb       # US Census surnames
+ruby scripts/parse_international_surnames.rb # International surnames
 
 # Generate all list tiers and formats
 ruby scripts/generate_lists.rb

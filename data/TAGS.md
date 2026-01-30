@@ -20,9 +20,14 @@ Thor|M|4|mythological,historical
 - `historical` - Names of notable historical figures
 - `literary` - Names from literature, film, or other media
 
+### Era Tags
+- `vintage` - Names that peaked in popularity 1880-1940 (e.g., Mildred, Edna, Clarence)
+- `modern` - Names that peaked in popularity 1980-present (e.g., Liam, Olivia, Madison)
+- (no tag) - "Classic" names with steady popularity across eras (e.g., James, William, Elizabeth)
+
 ### Usage Tags
 - `archaic` - Names no longer in common use
-- `modern` - Names that emerged recently
+- `diminutive` - Nicknames or shortened forms
 - `formal` - Full/formal versions of names
 - `diminutive` - Nicknames or shortened forms
 

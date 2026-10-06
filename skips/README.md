@@ -4,7 +4,7 @@ This directory contains names that have been flagged by the community for omissi
 
 ## Philosophy
 
-Names are deeply personal and cultural. While we aim to be comprehensive, we recognize that certain names may cause harm or offense when used in generated content. This is not censorship—the raw source data remains available—but rather a considered default for downstream consumers.
+Names are deeply personal and cultural. While we aim to be comprehensive, we recognize that certain names may cause harm or offense when used in generated content. This is not censorship:  the raw source data remains available—but rather a considered default for downstream consumers.
 
 ## Format
 
